@@ -1,0 +1,10 @@
+TransactionDate,TransactionType,TransactionTypeID,DocumentNumber,Posting,VendorName,VendorID,Memo,Split,SplitID,TransactionAmount
+6/28/2021,Bill,7018,F-Inv#062821,Yes,Xfinity - St. Frances,209,"F-Inv#062821 (July 2 - August 1, 2021)",2000 Accounts Payable,236,-Split-
+6/30/2021,Deposit,7004,NA,Yes,NA,NA,Maternity Deposit,1101.10 Cash:SJLSDR Operating Acct#2513:Church Available,447,-Split-
+6/30/2021,Deposit,7005,NA,Yes,NA,NA,St. Francis of Assisi Deposit,1101.10 Cash:SJLSDR Operating Acct#2513:Church Available,447,3012 Sunday and Holy Day Collections:Sunday Collection:Sunday Collection Envelopes
+6/30/2021,Deposit,7006,NA,Yes,NA,NA,St. Philomena Deposit,1101.10 Cash:SJLSDR Operating Acct#2513:Church Available,447,-Split-
+6/30/2021,Bill,7019,P-Inv#063021,Yes,Fr. Tom Florek,342,"P-Inv#063021 (Masses celebrated from June 1 - June 27, 2021)",2000 Accounts Payable,236,4012 Salaries:Extra Priests
+6/30/2021,Bill,7020,"M,F,P-Inv#063021",Yes,Franciscan Friars,134,"M,F,P-Inv#063021 (Masses celebrated from June 1 - June 27, 2021)",2000 Accounts Payable,236,-Split-
+6/30/2021,Bill,7021,P-Inv#063021,Yes,Fr. Michael Rossmann,8,"P-Inv#063021 (Masses celebrated from June 1 - June 27, 2021)",2000 Accounts Payable,236,4012 Salaries:Extra Priests
+6/30/2021,Bill,7022,M-Inv#17237652,Yes,Quill LLC,214,M-Inv#17237652 (Janitorial Supplies),2000 Accounts Payable,236,4459 Maintenance & Building Repairs:Janitorial Supplies
+6/30/2021,Journal Entry,7044,12,Yes,NA,NA,Bank Adjustment,NA,NA,-Split-

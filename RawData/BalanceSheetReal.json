@@ -1,0 +1,1913 @@
+{
+    "Header": {
+        "Time": "2021-07-13T13:59:37-07:00",
+        "ReportName": "BalanceSheet",
+        "ReportBasis": "Accrual",
+        "StartPeriod": "2021-06-28",
+        "EndPeriod": "2021-07-05",
+        "SummarizeColumnsBy": "Total",
+        "Currency": "USD",
+        "Option": [
+            {
+                "Name": "AccountingStandard",
+                "Value": "GAAP"
+            },
+            {
+                "Name": "NoReportData",
+                "Value": "false"
+            }
+        ]
+    },
+    "Columns": {
+        "Column": [
+            {
+                "ColTitle": "",
+                "ColType": "Account",
+                "MetaData": [
+                    {
+                        "Name": "ColKey",
+                        "Value": "account"
+                    }
+                ]
+            },
+            {
+                "ColTitle": "Total",
+                "ColType": "Money",
+                "MetaData": [
+                    {
+                        "Name": "ColKey",
+                        "Value": "total"
+                    }
+                ]
+            }
+        ]
+    },
+    "Rows": {
+        "Row": [
+            {
+                "Header": {
+                    "ColData": [
+                        {
+                            "value": "ASSETS"
+                        },
+                        {
+                            "value": ""
+                        }
+                    ]
+                },
+                "Rows": {
+                    "Row": [
+                        {
+                            "Header": {
+                                "ColData": [
+                                    {
+                                        "value": "Current Assets"
+                                    },
+                                    {
+                                        "value": ""
+                                    }
+                                ]
+                            },
+                            "Rows": {
+                                "Row": [
+                                    {
+                                        "Header": {
+                                            "ColData": [
+                                                {
+                                                    "value": "Bank Accounts"
+                                                },
+                                                {
+                                                    "value": ""
+                                                }
+                                            ]
+                                        },
+                                        "Rows": {
+                                            "Row": [
+                                                {
+                                                    "Header": {
+                                                        "ColData": [
+                                                            {
+                                                                "value": "1100 Cash",
+                                                                "id": "7"
+                                                            },
+                                                            {
+                                                                "value": ""
+                                                            }
+                                                        ]
+                                                    },
+                                                    "Rows": {
+                                                        "Row": [
+                                                            {
+                                                                "Header": {
+                                                                    "ColData": [
+                                                                        {
+                                                                            "value": "1101 SJLSDR Operating Acct#2513",
+                                                                            "id": "435"
+                                                                        },
+                                                                        {
+                                                                            "value": "0.00"
+                                                                        }
+                                                                    ]
+                                                                },
+                                                                "Rows": {
+                                                                    "Row": [
+                                                                        {
+                                                                            "ColData": [
+                                                                                {
+                                                                                    "value": "1101.10 Church Available",
+                                                                                    "id": "447"
+                                                                                },
+                                                                                {
+                                                                                    "value": "75828.88"
+                                                                                }
+                                                                            ],
+                                                                            "type": "Data"
+                                                                        },
+                                                                        {
+                                                                            "Header": {
+                                                                                "ColData": [
+                                                                                    {
+                                                                                        "value": "1101.20 Church Restricted",
+                                                                                        "id": "454"
+                                                                                    },
+                                                                                    {
+                                                                                        "value": ""
+                                                                                    }
+                                                                                ]
+                                                                            },
+                                                                            "Rows": {
+                                                                                "Row": [
+                                                                                    {
+                                                                                        "ColData": [
+                                                                                            {
+                                                                                                "value": "1101.23 School Support Rest.",
+                                                                                                "id": "467"
+                                                                                            },
+                                                                                            {
+                                                                                                "value": "2118.00"
+                                                                                            }
+                                                                                        ],
+                                                                                        "type": "Data"
+                                                                                    },
+                                                                                    {
+                                                                                        "ColData": [
+                                                                                            {
+                                                                                                "value": "1101.25 Church Restricted",
+                                                                                                "id": "462"
+                                                                                            },
+                                                                                            {
+                                                                                                "value": "10343.00"
+                                                                                            }
+                                                                                        ],
+                                                                                        "type": "Data"
+                                                                                    },
+                                                                                    {
+                                                                                        "ColData": [
+                                                                                            {
+                                                                                                "value": "1101.26 SBA-PPP Loan",
+                                                                                                "id": "457"
+                                                                                            },
+                                                                                            {
+                                                                                                "value": "18624.13"
+                                                                                            }
+                                                                                        ],
+                                                                                        "type": "Data"
+                                                                                    },
+                                                                                    {
+                                                                                        "ColData": [
+                                                                                            {
+                                                                                                "value": "1101.27 Food Pantry",
+                                                                                                "id": "465"
+                                                                                            },
+                                                                                            {
+                                                                                                "value": "8250.00"
+                                                                                            }
+                                                                                        ],
+                                                                                        "type": "Data"
+                                                                                    }
+                                                                                ]
+                                                                            },
+                                                                            "Summary": {
+                                                                                "ColData": [
+                                                                                    {
+                                                                                        "value": "Total 1101.20 Church Restricted"
+                                                                                    },
+                                                                                    {
+                                                                                        "value": "39335.13"
+                                                                                    }
+                                                                                ]
+                                                                            },
+                                                                            "type": "Section"
+                                                                        }
+                                                                    ]
+                                                                },
+                                                                "Summary": {
+                                                                    "ColData": [
+                                                                        {
+                                                                            "value": "Total 1101 SJLSDR Operating Acct#2513"
+                                                                        },
+                                                                        {
+                                                                            "value": "115164.01"
+                                                                        }
+                                                                    ]
+                                                                },
+                                                                "type": "Section"
+                                                            },
+                                                            {
+                                                                "Header": {
+                                                                    "ColData": [
+                                                                        {
+                                                                            "value": "1103 Maternity BVM School Acct#9809",
+                                                                            "id": "317"
+                                                                        },
+                                                                        {
+                                                                            "value": ""
+                                                                        }
+                                                                    ]
+                                                                },
+                                                                "Rows": {
+                                                                    "Row": [
+                                                                        {
+                                                                            "ColData": [
+                                                                                {
+                                                                                    "value": "1103.10 School Available",
+                                                                                    "id": "348"
+                                                                                },
+                                                                                {
+                                                                                    "value": "0.00"
+                                                                                }
+                                                                            ],
+                                                                            "type": "Data"
+                                                                        }
+                                                                    ]
+                                                                },
+                                                                "Summary": {
+                                                                    "ColData": [
+                                                                        {
+                                                                            "value": "Total 1103 Maternity BVM School Acct#9809"
+                                                                        },
+                                                                        {
+                                                                            "value": "0.00"
+                                                                        }
+                                                                    ]
+                                                                },
+                                                                "type": "Section"
+                                                            },
+                                                            {
+                                                                "Header": {
+                                                                    "ColData": [
+                                                                        {
+                                                                            "value": "1106 Old Maternity BVM Accounts",
+                                                                            "id": "344"
+                                                                        },
+                                                                        {
+                                                                            "value": ""
+                                                                        }
+                                                                    ]
+                                                                },
+                                                                "Rows": {
+                                                                    "Row": [
+                                                                        {
+                                                                            "Header": {
+                                                                                "ColData": [
+                                                                                    {
+                                                                                        "value": "1106.01 Maternity Operating Acct#0514",
+                                                                                        "id": "358"
+                                                                                    },
+                                                                                    {
+                                                                                        "value": ""
+                                                                                    }
+                                                                                ]
+                                                                            },
+                                                                            "Rows": {
+                                                                                "Row": [
+                                                                                    {
+                                                                                        "ColData": [
+                                                                                            {
+                                                                                                "value": "1106.02 Maternity Available",
+                                                                                                "id": "359"
+                                                                                            },
+                                                                                            {
+                                                                                                "value": "408.28"
+                                                                                            }
+                                                                                        ],
+                                                                                        "type": "Data"
+                                                                                    },
+                                                                                    {
+                                                                                        "ColData": [
+                                                                                            {
+                                                                                                "value": "1106.03 Maternity Restricted",
+                                                                                                "id": "360"
+                                                                                            },
+                                                                                            {
+                                                                                                "value": "0.00"
+                                                                                            }
+                                                                                        ],
+                                                                                        "type": "Data"
+                                                                                    }
+                                                                                ]
+                                                                            },
+                                                                            "Summary": {
+                                                                                "ColData": [
+                                                                                    {
+                                                                                        "value": "Total 1106.01 Maternity Operating Acct#0514"
+                                                                                    },
+                                                                                    {
+                                                                                        "value": "408.28"
+                                                                                    }
+                                                                                ]
+                                                                            },
+                                                                            "type": "Section"
+                                                                        }
+                                                                    ]
+                                                                },
+                                                                "Summary": {
+                                                                    "ColData": [
+                                                                        {
+                                                                            "value": "Total 1106 Old Maternity BVM Accounts"
+                                                                        },
+                                                                        {
+                                                                            "value": "408.28"
+                                                                        }
+                                                                    ]
+                                                                },
+                                                                "type": "Section"
+                                                            },
+                                                            {
+                                                                "Header": {
+                                                                    "ColData": [
+                                                                        {
+                                                                            "value": "1107 Old St. Francis Bank Accounts",
+                                                                            "id": "345"
+                                                                        },
+                                                                        {
+                                                                            "value": ""
+                                                                        }
+                                                                    ]
+                                                                },
+                                                                "Rows": {
+                                                                    "Row": [
+                                                                        {
+                                                                            "ColData": [
+                                                                                {
+                                                                                    "value": "1107.01 St. Francis of Assisi Oper#3710",
+                                                                                    "id": "347"
+                                                                                },
+                                                                                {
+                                                                                    "value": "2220.35"
+                                                                                }
+                                                                            ],
+                                                                            "type": "Data"
+                                                                        }
+                                                                    ]
+                                                                },
+                                                                "Summary": {
+                                                                    "ColData": [
+                                                                        {
+                                                                            "value": "Total 1107 Old St. Francis Bank Accounts"
+                                                                        },
+                                                                        {
+                                                                            "value": "2220.35"
+                                                                        }
+                                                                    ]
+                                                                },
+                                                                "type": "Section"
+                                                            },
+                                                            {
+                                                                "Header": {
+                                                                    "ColData": [
+                                                                        {
+                                                                            "value": "1108 Old St. Philomena Bank Accounts",
+                                                                            "id": "346"
+                                                                        },
+                                                                        {
+                                                                            "value": ""
+                                                                        }
+                                                                    ]
+                                                                },
+                                                                "Rows": {
+                                                                    "Row": [
+                                                                        {
+                                                                            "ColData": [
+                                                                                {
+                                                                                    "value": "1108.01 St. Philomena Oper. #5302",
+                                                                                    "id": "361"
+                                                                                },
+                                                                                {
+                                                                                    "value": "0.00"
+                                                                                }
+                                                                            ],
+                                                                            "type": "Data"
+                                                                        },
+                                                                        {
+                                                                            "ColData": [
+                                                                                {
+                                                                                    "value": "1108.02 St. Philomena Coin #6844",
+                                                                                    "id": "362"
+                                                                                },
+                                                                                {
+                                                                                    "value": "2761.34"
+                                                                                }
+                                                                            ],
+                                                                            "type": "Data"
+                                                                        },
+                                                                        {
+                                                                            "ColData": [
+                                                                                {
+                                                                                    "value": "1108.03 St. Philomena Payroll #7191",
+                                                                                    "id": "363"
+                                                                                },
+                                                                                {
+                                                                                    "value": "0.00"
+                                                                                }
+                                                                            ],
+                                                                            "type": "Data"
+                                                                        }
+                                                                    ]
+                                                                },
+                                                                "Summary": {
+                                                                    "ColData": [
+                                                                        {
+                                                                            "value": "Total 1108 Old St. Philomena Bank Accounts"
+                                                                        },
+                                                                        {
+                                                                            "value": "2761.34"
+                                                                        }
+                                                                    ]
+                                                                },
+                                                                "type": "Section"
+                                                            },
+                                                            {
+                                                                "Header": {
+                                                                    "ColData": [
+                                                                        {
+                                                                            "value": "1130 Auxiliary Accounts",
+                                                                            "id": "182"
+                                                                        },
+                                                                        {
+                                                                            "value": ""
+                                                                        }
+                                                                    ]
+                                                                },
+                                                                "Rows": {
+                                                                    "Row": [
+                                                                        {
+                                                                            "Header": {
+                                                                                "ColData": [
+                                                                                    {
+                                                                                        "value": "1133 St. Francis of Assisi Auxiliary",
+                                                                                        "id": "401"
+                                                                                    },
+                                                                                    {
+                                                                                        "value": ""
+                                                                                    }
+                                                                                ]
+                                                                            },
+                                                                            "Rows": {
+                                                                                "Row": [
+                                                                                    {
+                                                                                        "ColData": [
+                                                                                            {
+                                                                                                "value": "1133.01 SFA Catholic in Action #3877",
+                                                                                                "id": "434"
+                                                                                            },
+                                                                                            {
+                                                                                                "value": "1583.90"
+                                                                                            }
+                                                                                        ],
+                                                                                        "type": "Data"
+                                                                                    }
+                                                                                ]
+                                                                            },
+                                                                            "Summary": {
+                                                                                "ColData": [
+                                                                                    {
+                                                                                        "value": "Total 1133 St. Francis of Assisi Auxiliary"
+                                                                                    },
+                                                                                    {
+                                                                                        "value": "1583.90"
+                                                                                    }
+                                                                                ]
+                                                                            },
+                                                                            "type": "Section"
+                                                                        }
+                                                                    ]
+                                                                },
+                                                                "Summary": {
+                                                                    "ColData": [
+                                                                        {
+                                                                            "value": "Total 1130 Auxiliary Accounts"
+                                                                        },
+                                                                        {
+                                                                            "value": "1583.90"
+                                                                        }
+                                                                    ]
+                                                                },
+                                                                "type": "Section"
+                                                            }
+                                                        ]
+                                                    },
+                                                    "Summary": {
+                                                        "ColData": [
+                                                            {
+                                                                "value": "Total 1100 Cash"
+                                                            },
+                                                            {
+                                                                "value": "122137.88"
+                                                            }
+                                                        ]
+                                                    },
+                                                    "type": "Section"
+                                                },
+                                                {
+                                                    "Header": {
+                                                        "ColData": [
+                                                            {
+                                                                "value": "1200 Oper. Savings at the Arch Bank",
+                                                                "id": "8"
+                                                            },
+                                                            {
+                                                                "value": ""
+                                                            }
+                                                        ]
+                                                    },
+                                                    "Rows": {
+                                                        "Row": [
+                                                            {
+                                                                "Header": {
+                                                                    "ColData": [
+                                                                        {
+                                                                            "value": "1201 Regular Operating Savings",
+                                                                            "id": "9"
+                                                                        },
+                                                                        {
+                                                                            "value": ""
+                                                                        }
+                                                                    ]
+                                                                },
+                                                                "Rows": {
+                                                                    "Row": [
+                                                                        {
+                                                                            "ColData": [
+                                                                                {
+                                                                                    "value": "1201.01 Maternity BVM #702970201",
+                                                                                    "id": "368"
+                                                                                },
+                                                                                {
+                                                                                    "value": "0.00"
+                                                                                }
+                                                                            ],
+                                                                            "type": "Data"
+                                                                        },
+                                                                        {
+                                                                            "ColData": [
+                                                                                {
+                                                                                    "value": "1201.02 St. Philomena #703790201",
+                                                                                    "id": "372"
+                                                                                },
+                                                                                {
+                                                                                    "value": "41957.24"
+                                                                                }
+                                                                            ],
+                                                                            "type": "Data"
+                                                                        },
+                                                                        {
+                                                                            "ColData": [
+                                                                                {
+                                                                                    "value": "1201.03 Maternity BVM School #402970201",
+                                                                                    "id": "397"
+                                                                                },
+                                                                                {
+                                                                                    "value": "0.00"
+                                                                                }
+                                                                            ],
+                                                                            "type": "Data"
+                                                                        },
+                                                                        {
+                                                                            "ColData": [
+                                                                                {
+                                                                                    "value": "1201.04 SJLSDR Savings #704155201",
+                                                                                    "id": "407"
+                                                                                },
+                                                                                {
+                                                                                    "value": "2855.18"
+                                                                                }
+                                                                            ],
+                                                                            "type": "Data"
+                                                                        }
+                                                                    ]
+                                                                },
+                                                                "Summary": {
+                                                                    "ColData": [
+                                                                        {
+                                                                            "value": "Total 1201 Regular Operating Savings"
+                                                                        },
+                                                                        {
+                                                                            "value": "44812.42"
+                                                                        }
+                                                                    ]
+                                                                },
+                                                                "type": "Section"
+                                                            },
+                                                            {
+                                                                "Header": {
+                                                                    "ColData": [
+                                                                        {
+                                                                            "value": "1210 Certificates of Deposit",
+                                                                            "id": "10"
+                                                                        },
+                                                                        {
+                                                                            "value": ""
+                                                                        }
+                                                                    ]
+                                                                },
+                                                                "Rows": {
+                                                                    "Row": [
+                                                                        {
+                                                                            "ColData": [
+                                                                                {
+                                                                                    "value": "1211 90 Day CD-Operating Savings",
+                                                                                    "id": "11"
+                                                                                },
+                                                                                {
+                                                                                    "value": "938587.48"
+                                                                                }
+                                                                            ],
+                                                                            "type": "Data"
+                                                                        }
+                                                                    ]
+                                                                },
+                                                                "Summary": {
+                                                                    "ColData": [
+                                                                        {
+                                                                            "value": "Total 1210 Certificates of Deposit"
+                                                                        },
+                                                                        {
+                                                                            "value": "938587.48"
+                                                                        }
+                                                                    ]
+                                                                },
+                                                                "type": "Section"
+                                                            },
+                                                            {
+                                                                "Header": {
+                                                                    "ColData": [
+                                                                        {
+                                                                            "value": "1240 Stock Savings Account",
+                                                                            "id": "294"
+                                                                        },
+                                                                        {
+                                                                            "value": ""
+                                                                        }
+                                                                    ]
+                                                                },
+                                                                "Rows": {
+                                                                    "Row": [
+                                                                        {
+                                                                            "ColData": [
+                                                                                {
+                                                                                    "value": "1240.03 St. Philomena #703790250",
+                                                                                    "id": "369"
+                                                                                },
+                                                                                {
+                                                                                    "value": "5837.90"
+                                                                                }
+                                                                            ],
+                                                                            "type": "Data"
+                                                                        }
+                                                                    ]
+                                                                },
+                                                                "Summary": {
+                                                                    "ColData": [
+                                                                        {
+                                                                            "value": "Total 1240 Stock Savings Account"
+                                                                        },
+                                                                        {
+                                                                            "value": "5837.90"
+                                                                        }
+                                                                    ]
+                                                                },
+                                                                "type": "Section"
+                                                            },
+                                                            {
+                                                                "Header": {
+                                                                    "ColData": [
+                                                                        {
+                                                                            "value": "1260 TTWCI Savings Account",
+                                                                            "id": "323"
+                                                                        },
+                                                                        {
+                                                                            "value": ""
+                                                                        }
+                                                                    ]
+                                                                },
+                                                                "Rows": {
+                                                                    "Row": [
+                                                                        {
+                                                                            "ColData": [
+                                                                                {
+                                                                                    "value": "1260.01 Maternity BVM TTWCI",
+                                                                                    "id": "350"
+                                                                                },
+                                                                                {
+                                                                                    "value": "50801.63"
+                                                                                }
+                                                                            ],
+                                                                            "type": "Data"
+                                                                        },
+                                                                        {
+                                                                            "ColData": [
+                                                                                {
+                                                                                    "value": "1260.02 St. Francis of Assisi TTWCI",
+                                                                                    "id": "351"
+                                                                                },
+                                                                                {
+                                                                                    "value": "4668.66"
+                                                                                }
+                                                                            ],
+                                                                            "type": "Data"
+                                                                        },
+                                                                        {
+                                                                            "ColData": [
+                                                                                {
+                                                                                    "value": "1260.03 St. Philomena TTWCI",
+                                                                                    "id": "352"
+                                                                                },
+                                                                                {
+                                                                                    "value": "6044.29"
+                                                                                }
+                                                                            ],
+                                                                            "type": "Data"
+                                                                        }
+                                                                    ]
+                                                                },
+                                                                "Summary": {
+                                                                    "ColData": [
+                                                                        {
+                                                                            "value": "Total 1260 TTWCI Savings Account"
+                                                                        },
+                                                                        {
+                                                                            "value": "61514.58"
+                                                                        }
+                                                                    ]
+                                                                },
+                                                                "type": "Section"
+                                                            }
+                                                        ]
+                                                    },
+                                                    "Summary": {
+                                                        "ColData": [
+                                                            {
+                                                                "value": "Total 1200 Oper. Savings at the Arch Bank"
+                                                            },
+                                                            {
+                                                                "value": "1050752.38"
+                                                            }
+                                                        ]
+                                                    },
+                                                    "type": "Section"
+                                                },
+                                                {
+                                                    "Header": {
+                                                        "ColData": [
+                                                            {
+                                                                "value": "1300 Long-Term/Restricted Savings",
+                                                                "id": "14"
+                                                            },
+                                                            {
+                                                                "value": ""
+                                                            }
+                                                        ]
+                                                    },
+                                                    "Rows": {
+                                                        "Row": [
+                                                            {
+                                                                "Header": {
+                                                                    "ColData": [
+                                                                        {
+                                                                            "value": "1301 Building Fund Savings",
+                                                                            "id": "175"
+                                                                        },
+                                                                        {
+                                                                            "value": ""
+                                                                        }
+                                                                    ]
+                                                                },
+                                                                "Rows": {
+                                                                    "Row": [
+                                                                        {
+                                                                            "ColData": [
+                                                                                {
+                                                                                    "value": "1301.01 Maternity BVM #702970204",
+                                                                                    "id": "364"
+                                                                                },
+                                                                                {
+                                                                                    "value": "0.00"
+                                                                                }
+                                                                            ],
+                                                                            "type": "Data"
+                                                                        },
+                                                                        {
+                                                                            "ColData": [
+                                                                                {
+                                                                                    "value": "1301.02 St. Francis #701351204",
+                                                                                    "id": "365"
+                                                                                },
+                                                                                {
+                                                                                    "value": "0.00"
+                                                                                }
+                                                                            ],
+                                                                            "type": "Data"
+                                                                        },
+                                                                        {
+                                                                            "ColData": [
+                                                                                {
+                                                                                    "value": "1301.03 St. Philomena #703790204",
+                                                                                    "id": "366"
+                                                                                },
+                                                                                {
+                                                                                    "value": "42410.03"
+                                                                                }
+                                                                            ],
+                                                                            "type": "Data"
+                                                                        }
+                                                                    ]
+                                                                },
+                                                                "Summary": {
+                                                                    "ColData": [
+                                                                        {
+                                                                            "value": "Total 1301 Building Fund Savings"
+                                                                        },
+                                                                        {
+                                                                            "value": "42410.03"
+                                                                        }
+                                                                    ]
+                                                                },
+                                                                "type": "Section"
+                                                            }
+                                                        ]
+                                                    },
+                                                    "Summary": {
+                                                        "ColData": [
+                                                            {
+                                                                "value": "Total 1300 Long-Term/Restricted Savings"
+                                                            },
+                                                            {
+                                                                "value": "42410.03"
+                                                            }
+                                                        ]
+                                                    },
+                                                    "type": "Section"
+                                                },
+                                                {
+                                                    "Header": {
+                                                        "ColData": [
+                                                            {
+                                                                "value": "1400 Endowment & Spc Investment Sav",
+                                                                "id": "267"
+                                                            },
+                                                            {
+                                                                "value": ""
+                                                            }
+                                                        ]
+                                                    },
+                                                    "Rows": {
+                                                        "Row": [
+                                                            {
+                                                                "Header": {
+                                                                    "ColData": [
+                                                                        {
+                                                                            "value": "1410 Parish Education Endowment Fund",
+                                                                            "id": "370"
+                                                                        },
+                                                                        {
+                                                                            "value": ""
+                                                                        }
+                                                                    ]
+                                                                },
+                                                                "Rows": {
+                                                                    "Row": [
+                                                                        {
+                                                                            "ColData": [
+                                                                                {
+                                                                                    "value": "1410.01 Maternity BVM #702970211",
+                                                                                    "id": "431"
+                                                                                },
+                                                                                {
+                                                                                    "value": "0.00"
+                                                                                }
+                                                                            ],
+                                                                            "type": "Data"
+                                                                        }
+                                                                    ]
+                                                                },
+                                                                "Summary": {
+                                                                    "ColData": [
+                                                                        {
+                                                                            "value": "Total 1410 Parish Education Endowment Fund"
+                                                                        },
+                                                                        {
+                                                                            "value": "0.00"
+                                                                        }
+                                                                    ]
+                                                                },
+                                                                "type": "Section"
+                                                            },
+                                                            {
+                                                                "Header": {
+                                                                    "ColData": [
+                                                                        {
+                                                                            "value": "1430 Balanced Mutual Fund",
+                                                                            "id": "269"
+                                                                        },
+                                                                        {
+                                                                            "value": ""
+                                                                        }
+                                                                    ]
+                                                                },
+                                                                "Rows": {
+                                                                    "Row": [
+                                                                        {
+                                                                            "ColData": [
+                                                                                {
+                                                                                    "value": "1430.01 St Francis Fixed #701351230",
+                                                                                    "id": "371"
+                                                                                },
+                                                                                {
+                                                                                    "value": "24522.22"
+                                                                                }
+                                                                            ],
+                                                                            "type": "Data"
+                                                                        }
+                                                                    ]
+                                                                },
+                                                                "Summary": {
+                                                                    "ColData": [
+                                                                        {
+                                                                            "value": "Total 1430 Balanced Mutual Fund"
+                                                                        },
+                                                                        {
+                                                                            "value": "24522.22"
+                                                                        }
+                                                                    ]
+                                                                },
+                                                                "type": "Section"
+                                                            }
+                                                        ]
+                                                    },
+                                                    "Summary": {
+                                                        "ColData": [
+                                                            {
+                                                                "value": "Total 1400 Endowment & Spc Investment Sav"
+                                                            },
+                                                            {
+                                                                "value": "24522.22"
+                                                            }
+                                                        ]
+                                                    },
+                                                    "type": "Section"
+                                                }
+                                            ]
+                                        },
+                                        "Summary": {
+                                            "ColData": [
+                                                {
+                                                    "value": "Total Bank Accounts"
+                                                },
+                                                {
+                                                    "value": "1239822.51"
+                                                }
+                                            ]
+                                        },
+                                        "type": "Section",
+                                        "group": "BankAccounts"
+                                    },
+                                    {
+                                        "Header": {
+                                            "ColData": [
+                                                {
+                                                    "value": "Accounts Receivable"
+                                                },
+                                                {
+                                                    "value": ""
+                                                }
+                                            ]
+                                        },
+                                        "Rows": {
+                                            "Row": [
+                                                {
+                                                    "Header": {
+                                                        "ColData": [
+                                                            {
+                                                                "value": "1500 Receivables",
+                                                                "id": "274"
+                                                            },
+                                                            {
+                                                                "value": ""
+                                                            }
+                                                        ]
+                                                    },
+                                                    "Rows": {
+                                                        "Row": [
+                                                            {
+                                                                "ColData": [
+                                                                    {
+                                                                        "value": "1501 Parish Receivables",
+                                                                        "id": "445"
+                                                                    },
+                                                                    {
+                                                                        "value": "0.00"
+                                                                    }
+                                                                ],
+                                                                "type": "Data"
+                                                            }
+                                                        ]
+                                                    },
+                                                    "Summary": {
+                                                        "ColData": [
+                                                            {
+                                                                "value": "Total 1500 Receivables"
+                                                            },
+                                                            {
+                                                                "value": "0.00"
+                                                            }
+                                                        ]
+                                                    },
+                                                    "type": "Section"
+                                                }
+                                            ]
+                                        },
+                                        "Summary": {
+                                            "ColData": [
+                                                {
+                                                    "value": "Total Accounts Receivable"
+                                                },
+                                                {
+                                                    "value": "0.00"
+                                                }
+                                            ]
+                                        },
+                                        "type": "Section",
+                                        "group": "AR"
+                                    },
+                                    {
+                                        "Header": {
+                                            "ColData": [
+                                                {
+                                                    "value": "Other Current Assets"
+                                                },
+                                                {
+                                                    "value": ""
+                                                }
+                                            ]
+                                        },
+                                        "Rows": {
+                                            "Row": [
+                                                {
+                                                    "Header": {
+                                                        "ColData": [
+                                                            {
+                                                                "value": "1600 Other Current Assets",
+                                                                "id": "256"
+                                                            },
+                                                            {
+                                                                "value": ""
+                                                            }
+                                                        ]
+                                                    },
+                                                    "Rows": {
+                                                        "Row": [
+                                                            {
+                                                                "ColData": [
+                                                                    {
+                                                                        "value": "1603 Other Current Assets",
+                                                                        "id": "282"
+                                                                    },
+                                                                    {
+                                                                        "value": "0.00"
+                                                                    }
+                                                                ],
+                                                                "type": "Data"
+                                                            },
+                                                            {
+                                                                "ColData": [
+                                                                    {
+                                                                        "value": "1615 Funds in Transit- 3rd PS",
+                                                                        "id": "326"
+                                                                    },
+                                                                    {
+                                                                        "value": "0.00"
+                                                                    }
+                                                                ],
+                                                                "type": "Data"
+                                                            }
+                                                        ]
+                                                    },
+                                                    "Summary": {
+                                                        "ColData": [
+                                                            {
+                                                                "value": "Total 1600 Other Current Assets"
+                                                            },
+                                                            {
+                                                                "value": "0.00"
+                                                            }
+                                                        ]
+                                                    },
+                                                    "type": "Section"
+                                                }
+                                            ]
+                                        },
+                                        "Summary": {
+                                            "ColData": [
+                                                {
+                                                    "value": "Total Other Current Assets"
+                                                },
+                                                {
+                                                    "value": "0.00"
+                                                }
+                                            ]
+                                        },
+                                        "type": "Section",
+                                        "group": "OtherCurrentAssets"
+                                    }
+                                ]
+                            },
+                            "Summary": {
+                                "ColData": [
+                                    {
+                                        "value": "Total Current Assets"
+                                    },
+                                    {
+                                        "value": "1239822.51"
+                                    }
+                                ]
+                            },
+                            "type": "Section",
+                            "group": "CurrentAssets"
+                        }
+                    ]
+                },
+                "Summary": {
+                    "ColData": [
+                        {
+                            "value": "TOTAL ASSETS"
+                        },
+                        {
+                            "value": "1239822.51"
+                        }
+                    ]
+                },
+                "type": "Section",
+                "group": "TotalAssets"
+            },
+            {
+                "Header": {
+                    "ColData": [
+                        {
+                            "value": "LIABILITIES AND EQUITY"
+                        },
+                        {
+                            "value": ""
+                        }
+                    ]
+                },
+                "Rows": {
+                    "Row": [
+                        {
+                            "Header": {
+                                "ColData": [
+                                    {
+                                        "value": "Liabilities"
+                                    },
+                                    {
+                                        "value": ""
+                                    }
+                                ]
+                            },
+                            "Rows": {
+                                "Row": [
+                                    {
+                                        "Header": {
+                                            "ColData": [
+                                                {
+                                                    "value": "Current Liabilities"
+                                                },
+                                                {
+                                                    "value": ""
+                                                }
+                                            ]
+                                        },
+                                        "Rows": {
+                                            "Row": [
+                                                {
+                                                    "Header": {
+                                                        "ColData": [
+                                                            {
+                                                                "value": "Accounts Payable"
+                                                            },
+                                                            {
+                                                                "value": ""
+                                                            }
+                                                        ]
+                                                    },
+                                                    "Rows": {
+                                                        "Row": [
+                                                            {
+                                                                "ColData": [
+                                                                    {
+                                                                        "value": "2000 Accounts Payable",
+                                                                        "id": "236"
+                                                                    },
+                                                                    {
+                                                                        "value": "48145.52"
+                                                                    }
+                                                                ],
+                                                                "type": "Data"
+                                                            }
+                                                        ]
+                                                    },
+                                                    "Summary": {
+                                                        "ColData": [
+                                                            {
+                                                                "value": "Total Accounts Payable"
+                                                            },
+                                                            {
+                                                                "value": "48145.52"
+                                                            }
+                                                        ]
+                                                    },
+                                                    "type": "Section",
+                                                    "group": "AP"
+                                                },
+                                                {
+                                                    "Header": {
+                                                        "ColData": [
+                                                            {
+                                                                "value": "Credit Cards"
+                                                            },
+                                                            {
+                                                                "value": ""
+                                                            }
+                                                        ]
+                                                    },
+                                                    "Rows": {
+                                                        "Row": [
+                                                            {
+                                                                "ColData": [
+                                                                    {
+                                                                        "value": "2010 Procurement Card Payable",
+                                                                        "id": "293"
+                                                                    },
+                                                                    {
+                                                                        "value": "0.00"
+                                                                    }
+                                                                ],
+                                                                "type": "Data"
+                                                            }
+                                                        ]
+                                                    },
+                                                    "Summary": {
+                                                        "ColData": [
+                                                            {
+                                                                "value": "Total Credit Cards"
+                                                            },
+                                                            {
+                                                                "value": "0.00"
+                                                            }
+                                                        ]
+                                                    },
+                                                    "type": "Section",
+                                                    "group": "CreditCards"
+                                                },
+                                                {
+                                                    "Header": {
+                                                        "ColData": [
+                                                            {
+                                                                "value": "Other Current Liabilities"
+                                                            },
+                                                            {
+                                                                "value": ""
+                                                            }
+                                                        ]
+                                                    },
+                                                    "Rows": {
+                                                        "Row": [
+                                                            {
+                                                                "Header": {
+                                                                    "ColData": [
+                                                                        {
+                                                                            "value": "2100 Liabilities",
+                                                                            "id": "15"
+                                                                        },
+                                                                        {
+                                                                            "value": ""
+                                                                        }
+                                                                    ]
+                                                                },
+                                                                "Rows": {
+                                                                    "Row": [
+                                                                        {
+                                                                            "ColData": [
+                                                                                {
+                                                                                    "value": "2140 Accrued Payroll",
+                                                                                    "id": "400"
+                                                                                },
+                                                                                {
+                                                                                    "value": "0.00"
+                                                                                }
+                                                                            ],
+                                                                            "type": "Data"
+                                                                        }
+                                                                    ]
+                                                                },
+                                                                "Summary": {
+                                                                    "ColData": [
+                                                                        {
+                                                                            "value": "Total 2100 Liabilities"
+                                                                        },
+                                                                        {
+                                                                            "value": "0.00"
+                                                                        }
+                                                                    ]
+                                                                },
+                                                                "type": "Section"
+                                                            },
+                                                            {
+                                                                "Header": {
+                                                                    "ColData": [
+                                                                        {
+                                                                            "value": "2200 Other Payroll Withholdings",
+                                                                            "id": "17"
+                                                                        },
+                                                                        {
+                                                                            "value": ""
+                                                                        }
+                                                                    ]
+                                                                },
+                                                                "Rows": {
+                                                                    "Row": [
+                                                                        {
+                                                                            "ColData": [
+                                                                                {
+                                                                                    "value": "2204 Employee Health Ins. Withheld",
+                                                                                    "id": "18"
+                                                                                },
+                                                                                {
+                                                                                    "value": "-54.00"
+                                                                                }
+                                                                            ],
+                                                                            "type": "Data"
+                                                                        },
+                                                                        {
+                                                                            "ColData": [
+                                                                                {
+                                                                                    "value": "2205 Employee Dental Ins. Co-Pay",
+                                                                                    "id": "19"
+                                                                                },
+                                                                                {
+                                                                                    "value": "-38.50"
+                                                                                }
+                                                                            ],
+                                                                            "type": "Data"
+                                                                        }
+                                                                    ]
+                                                                },
+                                                                "Summary": {
+                                                                    "ColData": [
+                                                                        {
+                                                                            "value": "Total 2200 Other Payroll Withholdings"
+                                                                        },
+                                                                        {
+                                                                            "value": "-92.50"
+                                                                        }
+                                                                    ]
+                                                                },
+                                                                "type": "Section"
+                                                            },
+                                                            {
+                                                                "Header": {
+                                                                    "ColData": [
+                                                                        {
+                                                                            "value": "2300 Archdiocesan Obligations",
+                                                                            "id": "278"
+                                                                        },
+                                                                        {
+                                                                            "value": ""
+                                                                        }
+                                                                    ]
+                                                                },
+                                                                "Rows": {
+                                                                    "Row": [
+                                                                        {
+                                                                            "Header": {
+                                                                                "ColData": [
+                                                                                    {
+                                                                                        "value": "2313 Principal/Interest Due on Loan",
+                                                                                        "id": "279"
+                                                                                    },
+                                                                                    {
+                                                                                        "value": ""
+                                                                                    }
+                                                                                ]
+                                                                            },
+                                                                            "Rows": {
+                                                                                "Row": [
+                                                                                    {
+                                                                                        "ColData": [
+                                                                                            {
+                                                                                                "value": "2313.71 Maternity Church FY15 A/R Prin",
+                                                                                                "id": "398"
+                                                                                            },
+                                                                                            {
+                                                                                                "value": "19337.15"
+                                                                                            }
+                                                                                        ],
+                                                                                        "type": "Data"
+                                                                                    },
+                                                                                    {
+                                                                                        "ColData": [
+                                                                                            {
+                                                                                                "value": "2313.72 Maternity School FY18 A/R Prin",
+                                                                                                "id": "399"
+                                                                                            },
+                                                                                            {
+                                                                                                "value": "0.00"
+                                                                                            }
+                                                                                        ],
+                                                                                        "type": "Data"
+                                                                                    },
+                                                                                    {
+                                                                                        "ColData": [
+                                                                                            {
+                                                                                                "value": "2313.73 Maternity Prin #402970144",
+                                                                                                "id": "375"
+                                                                                            },
+                                                                                            {
+                                                                                                "value": "0.00"
+                                                                                            }
+                                                                                        ],
+                                                                                        "type": "Data"
+                                                                                    },
+                                                                                    {
+                                                                                        "ColData": [
+                                                                                            {
+                                                                                                "value": "2313.74 Maternity Int #402970144",
+                                                                                                "id": "376"
+                                                                                            },
+                                                                                            {
+                                                                                                "value": "0.00"
+                                                                                            }
+                                                                                        ],
+                                                                                        "type": "Data"
+                                                                                    },
+                                                                                    {
+                                                                                        "ColData": [
+                                                                                            {
+                                                                                                "value": "2313.75 Maternity Prin #402970149",
+                                                                                                "id": "377"
+                                                                                            },
+                                                                                            {
+                                                                                                "value": "0.00"
+                                                                                            }
+                                                                                        ],
+                                                                                        "type": "Data"
+                                                                                    },
+                                                                                    {
+                                                                                        "ColData": [
+                                                                                            {
+                                                                                                "value": "2313.76 Maternity Int #402970149",
+                                                                                                "id": "378"
+                                                                                            },
+                                                                                            {
+                                                                                                "value": "0.00"
+                                                                                            }
+                                                                                        ],
+                                                                                        "type": "Data"
+                                                                                    },
+                                                                                    {
+                                                                                        "ColData": [
+                                                                                            {
+                                                                                                "value": "2313.78 Maternity Int #702970124",
+                                                                                                "id": "379"
+                                                                                            },
+                                                                                            {
+                                                                                                "value": "12773.51"
+                                                                                            }
+                                                                                        ],
+                                                                                        "type": "Data"
+                                                                                    },
+                                                                                    {
+                                                                                        "ColData": [
+                                                                                            {
+                                                                                                "value": "2313.79 Maternity Prin #702970128",
+                                                                                                "id": "380"
+                                                                                            },
+                                                                                            {
+                                                                                                "value": "25000.00"
+                                                                                            }
+                                                                                        ],
+                                                                                        "type": "Data"
+                                                                                    },
+                                                                                    {
+                                                                                        "ColData": [
+                                                                                            {
+                                                                                                "value": "2313.80 Maternity Int #702970128",
+                                                                                                "id": "381"
+                                                                                            },
+                                                                                            {
+                                                                                                "value": "14255.21"
+                                                                                            }
+                                                                                        ],
+                                                                                        "type": "Data"
+                                                                                    },
+                                                                                    {
+                                                                                        "ColData": [
+                                                                                            {
+                                                                                                "value": "2313.81 Maternity Prin #702970129",
+                                                                                                "id": "382"
+                                                                                            },
+                                                                                            {
+                                                                                                "value": "33378.00"
+                                                                                            }
+                                                                                        ],
+                                                                                        "type": "Data"
+                                                                                    },
+                                                                                    {
+                                                                                        "ColData": [
+                                                                                            {
+                                                                                                "value": "2313.82 Maternity Int #702970129",
+                                                                                                "id": "383"
+                                                                                            },
+                                                                                            {
+                                                                                                "value": "14881.02"
+                                                                                            }
+                                                                                        ],
+                                                                                        "type": "Data"
+                                                                                    },
+                                                                                    {
+                                                                                        "ColData": [
+                                                                                            {
+                                                                                                "value": "2313.83 Maternity Prin #702970130",
+                                                                                                "id": "384"
+                                                                                            },
+                                                                                            {
+                                                                                                "value": "85306.05"
+                                                                                            }
+                                                                                        ],
+                                                                                        "type": "Data"
+                                                                                    },
+                                                                                    {
+                                                                                        "ColData": [
+                                                                                            {
+                                                                                                "value": "2313.84 Maternity Int #702970130",
+                                                                                                "id": "385"
+                                                                                            },
+                                                                                            {
+                                                                                                "value": "33985.73"
+                                                                                            }
+                                                                                        ],
+                                                                                        "type": "Data"
+                                                                                    },
+                                                                                    {
+                                                                                        "ColData": [
+                                                                                            {
+                                                                                                "value": "2313.85 Maternity Prin #702970131",
+                                                                                                "id": "386"
+                                                                                            },
+                                                                                            {
+                                                                                                "value": "25134.63"
+                                                                                            }
+                                                                                        ],
+                                                                                        "type": "Data"
+                                                                                    },
+                                                                                    {
+                                                                                        "ColData": [
+                                                                                            {
+                                                                                                "value": "2313.86 Maternity Int #702970131",
+                                                                                                "id": "387"
+                                                                                            },
+                                                                                            {
+                                                                                                "value": "8704.83"
+                                                                                            }
+                                                                                        ],
+                                                                                        "type": "Data"
+                                                                                    },
+                                                                                    {
+                                                                                        "ColData": [
+                                                                                            {
+                                                                                                "value": "2313.87 Maternity Prin #702970155",
+                                                                                                "id": "388"
+                                                                                            },
+                                                                                            {
+                                                                                                "value": "24007.38"
+                                                                                            }
+                                                                                        ],
+                                                                                        "type": "Data"
+                                                                                    },
+                                                                                    {
+                                                                                        "ColData": [
+                                                                                            {
+                                                                                                "value": "2313.88 Maternity Int #702970155",
+                                                                                                "id": "389"
+                                                                                            },
+                                                                                            {
+                                                                                                "value": "8314.43"
+                                                                                            }
+                                                                                        ],
+                                                                                        "type": "Data"
+                                                                                    },
+                                                                                    {
+                                                                                        "ColData": [
+                                                                                            {
+                                                                                                "value": "2313.90 St. Philomena Int #403790144",
+                                                                                                "id": "390"
+                                                                                            },
+                                                                                            {
+                                                                                                "value": "31645.85"
+                                                                                            }
+                                                                                        ],
+                                                                                        "type": "Data"
+                                                                                    },
+                                                                                    {
+                                                                                        "ColData": [
+                                                                                            {
+                                                                                                "value": "2313.92 St. Philomena Int #703790120",
+                                                                                                "id": "391"
+                                                                                            },
+                                                                                            {
+                                                                                                "value": "11572.67"
+                                                                                            }
+                                                                                        ],
+                                                                                        "type": "Data"
+                                                                                    },
+                                                                                    {
+                                                                                        "ColData": [
+                                                                                            {
+                                                                                                "value": "2313.94 St. Philomena Int #703790123",
+                                                                                                "id": "392"
+                                                                                            },
+                                                                                            {
+                                                                                                "value": "23418.47"
+                                                                                            }
+                                                                                        ],
+                                                                                        "type": "Data"
+                                                                                    },
+                                                                                    {
+                                                                                        "ColData": [
+                                                                                            {
+                                                                                                "value": "2313.96 St. Philomena Int #703790124",
+                                                                                                "id": "393"
+                                                                                            },
+                                                                                            {
+                                                                                                "value": "24771.41"
+                                                                                            }
+                                                                                        ],
+                                                                                        "type": "Data"
+                                                                                    }
+                                                                                ]
+                                                                            },
+                                                                            "Summary": {
+                                                                                "ColData": [
+                                                                                    {
+                                                                                        "value": "Total 2313 Principal/Interest Due on Loan"
+                                                                                    },
+                                                                                    {
+                                                                                        "value": "396486.34"
+                                                                                    }
+                                                                                ]
+                                                                            },
+                                                                            "type": "Section"
+                                                                        }
+                                                                    ]
+                                                                },
+                                                                "Summary": {
+                                                                    "ColData": [
+                                                                        {
+                                                                            "value": "Total 2300 Archdiocesan Obligations"
+                                                                        },
+                                                                        {
+                                                                            "value": "396486.34"
+                                                                        }
+                                                                    ]
+                                                                },
+                                                                "type": "Section"
+                                                            },
+                                                            {
+                                                                "ColData": [
+                                                                    {
+                                                                        "value": "2400 Prepaid Tuition & Fees",
+                                                                        "id": "311"
+                                                                    },
+                                                                    {
+                                                                        "value": "9581.00"
+                                                                    }
+                                                                ],
+                                                                "type": "Data"
+                                                            },
+                                                            {
+                                                                "Header": {
+                                                                    "ColData": [
+                                                                        {
+                                                                            "value": "2475 SBA - PPP Proceeds",
+                                                                            "id": "404"
+                                                                        },
+                                                                        {
+                                                                            "value": ""
+                                                                        }
+                                                                    ]
+                                                                },
+                                                                "Rows": {
+                                                                    "Row": [
+                                                                        {
+                                                                            "ColData": [
+                                                                                {
+                                                                                    "value": "2475.10 SBA - PPP Church",
+                                                                                    "id": "405"
+                                                                                },
+                                                                                {
+                                                                                    "value": "182192.50"
+                                                                                }
+                                                                            ],
+                                                                            "type": "Data"
+                                                                        }
+                                                                    ]
+                                                                },
+                                                                "Summary": {
+                                                                    "ColData": [
+                                                                        {
+                                                                            "value": "Total 2475 SBA - PPP Proceeds"
+                                                                        },
+                                                                        {
+                                                                            "value": "182192.50"
+                                                                        }
+                                                                    ]
+                                                                },
+                                                                "type": "Section"
+                                                            },
+                                                            {
+                                                                "Header": {
+                                                                    "ColData": [
+                                                                        {
+                                                                            "value": "2500 Other Current Liabilities",
+                                                                            "id": "306"
+                                                                        },
+                                                                        {
+                                                                            "value": "1006.37"
+                                                                        }
+                                                                    ]
+                                                                },
+                                                                "Rows": {
+                                                                    "Row": [
+                                                                        {
+                                                                            "ColData": [
+                                                                                {
+                                                                                    "value": "2520 Other Current Liability",
+                                                                                    "id": "409"
+                                                                                },
+                                                                                {
+                                                                                    "value": "0.00"
+                                                                                }
+                                                                            ],
+                                                                            "type": "Data"
+                                                                        }
+                                                                    ]
+                                                                },
+                                                                "Summary": {
+                                                                    "ColData": [
+                                                                        {
+                                                                            "value": "Total 2500 Other Current Liabilities"
+                                                                        },
+                                                                        {
+                                                                            "value": "1006.37"
+                                                                        }
+                                                                    ]
+                                                                },
+                                                                "type": "Section"
+                                                            }
+                                                        ]
+                                                    },
+                                                    "Summary": {
+                                                        "ColData": [
+                                                            {
+                                                                "value": "Total Other Current Liabilities"
+                                                            },
+                                                            {
+                                                                "value": "589173.71"
+                                                            }
+                                                        ]
+                                                    },
+                                                    "type": "Section",
+                                                    "group": "OtherCurrentLiabilities"
+                                                }
+                                            ]
+                                        },
+                                        "Summary": {
+                                            "ColData": [
+                                                {
+                                                    "value": "Total Current Liabilities"
+                                                },
+                                                {
+                                                    "value": "637319.23"
+                                                }
+                                            ]
+                                        },
+                                        "type": "Section",
+                                        "group": "CurrentLiabilities"
+                                    }
+                                ]
+                            },
+                            "Summary": {
+                                "ColData": [
+                                    {
+                                        "value": "Total Liabilities"
+                                    },
+                                    {
+                                        "value": "637319.23"
+                                    }
+                                ]
+                            },
+                            "type": "Section",
+                            "group": "Liabilities"
+                        },
+                        {
+                            "Header": {
+                                "ColData": [
+                                    {
+                                        "value": "Equity"
+                                    },
+                                    {
+                                        "value": ""
+                                    }
+                                ]
+                            },
+                            "Rows": {
+                                "Row": [
+                                    {
+                                        "ColData": [
+                                            {
+                                                "value": "2703 Opening Bal Equity",
+                                                "id": "273"
+                                            },
+                                            {
+                                                "value": "340633.67"
+                                            }
+                                        ],
+                                        "type": "Data"
+                                    },
+                                    {
+                                        "ColData": [
+                                            {
+                                                "value": "3900 Retained Earnings",
+                                                "id": "305"
+                                            },
+                                            {
+                                                "value": "261869.61"
+                                            }
+                                        ],
+                                        "type": "Data"
+                                    },
+                                    {
+                                        "ColData": [
+                                            {
+                                                "value": "Net Income"
+                                            },
+                                            {
+                                                "value": ""
+                                            }
+                                        ],
+                                        "type": "Data",
+                                        "group": "NetIncome"
+                                    }
+                                ]
+                            },
+                            "Summary": {
+                                "ColData": [
+                                    {
+                                        "value": "Total Equity"
+                                    },
+                                    {
+                                        "value": "602503.28"
+                                    }
+                                ]
+                            },
+                            "type": "Section",
+                            "group": "Equity"
+                        }
+                    ]
+                },
+                "Summary": {
+                    "ColData": [
+                        {
+                            "value": "TOTAL LIABILITIES AND EQUITY"
+                        },
+                        {
+                            "value": "1239822.51"
+                        }
+                    ]
+                },
+                "type": "Section",
+                "group": "TotalLiabilitiesAndEquity"
+            }
+        ]
+    }
+}

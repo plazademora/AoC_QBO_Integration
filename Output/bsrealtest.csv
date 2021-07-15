@@ -1,0 +1,90 @@
+AccountName,AccountID,AccountValue
+1100 Cash,7,NA
+1101 SJLSDR Operating Acct#2513,435,0.00
+1101.10 Church Available,447,75828.88
+1101.20 Church Restricted,454,NA
+1101.23 School Support Rest.,467,2118.00
+1101.25 Church Restricted,462,10343.00
+1101.26 SBA-PPP Loan,457,18624.13
+1101.27 Food Pantry,465,8250.00
+1103 Maternity BVM School Acct#9809,317,NA
+1103.10 School Available,348,0.00
+1106 Old Maternity BVM Accounts,344,NA
+1106.01 Maternity Operating Acct#0514,358,NA
+1106.02 Maternity Available,359,408.28
+1106.03 Maternity Restricted,360,0.00
+1107 Old St. Francis Bank Accounts,345,NA
+1107.01 St. Francis of Assisi Oper#3710,347,2220.35
+1108 Old St. Philomena Bank Accounts,346,NA
+1108.01 St. Philomena Oper. #5302,361,0.00
+1108.02 St. Philomena Coin #6844,362,2761.34
+1108.03 St. Philomena Payroll #7191,363,0.00
+1130 Auxiliary Accounts,182,NA
+1133 St. Francis of Assisi Auxiliary,401,NA
+1133.01 SFA Catholic in Action #3877,434,1583.90
+1200 Oper. Savings at the Arch Bank,8,NA
+1201 Regular Operating Savings,9,NA
+1201.01 Maternity BVM #702970201,368,0.00
+1201.02 St. Philomena #703790201,372,41957.24
+1201.03 Maternity BVM School #402970201,397,0.00
+1201.04 SJLSDR Savings #704155201,407,2855.18
+1210 Certificates of Deposit,10,NA
+1211 90 Day CD-Operating Savings,11,938587.48
+1240 Stock Savings Account,294,NA
+1240.03 St. Philomena #703790250,369,5837.90
+1260 TTWCI Savings Account,323,NA
+1260.01 Maternity BVM TTWCI,350,50801.63
+1260.02 St. Francis of Assisi TTWCI,351,4668.66
+1260.03 St. Philomena TTWCI,352,6044.29
+1300 Long-Term/Restricted Savings,14,NA
+1301 Building Fund Savings,175,NA
+1301.01 Maternity BVM #702970204,364,0.00
+1301.02 St. Francis #701351204,365,0.00
+1301.03 St. Philomena #703790204,366,42410.03
+1400 Endowment & Spc Investment Sav,267,NA
+1410 Parish Education Endowment Fund,370,NA
+1410.01 Maternity BVM #702970211,431,0.00
+1430 Balanced Mutual Fund,269,NA
+1430.01 St Francis Fixed #701351230,371,24522.22
+1500 Receivables,274,NA
+1501 Parish Receivables,445,0.00
+1600 Other Current Assets,256,NA
+1603 Other Current Assets,282,0.00
+1615 Funds in Transit- 3rd PS,326,0.00
+2000 Accounts Payable,236,48145.52
+2010 Procurement Card Payable,293,0.00
+2100 Liabilities,15,NA
+2140 Accrued Payroll,400,0.00
+2200 Other Payroll Withholdings,17,NA
+2204 Employee Health Ins. Withheld,18,-54.00
+2205 Employee Dental Ins. Co-Pay,19,-38.50
+2300 Archdiocesan Obligations,278,NA
+2313 Principal/Interest Due on Loan,279,NA
+2313.71 Maternity Church FY15 A/R Prin,398,19337.15
+2313.72 Maternity School FY18 A/R Prin,399,0.00
+2313.73 Maternity Prin #402970144,375,0.00
+2313.74 Maternity Int #402970144,376,0.00
+2313.75 Maternity Prin #402970149,377,0.00
+2313.76 Maternity Int #402970149,378,0.00
+2313.78 Maternity Int #702970124,379,12773.51
+2313.79 Maternity Prin #702970128,380,25000.00
+2313.80 Maternity Int #702970128,381,14255.21
+2313.81 Maternity Prin #702970129,382,33378.00
+2313.82 Maternity Int #702970129,383,14881.02
+2313.83 Maternity Prin #702970130,384,85306.05
+2313.84 Maternity Int #702970130,385,33985.73
+2313.85 Maternity Prin #702970131,386,25134.63
+2313.86 Maternity Int #702970131,387,8704.83
+2313.87 Maternity Prin #702970155,388,24007.38
+2313.88 Maternity Int #702970155,389,8314.43
+2313.90 St. Philomena Int #403790144,390,31645.85
+2313.92 St. Philomena Int #703790120,391,11572.67
+2313.94 St. Philomena Int #703790123,392,23418.47
+2313.96 St. Philomena Int #703790124,393,24771.41
+2400 Prepaid Tuition & Fees,311,9581.00
+2475 SBA - PPP Proceeds,404,NA
+2475.10 SBA - PPP Church,405,182192.50
+2500 Other Current Liabilities,306,1006.37
+2520 Other Current Liability,409,0.00
+2703 Opening Bal Equity,273,340633.67
+3900 Retained Earnings,305,261869.61

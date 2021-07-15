@@ -1,0 +1,2811 @@
+{
+  "Header": {
+    "Time": "2021-06-07T12:54:49-07:00",
+    "ReportName": "BalanceSheet",
+    "DateMacro": "this fiscal year-to-date",
+    "ReportBasis": "Accrual",
+    "StartPeriod": "2020-07-01",
+    "EndPeriod": "2021-06-07",
+    "SummarizeColumnsBy": "Total",
+    "Currency": "USD",
+    "Option": [
+      { "Name": "AccountingStandard", "Value": "GAAP" },
+      { "Name": "NoReportData", "Value": "false" }
+    ]
+  },
+  "Columns": {
+    "Column": [
+      {
+        "ColTitle": "",
+        "ColType": "Account",
+        "MetaData": [{ "Name": "ColKey", "Value": "account" }]
+      },
+      {
+        "ColTitle": "Total",
+        "ColType": "Money",
+        "MetaData": [{ "Name": "ColKey", "Value": "total" }]
+      }
+    ]
+  },
+  "Rows": {
+    "Row": [
+      {
+        "Header": { "ColData": [{ "value": "ASSETS" }, { "value": "" }] },
+        "Rows": {
+          "Row": [
+            {
+              "Header": {
+                "ColData": [{ "value": "Current Assets" }, { "value": "" }]
+              },
+              "Rows": {
+                "Row": [
+                  {
+                    "Header": {
+                      "ColData": [{ "value": "Bank Accounts" }, { "value": "" }]
+                    },
+                    "Rows": {
+                      "Row": [
+                        {
+                          "Header": {
+                            "ColData": [
+                              { "value": "1100 Cash", "id": "94" },
+                              { "value": "" }
+                            ]
+                          },
+                          "Rows": {
+                            "Row": [
+                              {
+                                "Header": {
+                                  "ColData": [
+                                    {
+                                      "value": "1101 Saints JFX Oper. Acct. #2264",
+                                      "id": "565"
+                                    },
+                                    { "value": "-13922.83" }
+                                  ]
+                                },
+                                "Rows": {
+                                  "Row": [
+                                    {
+                                      "ColData": [
+                                        {
+                                          "value": "1101.10 Checking Available",
+                                          "id": "691"
+                                        },
+                                        { "value": "-126471.83" }
+                                      ],
+                                      "type": "Data"
+                                    },
+                                    {
+                                      "Header": {
+                                        "ColData": [
+                                          {
+                                            "value": "1101.20 Checking Restricted",
+                                            "id": "586"
+                                          },
+                                          { "value": "" }
+                                        ]
+                                      },
+                                      "Rows": {
+                                        "Row": [
+                                          {
+                                            "ColData": [
+                                              {
+                                                "value": "1101.22 Building Restricted",
+                                                "id": "587"
+                                              },
+                                              { "value": "3570.33" }
+                                            ],
+                                            "type": "Data"
+                                          },
+                                          {
+                                            "ColData": [
+                                              {
+                                                "value": "1101.23 School Support Restricted",
+                                                "id": "675"
+                                              },
+                                              { "value": "4591.00" }
+                                            ],
+                                            "type": "Data"
+                                          },
+                                          {
+                                            "Header": {
+                                              "ColData": [
+                                                {
+                                                  "value": "1101.24 AOC A/P Restricted",
+                                                  "id": "588"
+                                                },
+                                                { "value": "63.00" }
+                                              ]
+                                            },
+                                            "Rows": {
+                                              "Row": [
+                                                {
+                                                  "ColData": [
+                                                    {
+                                                      "value": "101.24A Latin America",
+                                                      "id": "621"
+                                                    },
+                                                    { "value": "1426.00" }
+                                                  ],
+                                                  "type": "Data"
+                                                },
+                                                {
+                                                  "ColData": [
+                                                    {
+                                                      "value": "101.24B Annual Catholic Appeal",
+                                                      "id": "685"
+                                                    },
+                                                    { "value": "0.00" }
+                                                  ],
+                                                  "type": "Data"
+                                                },
+                                                {
+                                                  "ColData": [
+                                                    {
+                                                      "value": "101.24C Aid Cent. and East. Europe",
+                                                      "id": "679"
+                                                    },
+                                                    { "value": "25.00" }
+                                                  ],
+                                                  "type": "Data"
+                                                },
+                                                {
+                                                  "ColData": [
+                                                    {
+                                                      "value": "101.24D Holy Land",
+                                                      "id": "602"
+                                                    },
+                                                    { "value": "241.00" }
+                                                  ],
+                                                  "type": "Data"
+                                                },
+                                                {
+                                                  "ColData": [
+                                                    {
+                                                      "value": "101.24E Catholic Charities",
+                                                      "id": "652"
+                                                    },
+                                                    { "value": "1070.00" }
+                                                  ],
+                                                  "type": "Data"
+                                                },
+                                                {
+                                                  "ColData": [
+                                                    {
+                                                      "value": "101.24F Retired Priests",
+                                                      "id": "603"
+                                                    },
+                                                    { "value": "50.00" }
+                                                  ],
+                                                  "type": "Data"
+                                                },
+                                                {
+                                                  "ColData": [
+                                                    {
+                                                      "value": "101.24G Peter's Pence",
+                                                      "id": "705"
+                                                    },
+                                                    { "value": "1235.00" }
+                                                  ],
+                                                  "type": "Data"
+                                                },
+                                                {
+                                                  "ColData": [
+                                                    {
+                                                      "value": "101.24H Seminarian Edu.",
+                                                      "id": "604"
+                                                    },
+                                                    { "value": "100.00" }
+                                                  ],
+                                                  "type": "Data"
+                                                },
+                                                {
+                                                  "ColData": [
+                                                    {
+                                                      "value": "101.24I World MIssion Sunday",
+                                                      "id": "653"
+                                                    },
+                                                    { "value": "75.00" }
+                                                  ],
+                                                  "type": "Data"
+                                                },
+                                                {
+                                                  "ColData": [
+                                                    {
+                                                      "value": "101.24J CCHD",
+                                                      "id": "605"
+                                                    },
+                                                    { "value": "865.00" }
+                                                  ],
+                                                  "type": "Data"
+                                                },
+                                                {
+                                                  "ColData": [
+                                                    {
+                                                      "value": "101.24K Retirement Fund for Religious",
+                                                      "id": "680"
+                                                    },
+                                                    { "value": "475.00" }
+                                                  ],
+                                                  "type": "Data"
+                                                },
+                                                {
+                                                  "ColData": [
+                                                    {
+                                                      "value": "101.24L Missionary Co-Op",
+                                                      "id": "606"
+                                                    },
+                                                    { "value": "985.00" }
+                                                  ],
+                                                  "type": "Data"
+                                                }
+                                              ]
+                                            },
+                                            "Summary": {
+                                              "ColData": [
+                                                {
+                                                  "value": "Total 1101.24 AOC A/P Restricted"
+                                                },
+                                                { "value": "6610.00" }
+                                              ]
+                                            },
+                                            "type": "Section"
+                                          },
+                                          {
+                                            "Header": {
+                                              "ColData": [
+                                                {
+                                                  "value": "1101.25 Church Restricted",
+                                                  "id": "645"
+                                                },
+                                                { "value": "0.00" }
+                                              ]
+                                            },
+                                            "Rows": {
+                                              "Row": [
+                                                {
+                                                  "ColData": [
+                                                    {
+                                                      "value": "101.25A Sharing - St. Ignatius",
+                                                      "id": "701"
+                                                    },
+                                                    { "value": "18131.00" }
+                                                  ],
+                                                  "type": "Data"
+                                                },
+                                                {
+                                                  "ColData": [
+                                                    {
+                                                      "value": "101.25B Sharing - St. Thomas School",
+                                                      "id": "657"
+                                                    },
+                                                    { "value": "2858.00" }
+                                                  ],
+                                                  "type": "Data"
+                                                },
+                                                {
+                                                  "ColData": [
+                                                    {
+                                                      "value": "101.25C Sharing- St. Thomas Food Pantry",
+                                                      "id": "695"
+                                                    },
+                                                    { "value": "25736.00" }
+                                                  ],
+                                                  "type": "Data"
+                                                },
+                                                {
+                                                  "ColData": [
+                                                    {
+                                                      "value": "101.25E SVDP",
+                                                      "id": "659"
+                                                    },
+                                                    { "value": "500.00" }
+                                                  ],
+                                                  "type": "Data"
+                                                },
+                                                {
+                                                  "ColData": [
+                                                    {
+                                                      "value": "101.25G TTWCI",
+                                                      "id": "665"
+                                                    },
+                                                    { "value": "0.00" }
+                                                  ],
+                                                  "type": "Data"
+                                                },
+                                                {
+                                                  "ColData": [
+                                                    {
+                                                      "value": "101.25H Fr. Rodlin",
+                                                      "id": "694"
+                                                    },
+                                                    { "value": "3707.95" }
+                                                  ],
+                                                  "type": "Data"
+                                                },
+                                                {
+                                                  "ColData": [
+                                                    {
+                                                      "value": "101.25I ACTION",
+                                                      "id": "667"
+                                                    },
+                                                    { "value": "13500.00" }
+                                                  ],
+                                                  "type": "Data"
+                                                },
+                                                {
+                                                  "ColData": [
+                                                    {
+                                                      "value": "101.25J Alms Giving",
+                                                      "id": "683"
+                                                    },
+                                                    { "value": "5828.00" }
+                                                  ],
+                                                  "type": "Data"
+                                                }
+                                              ]
+                                            },
+                                            "Summary": {
+                                              "ColData": [
+                                                {
+                                                  "value": "Total 1101.25 Church Restricted"
+                                                },
+                                                { "value": "70260.95" }
+                                              ]
+                                            },
+                                            "type": "Section"
+                                          },
+                                          {
+                                            "ColData": [
+                                              {
+                                                "value": "1101.27 Athletics",
+                                                "id": "623"
+                                              },
+                                              { "value": "-11379.97" }
+                                            ],
+                                            "type": "Data"
+                                          },
+                                          {
+                                            "Header": {
+                                              "ColData": [
+                                                {
+                                                  "value": "1101.29 Haiti",
+                                                  "id": "607"
+                                                },
+                                                { "value": "0.00" }
+                                              ]
+                                            },
+                                            "Rows": {
+                                              "Row": [
+                                                {
+                                                  "ColData": [
+                                                    {
+                                                      "value": "101.29A Haiti General Fund",
+                                                      "id": "697"
+                                                    },
+                                                    { "value": "38640.85" }
+                                                  ],
+                                                  "type": "Data"
+                                                },
+                                                {
+                                                  "ColData": [
+                                                    {
+                                                      "value": "101.29B Kate Henn Fund",
+                                                      "id": "624"
+                                                    },
+                                                    { "value": "134272.52" }
+                                                  ],
+                                                  "type": "Data"
+                                                },
+                                                {
+                                                  "ColData": [
+                                                    {
+                                                      "value": "101.29C Morningstar Schol Fund",
+                                                      "id": "686"
+                                                    },
+                                                    { "value": "8019.01" }
+                                                  ],
+                                                  "type": "Data"
+                                                },
+                                                {
+                                                  "ColData": [
+                                                    {
+                                                      "value": "101.29D General Schol Fund",
+                                                      "id": "625"
+                                                    },
+                                                    { "value": "5893.32" }
+                                                  ],
+                                                  "type": "Data"
+                                                },
+                                                {
+                                                  "ColData": [
+                                                    {
+                                                      "value": "101.29E IC School Reserve Fund",
+                                                      "id": "666"
+                                                    },
+                                                    { "value": "34805.00" }
+                                                  ],
+                                                  "type": "Data"
+                                                },
+                                                {
+                                                  "ColData": [
+                                                    {
+                                                      "value": "101.29F IC Parish Reserve Fund",
+                                                      "id": "626"
+                                                    },
+                                                    { "value": "1800.00" }
+                                                  ],
+                                                  "type": "Data"
+                                                }
+                                              ]
+                                            },
+                                            "Summary": {
+                                              "ColData": [
+                                                {
+                                                  "value": "Total 1101.29 Haiti"
+                                                },
+                                                { "value": "223430.70" }
+                                              ]
+                                            },
+                                            "type": "Section"
+                                          },
+                                          {
+                                            "ColData": [
+                                              {
+                                                "value": "1101.30 Men's Club",
+                                                "id": "687"
+                                              },
+                                              { "value": "25.00" }
+                                            ],
+                                            "type": "Data"
+                                          }
+                                        ]
+                                      },
+                                      "Summary": {
+                                        "ColData": [
+                                          {
+                                            "value": "Total 1101.20 Checking Restricted"
+                                          },
+                                          { "value": "297108.01" }
+                                        ]
+                                      },
+                                      "type": "Section"
+                                    }
+                                  ]
+                                },
+                                "Summary": {
+                                  "ColData": [
+                                    {
+                                      "value": "Total 1101 Saints JFX Oper. Acct. #2264"
+                                    },
+                                    { "value": "156713.35" }
+                                  ]
+                                },
+                                "type": "Section"
+                              },
+                              {
+                                "Header": {
+                                  "ColData": [
+                                    {
+                                      "value": "1103 St. Joseph School Ck Acct #2145",
+                                      "id": "405"
+                                    },
+                                    { "value": "" }
+                                  ]
+                                },
+                                "Rows": {
+                                  "Row": [
+                                    {
+                                      "ColData": [
+                                        {
+                                          "value": "1103.10 School Available",
+                                          "id": "707"
+                                        },
+                                        { "value": "-8044.25" }
+                                      ],
+                                      "type": "Data"
+                                    },
+                                    {
+                                      "Header": {
+                                        "ColData": [
+                                          {
+                                            "value": "1103.20 School Restricted",
+                                            "id": "590"
+                                          },
+                                          { "value": "9419.70" }
+                                        ]
+                                      },
+                                      "Rows": {
+                                        "Row": [
+                                          {
+                                            "ColData": [
+                                              {
+                                                "value": "1103.26 SBA - PPP Loan Funds",
+                                                "id": "613"
+                                              },
+                                              { "value": "0.00" }
+                                            ],
+                                            "type": "Data"
+                                          }
+                                        ]
+                                      },
+                                      "Summary": {
+                                        "ColData": [
+                                          {
+                                            "value": "Total 1103.20 School Restricted"
+                                          },
+                                          { "value": "9419.70" }
+                                        ]
+                                      },
+                                      "type": "Section"
+                                    }
+                                  ]
+                                },
+                                "Summary": {
+                                  "ColData": [
+                                    {
+                                      "value": "Total 1103 St. Joseph School Ck Acct #2145"
+                                    },
+                                    { "value": "1375.45" }
+                                  ]
+                                },
+                                "type": "Section"
+                              },
+                              {
+                                "Header": {
+                                  "ColData": [
+                                    {
+                                      "value": "1106 Old St. Joseph Accounts",
+                                      "id": "329"
+                                    },
+                                    { "value": "" }
+                                  ]
+                                },
+                                "Rows": {
+                                  "Row": [
+                                    {
+                                      "ColData": [
+                                        {
+                                          "value": "1106.01 St. Joseph #XXXX Oper (Old) BMO",
+                                          "id": "330"
+                                        },
+                                        { "value": "93426.55" }
+                                      ],
+                                      "type": "Data"
+                                    }
+                                  ]
+                                },
+                                "Summary": {
+                                  "ColData": [
+                                    {
+                                      "value": "Total 1106 Old St. Joseph Accounts"
+                                    },
+                                    { "value": "93426.55" }
+                                  ]
+                                },
+                                "type": "Section"
+                              },
+                              {
+                                "Header": {
+                                  "ColData": [
+                                    {
+                                      "value": "1107 Old St. Francis Xavier Accounts",
+                                      "id": "331"
+                                    },
+                                    { "value": "" }
+                                  ]
+                                },
+                                "Rows": {
+                                  "Row": [
+                                    {
+                                      "ColData": [
+                                        {
+                                          "value": "1107.01 St. Francis Xavier Ckg #0396",
+                                          "id": "332"
+                                        },
+                                        { "value": "-55625.71" }
+                                      ],
+                                      "type": "Data"
+                                    },
+                                    {
+                                      "ColData": [
+                                        {
+                                          "value": "1107.02 St Francis Xavier EGiving #0640",
+                                          "id": "333"
+                                        },
+                                        { "value": "286056.13" }
+                                      ],
+                                      "type": "Data"
+                                    },
+                                    {
+                                      "ColData": [
+                                        {
+                                          "value": "1107.03 SFX NSCB CCA #3292",
+                                          "id": "334"
+                                        },
+                                        { "value": "47160.01" }
+                                      ],
+                                      "type": "Data"
+                                    },
+                                    {
+                                      "ColData": [
+                                        {
+                                          "value": "1107.04 SFX NSCB CCB #5323",
+                                          "id": "448"
+                                        },
+                                        { "value": "26734.56" }
+                                      ],
+                                      "type": "Data"
+                                    },
+                                    {
+                                      "ColData": [
+                                        {
+                                          "value": "1107.05 SFX Local TTWCI #4533",
+                                          "id": "335"
+                                        },
+                                        { "value": "40019.10" }
+                                      ],
+                                      "type": "Data"
+                                    },
+                                    {
+                                      "ColData": [
+                                        {
+                                          "value": "1107.06 St Francis Xavier RE Ckg #0528",
+                                          "id": "336"
+                                        },
+                                        { "value": "353.61" }
+                                      ],
+                                      "type": "Data"
+                                    },
+                                    {
+                                      "ColData": [
+                                        {
+                                          "value": "1107.07 SFX Action #0990",
+                                          "id": "337"
+                                        },
+                                        { "value": "6597.36" }
+                                      ],
+                                      "type": "Data"
+                                    },
+                                    {
+                                      "ColData": [
+                                        {
+                                          "value": "1107.09 St Francis Xavier Stipend #0437",
+                                          "id": "339"
+                                        },
+                                        { "value": "577.07" }
+                                      ],
+                                      "type": "Data"
+                                    },
+                                    {
+                                      "ColData": [
+                                        {
+                                          "value": "1107.10 St Francis Xavier Endowmnt#7020",
+                                          "id": "340"
+                                        },
+                                        { "value": "4808.92" }
+                                      ],
+                                      "type": "Data"
+                                    },
+                                    {
+                                      "ColData": [
+                                        {
+                                          "value": "1107.11 St Francis Xavier Scholar #5782",
+                                          "id": "341"
+                                        },
+                                        { "value": "218780.43" }
+                                      ],
+                                      "type": "Data"
+                                    },
+                                    {
+                                      "ColData": [
+                                        {
+                                          "value": "1107.12 StFrancis Xavier Sch EPIC #1686",
+                                          "id": "342"
+                                        },
+                                        { "value": "432786.04" }
+                                      ],
+                                      "type": "Data"
+                                    },
+                                    {
+                                      "Header": {
+                                        "ColData": [
+                                          {
+                                            "value": "1107.14 SFX Special Collections#0728",
+                                            "id": "449"
+                                          },
+                                          { "value": "0.00" }
+                                        ]
+                                      },
+                                      "Rows": {
+                                        "Row": [
+                                          {
+                                            "ColData": [
+                                              {
+                                                "value": "107.14A Need to Define Restrictions",
+                                                "id": "488"
+                                              },
+                                              { "value": "60900.74" }
+                                            ],
+                                            "type": "Data"
+                                          },
+                                          {
+                                            "ColData": [
+                                              {
+                                                "value": "107.14B Haiti - IC (deleted)",
+                                                "id": "489"
+                                              },
+                                              { "value": "-440.00" }
+                                            ],
+                                            "type": "Data"
+                                          },
+                                          {
+                                            "ColData": [
+                                              {
+                                                "value": "107.14C St. Thomas",
+                                                "id": "490"
+                                              },
+                                              { "value": "13667.00" }
+                                            ],
+                                            "type": "Data"
+                                          },
+                                          {
+                                            "ColData": [
+                                              {
+                                                "value": "107.14D St. Thomas Food Pantry",
+                                                "id": "491"
+                                              },
+                                              { "value": "2000.00" }
+                                            ],
+                                            "type": "Data"
+                                          },
+                                          {
+                                            "ColData": [
+                                              {
+                                                "value": "107.14E St. Thomas Schol",
+                                                "id": "492"
+                                              },
+                                              { "value": "9599.00" }
+                                            ],
+                                            "type": "Data"
+                                          },
+                                          {
+                                            "ColData": [
+                                              {
+                                                "value": "107.14F St. Thomas Fall Fest",
+                                                "id": "493"
+                                              },
+                                              { "value": "50.00" }
+                                            ],
+                                            "type": "Data"
+                                          },
+                                          {
+                                            "ColData": [
+                                              {
+                                                "value": "107.14G St. Thomas School",
+                                                "id": "494"
+                                              },
+                                              { "value": "2832.00" }
+                                            ],
+                                            "type": "Data"
+                                          },
+                                          {
+                                            "ColData": [
+                                              {
+                                                "value": "107.14I Funds No Longer Restricted",
+                                                "id": "553"
+                                              },
+                                              { "value": "3417.00" }
+                                            ],
+                                            "type": "Data"
+                                          }
+                                        ]
+                                      },
+                                      "Summary": {
+                                        "ColData": [
+                                          {
+                                            "value": "Total 1107.14 SFX Special Collections#0728"
+                                          },
+                                          { "value": "92025.74" }
+                                        ]
+                                      },
+                                      "type": "Section"
+                                    },
+                                    {
+                                      "ColData": [
+                                        {
+                                          "value": "1107.15 SFX PREP Paypal Acct",
+                                          "id": "593"
+                                        },
+                                        { "value": "249.74" }
+                                      ],
+                                      "type": "Data"
+                                    }
+                                  ]
+                                },
+                                "Summary": {
+                                  "ColData": [
+                                    {
+                                      "value": "Total 1107 Old St. Francis Xavier Accounts"
+                                    },
+                                    { "value": "1100523.00" }
+                                  ]
+                                },
+                                "type": "Section"
+                              },
+                              {
+                                "Header": {
+                                  "ColData": [
+                                    {
+                                      "value": "1130 Auxiliary Accounts",
+                                      "id": "266"
+                                    },
+                                    { "value": "" }
+                                  ]
+                                },
+                                "Rows": {
+                                  "Row": [
+                                    {
+                                      "ColData": [
+                                        {
+                                          "value": "1131 Saints JFX Aux Accts #3238",
+                                          "id": "268"
+                                        },
+                                        { "value": "100.00" }
+                                      ],
+                                      "type": "Data"
+                                    },
+                                    {
+                                      "Header": {
+                                        "ColData": [
+                                          {
+                                            "value": "1132 St Joseph Auxiliary Accounts",
+                                            "id": "267"
+                                          },
+                                          { "value": "" }
+                                        ]
+                                      },
+                                      "Rows": {
+                                        "Row": [
+                                          {
+                                            "ColData": [
+                                              {
+                                                "value": "1132.01 St Joseph PSO Ckg #9783",
+                                                "id": "313"
+                                              },
+                                              { "value": "32484.15" }
+                                            ],
+                                            "type": "Data"
+                                          },
+                                          {
+                                            "ColData": [
+                                              {
+                                                "value": "1132.02 St Joseph Men's Club #9953",
+                                                "id": "314"
+                                              },
+                                              { "value": "224.12" }
+                                            ],
+                                            "type": "Data"
+                                          },
+                                          {
+                                            "ColData": [
+                                              {
+                                                "value": "1132.03 St Joseph Raffle #4576",
+                                                "id": "315"
+                                              },
+                                              { "value": "0.00" }
+                                            ],
+                                            "type": "Data"
+                                          },
+                                          {
+                                            "ColData": [
+                                              {
+                                                "value": "1132.05 St Joseph Women's Club #7028",
+                                                "id": "317"
+                                              },
+                                              { "value": "16942.44" }
+                                            ],
+                                            "type": "Data"
+                                          },
+                                          {
+                                            "ColData": [
+                                              {
+                                                "value": "1132.06 St Joseph Legion of Mary #XXXX",
+                                                "id": "318"
+                                              },
+                                              { "value": "355.00" }
+                                            ],
+                                            "type": "Data"
+                                          },
+                                          {
+                                            "ColData": [
+                                              {
+                                                "value": "1132.07 SJS Annual Fund #9598",
+                                                "id": "319"
+                                              },
+                                              { "value": "10250.44" }
+                                            ],
+                                            "type": "Data"
+                                          },
+                                          {
+                                            "ColData": [
+                                              {
+                                                "value": "1132.08 SJS PSO Savings #4924",
+                                                "id": "320"
+                                              },
+                                              { "value": "15073.43" }
+                                            ],
+                                            "type": "Data"
+                                          },
+                                          {
+                                            "ColData": [
+                                              {
+                                                "value": "1132.09 St. Joseph Girl Scouts",
+                                                "id": "541"
+                                              },
+                                              { "value": "0.00" }
+                                            ],
+                                            "type": "Data"
+                                          }
+                                        ]
+                                      },
+                                      "Summary": {
+                                        "ColData": [
+                                          {
+                                            "value": "Total 1132 St Joseph Auxiliary Accounts"
+                                          },
+                                          { "value": "75329.58" }
+                                        ]
+                                      },
+                                      "type": "Section"
+                                    },
+                                    {
+                                      "Header": {
+                                        "ColData": [
+                                          {
+                                            "value": "1133 St Francis Xavier Auxiliary",
+                                            "id": "343"
+                                          },
+                                          { "value": "" }
+                                        ]
+                                      },
+                                      "Rows": {
+                                        "Row": [
+                                          {
+                                            "ColData": [
+                                              {
+                                                "value": "1133.01 SFX St. Vincent De Paul #2726",
+                                                "id": "344"
+                                              },
+                                              { "value": "33277.00" }
+                                            ],
+                                            "type": "Data"
+                                          },
+                                          {
+                                            "ColData": [
+                                              {
+                                                "value": "1133.02 SFX School Milk Fund #9852",
+                                                "id": "345"
+                                              },
+                                              { "value": "20972.42" }
+                                            ],
+                                            "type": "Data"
+                                          },
+                                          {
+                                            "ColData": [
+                                              {
+                                                "value": "1133.03 SFX School #6212 (local School)",
+                                                "id": "437"
+                                              },
+                                              { "value": "19302.41" }
+                                            ],
+                                            "type": "Data"
+                                          },
+                                          {
+                                            "ColData": [
+                                              {
+                                                "value": "1133.04 SFX Parish #5323",
+                                                "id": "438"
+                                              },
+                                              { "value": "26969.03" }
+                                            ],
+                                            "type": "Data"
+                                          },
+                                          {
+                                            "ColData": [
+                                              {
+                                                "value": "1133.05 SFX School 8th Grade #7570",
+                                                "id": "439"
+                                              },
+                                              { "value": "11800.48" }
+                                            ],
+                                            "type": "Data"
+                                          },
+                                          {
+                                            "ColData": [
+                                              {
+                                                "value": "1133.06 SFX (PC) Fun Run #5215 (Church)",
+                                                "id": "440"
+                                              },
+                                              { "value": "5000.46" }
+                                            ],
+                                            "type": "Data"
+                                          },
+                                          {
+                                            "ColData": [
+                                              {
+                                                "value": "1133.08 SFX School H&S/Script#5681",
+                                                "id": "442"
+                                              },
+                                              { "value": "61597.09" }
+                                            ],
+                                            "type": "Data"
+                                          },
+                                          {
+                                            "ColData": [
+                                              {
+                                                "value": "1133.09 SFX School #0847",
+                                                "id": "447"
+                                              },
+                                              { "value": "36499.62" }
+                                            ],
+                                            "type": "Data"
+                                          },
+                                          {
+                                            "ColData": [
+                                              {
+                                                "value": "1133.10 SFX School Athletics#4324",
+                                                "id": "519"
+                                              },
+                                              { "value": "20790.45" }
+                                            ],
+                                            "type": "Data"
+                                          },
+                                          {
+                                            "ColData": [
+                                              {
+                                                "value": "1133.12 SFX HSA Chk#1731",
+                                                "id": "521"
+                                              },
+                                              { "value": "729.26" }
+                                            ],
+                                            "type": "Data"
+                                          },
+                                          {
+                                            "ColData": [
+                                              {
+                                                "value": "1133.13 SFX HSA Acct#4757",
+                                                "id": "522"
+                                              },
+                                              { "value": "0.00" }
+                                            ],
+                                            "type": "Data"
+                                          },
+                                          {
+                                            "ColData": [
+                                              {
+                                                "value": "1133.14 SFX Womens Club#6641",
+                                                "id": "523"
+                                              },
+                                              { "value": "1354.51" }
+                                            ],
+                                            "type": "Data"
+                                          },
+                                          {
+                                            "ColData": [
+                                              {
+                                                "value": "1133.15 SFX Mens Club #2800",
+                                                "id": "524"
+                                              },
+                                              { "value": "0.00" }
+                                            ],
+                                            "type": "Data"
+                                          },
+                                          {
+                                            "ColData": [
+                                              {
+                                                "value": "1133.16 SFX Boy Scouts #0611",
+                                                "id": "525"
+                                              },
+                                              { "value": "87.10" }
+                                            ],
+                                            "type": "Data"
+                                          },
+                                          {
+                                            "ColData": [
+                                              {
+                                                "value": "1133.17 SFX Faith Alive #3549",
+                                                "id": "526"
+                                              },
+                                              { "value": "906.89" }
+                                            ],
+                                            "type": "Data"
+                                          },
+                                          {
+                                            "ColData": [
+                                              {
+                                                "value": "1133.18 Peace and Justic #3536",
+                                                "id": "552"
+                                              },
+                                              { "value": "609.47" }
+                                            ],
+                                            "type": "Data"
+                                          }
+                                        ]
+                                      },
+                                      "Summary": {
+                                        "ColData": [
+                                          {
+                                            "value": "Total 1133 St Francis Xavier Auxiliary"
+                                          },
+                                          { "value": "239896.19" }
+                                        ]
+                                      },
+                                      "type": "Section"
+                                    }
+                                  ]
+                                },
+                                "Summary": {
+                                  "ColData": [
+                                    {
+                                      "value": "Total 1130 Auxiliary Accounts"
+                                    },
+                                    { "value": "315325.77" }
+                                  ]
+                                },
+                                "type": "Section"
+                              },
+                              {
+                                "Header": {
+                                  "ColData": [
+                                    {
+                                      "value": "1150 Petty Cash Account",
+                                      "id": "191"
+                                    },
+                                    { "value": "" }
+                                  ]
+                                },
+                                "Rows": {
+                                  "Row": [
+                                    {
+                                      "ColData": [
+                                        {
+                                          "value": "1150.02 SJ Petty Cash",
+                                          "id": "510"
+                                        },
+                                        { "value": "258.00" }
+                                      ],
+                                      "type": "Data"
+                                    }
+                                  ]
+                                },
+                                "Summary": {
+                                  "ColData": [
+                                    {
+                                      "value": "Total 1150 Petty Cash Account"
+                                    },
+                                    { "value": "258.00" }
+                                  ]
+                                },
+                                "type": "Section"
+                              }
+                            ]
+                          },
+                          "Summary": {
+                            "ColData": [
+                              { "value": "Total 1100 Cash" },
+                              { "value": "1667622.12" }
+                            ]
+                          },
+                          "type": "Section"
+                        },
+                        {
+                          "Header": {
+                            "ColData": [
+                              {
+                                "value": "1200 Oper. Savings at the Arch Bank",
+                                "id": "95"
+                              },
+                              { "value": "" }
+                            ]
+                          },
+                          "Rows": {
+                            "Row": [
+                              {
+                                "Header": {
+                                  "ColData": [
+                                    {
+                                      "value": "1201 Regular Operating Savings",
+                                      "id": "96"
+                                    },
+                                    { "value": "" }
+                                  ]
+                                },
+                                "Rows": {
+                                  "Row": [
+                                    {
+                                      "ColData": [
+                                        {
+                                          "value": "1201.01 SSJFX Reg Savings 701435201",
+                                          "id": "556"
+                                        },
+                                        { "value": "518.66" }
+                                      ],
+                                      "type": "Data"
+                                    },
+                                    {
+                                      "ColData": [
+                                        {
+                                          "value": "1201.02 SFX Reg Svgs #701430201",
+                                          "id": "346"
+                                        },
+                                        { "value": "14000.19" }
+                                      ],
+                                      "type": "Data"
+                                    }
+                                  ]
+                                },
+                                "Summary": {
+                                  "ColData": [
+                                    {
+                                      "value": "Total 1201 Regular Operating Savings"
+                                    },
+                                    { "value": "14518.85" }
+                                  ]
+                                },
+                                "type": "Section"
+                              },
+                              {
+                                "Header": {
+                                  "ColData": [
+                                    {
+                                      "value": "1210 Certificates of Deposit",
+                                      "id": "97"
+                                    },
+                                    { "value": "" }
+                                  ]
+                                },
+                                "Rows": {
+                                  "Row": [
+                                    {
+                                      "Header": {
+                                        "ColData": [
+                                          {
+                                            "value": "1212 6 Month CD-Operating Savings",
+                                            "id": "99"
+                                          },
+                                          { "value": "" }
+                                        ]
+                                      },
+                                      "Rows": {
+                                        "Row": [
+                                          {
+                                            "ColData": [
+                                              {
+                                                "value": "1212.01 StJoseph6Mo Scholarship CD#0597",
+                                                "id": "356"
+                                              },
+                                              { "value": "101947.01" }
+                                            ],
+                                            "type": "Data"
+                                          }
+                                        ]
+                                      },
+                                      "Summary": {
+                                        "ColData": [
+                                          {
+                                            "value": "Total 1212 6 Month CD-Operating Savings"
+                                          },
+                                          { "value": "101947.01" }
+                                        ]
+                                      },
+                                      "type": "Section"
+                                    }
+                                  ]
+                                },
+                                "Summary": {
+                                  "ColData": [
+                                    {
+                                      "value": "Total 1210 Certificates of Deposit"
+                                    },
+                                    { "value": "101947.01" }
+                                  ]
+                                },
+                                "type": "Section"
+                              },
+                              {
+                                "Header": {
+                                  "ColData": [
+                                    {
+                                      "value": "1240 Stock Savings Account",
+                                      "id": "382"
+                                    },
+                                    { "value": "" }
+                                  ]
+                                },
+                                "Rows": {
+                                  "Row": [
+                                    {
+                                      "ColData": [
+                                        {
+                                          "value": "1240.01 SFX Stock/Mut Fund #401430250",
+                                          "id": "600"
+                                        },
+                                        { "value": "5804.10" }
+                                      ],
+                                      "type": "Data"
+                                    },
+                                    {
+                                      "ColData": [
+                                        {
+                                          "value": "1240.02 SFX Stock/Mut Fund #701430250",
+                                          "id": "651"
+                                        },
+                                        { "value": "40858.66" }
+                                      ],
+                                      "type": "Data"
+                                    },
+                                    {
+                                      "ColData": [
+                                        {
+                                          "value": "1240.03 StJoseph Stk/Mut Fnd #402440250",
+                                          "id": "609"
+                                        },
+                                        { "value": "3833.24" }
+                                      ],
+                                      "type": "Data"
+                                    },
+                                    {
+                                      "ColData": [
+                                        {
+                                          "value": "1240.04 StJoseph Stk/Mut Fnd #702440250",
+                                          "id": "601"
+                                        },
+                                        { "value": "31722.64" }
+                                      ],
+                                      "type": "Data"
+                                    }
+                                  ]
+                                },
+                                "Summary": {
+                                  "ColData": [
+                                    {
+                                      "value": "Total 1240 Stock Savings Account"
+                                    },
+                                    { "value": "82218.64" }
+                                  ]
+                                },
+                                "type": "Section"
+                              },
+                              {
+                                "Header": {
+                                  "ColData": [
+                                    {
+                                      "value": "1260 TTWCI Savings Account",
+                                      "id": "410"
+                                    },
+                                    { "value": "" }
+                                  ]
+                                },
+                                "Rows": {
+                                  "Row": [
+                                    {
+                                      "ColData": [
+                                        {
+                                          "value": "1260.01 SFX TTWCI #701430260",
+                                          "id": "599"
+                                        },
+                                        { "value": "103364.06" }
+                                      ],
+                                      "type": "Data"
+                                    },
+                                    {
+                                      "ColData": [
+                                        {
+                                          "value": "1260.02 St Joseph TTWCI #702440260",
+                                          "id": "693"
+                                        },
+                                        { "value": "115080.79" }
+                                      ],
+                                      "type": "Data"
+                                    }
+                                  ]
+                                },
+                                "Summary": {
+                                  "ColData": [
+                                    {
+                                      "value": "Total 1260 TTWCI Savings Account"
+                                    },
+                                    { "value": "218444.85" }
+                                  ]
+                                },
+                                "type": "Section"
+                              }
+                            ]
+                          },
+                          "Summary": {
+                            "ColData": [
+                              {
+                                "value": "Total 1200 Oper. Savings at the Arch Bank"
+                              },
+                              { "value": "417129.35" }
+                            ]
+                          },
+                          "type": "Section"
+                        },
+                        {
+                          "Header": {
+                            "ColData": [
+                              {
+                                "value": "1300 Long-Term/Restricted Savings",
+                                "id": "101"
+                              },
+                              { "value": "" }
+                            ]
+                          },
+                          "Rows": {
+                            "Row": [
+                              {
+                                "Header": {
+                                  "ColData": [
+                                    {
+                                      "value": "1301 Building Fund Savings",
+                                      "id": "188"
+                                    },
+                                    { "value": "" }
+                                  ]
+                                },
+                                "Rows": {
+                                  "Row": [
+                                    {
+                                      "ColData": [
+                                        {
+                                          "value": "1301.01 SFX Bldg Fund #701430204",
+                                          "id": "347"
+                                        },
+                                        { "value": "447489.93" }
+                                      ],
+                                      "type": "Data"
+                                    },
+                                    {
+                                      "ColData": [
+                                        {
+                                          "value": "1301.02 St Joseph Bldg Fund #702440204",
+                                          "id": "348"
+                                        },
+                                        { "value": "34489.31" }
+                                      ],
+                                      "type": "Data"
+                                    }
+                                  ]
+                                },
+                                "Summary": {
+                                  "ColData": [
+                                    {
+                                      "value": "Total 1301 Building Fund Savings"
+                                    },
+                                    { "value": "481979.24" }
+                                  ]
+                                },
+                                "type": "Section"
+                              },
+                              {
+                                "Header": {
+                                  "ColData": [
+                                    {
+                                      "value": "1350 Stipend Account",
+                                      "id": "198"
+                                    },
+                                    { "value": "" }
+                                  ]
+                                },
+                                "Rows": {
+                                  "Row": [
+                                    {
+                                      "ColData": [
+                                        {
+                                          "value": "1350.01 SFX Stipend Acct# 701430202",
+                                          "id": "353"
+                                        },
+                                        { "value": "6331.18" }
+                                      ],
+                                      "type": "Data"
+                                    }
+                                  ]
+                                },
+                                "Summary": {
+                                  "ColData": [
+                                    { "value": "Total 1350 Stipend Account" },
+                                    { "value": "6331.18" }
+                                  ]
+                                },
+                                "type": "Section"
+                              }
+                            ]
+                          },
+                          "Summary": {
+                            "ColData": [
+                              {
+                                "value": "Total 1300 Long-Term/Restricted Savings"
+                              },
+                              { "value": "488310.42" }
+                            ]
+                          },
+                          "type": "Section"
+                        },
+                        {
+                          "Header": {
+                            "ColData": [
+                              {
+                                "value": "1400 Endowment & Spc Investment Sav",
+                                "id": "194"
+                              },
+                              { "value": "" }
+                            ]
+                          },
+                          "Rows": {
+                            "Row": [
+                              {
+                                "Header": {
+                                  "ColData": [
+                                    {
+                                      "value": "1401 Parish Endowment Fund",
+                                      "id": "200"
+                                    },
+                                    { "value": "" }
+                                  ]
+                                },
+                                "Rows": {
+                                  "Row": [
+                                    {
+                                      "ColData": [
+                                        {
+                                          "value": "1401.01 SFX Parish Endwmt #701430212",
+                                          "id": "351"
+                                        },
+                                        { "value": "2217536.16" }
+                                      ],
+                                      "type": "Data"
+                                    },
+                                    {
+                                      "ColData": [
+                                        {
+                                          "value": "1401.02 StJoseph Endowment #702440212",
+                                          "id": "352"
+                                        },
+                                        { "value": "414139.40" }
+                                      ],
+                                      "type": "Data"
+                                    }
+                                  ]
+                                },
+                                "Summary": {
+                                  "ColData": [
+                                    {
+                                      "value": "Total 1401 Parish Endowment Fund"
+                                    },
+                                    { "value": "2631675.56" }
+                                  ]
+                                },
+                                "type": "Section"
+                              },
+                              {
+                                "Header": {
+                                  "ColData": [
+                                    {
+                                      "value": "1410 Parish Education Endowment Fund",
+                                      "id": "199"
+                                    },
+                                    { "value": "" }
+                                  ]
+                                },
+                                "Rows": {
+                                  "Row": [
+                                    {
+                                      "Header": {
+                                        "ColData": [
+                                          {
+                                            "value": "1410.01 SFX School Endwmt #701430211",
+                                            "id": "354"
+                                          },
+                                          { "value": "0.00" }
+                                        ]
+                                      },
+                                      "Rows": {
+                                        "Row": [
+                                          {
+                                            "ColData": [
+                                              {
+                                                "value": "1410.03 School Endowment (.826)",
+                                                "id": "551"
+                                              },
+                                              { "value": "796570.25" }
+                                            ],
+                                            "type": "Data"
+                                          },
+                                          {
+                                            "ColData": [
+                                              {
+                                                "value": "1410.04 Louise Murphy Scholar (.174)",
+                                                "id": "550"
+                                              },
+                                              { "value": "167080.81" }
+                                            ],
+                                            "type": "Data"
+                                          }
+                                        ]
+                                      },
+                                      "Summary": {
+                                        "ColData": [
+                                          {
+                                            "value": "Total 1410.01 SFX School Endwmt #701430211"
+                                          },
+                                          { "value": "963651.06" }
+                                        ]
+                                      },
+                                      "type": "Section"
+                                    }
+                                  ]
+                                },
+                                "Summary": {
+                                  "ColData": [
+                                    {
+                                      "value": "Total 1410 Parish Education Endowment Fund"
+                                    },
+                                    { "value": "963651.06" }
+                                  ]
+                                },
+                                "type": "Section"
+                              },
+                              {
+                                "Header": {
+                                  "ColData": [
+                                    {
+                                      "value": "1420 Growth Mutual Fund",
+                                      "id": "197"
+                                    },
+                                    { "value": "" }
+                                  ]
+                                },
+                                "Rows": {
+                                  "Row": [
+                                    {
+                                      "ColData": [
+                                        {
+                                          "value": "1420.01 SFX GowthFund #701430231 (SVDP)",
+                                          "id": "349"
+                                        },
+                                        { "value": "167889.44" }
+                                      ],
+                                      "type": "Data"
+                                    }
+                                  ]
+                                },
+                                "Summary": {
+                                  "ColData": [
+                                    {
+                                      "value": "Total 1420 Growth Mutual Fund"
+                                    },
+                                    { "value": "167889.44" }
+                                  ]
+                                },
+                                "type": "Section"
+                              },
+                              {
+                                "Header": {
+                                  "ColData": [
+                                    {
+                                      "value": "1430 Balanced Mutual Fund",
+                                      "id": "196"
+                                    },
+                                    { "value": "" }
+                                  ]
+                                },
+                                "Rows": {
+                                  "Row": [
+                                    {
+                                      "ColData": [
+                                        {
+                                          "value": "1430.01 StJoseph Bal Fund #702440229",
+                                          "id": "355"
+                                        },
+                                        { "value": "0.00" }
+                                      ],
+                                      "type": "Data"
+                                    }
+                                  ]
+                                },
+                                "Summary": {
+                                  "ColData": [
+                                    {
+                                      "value": "Total 1430 Balanced Mutual Fund"
+                                    },
+                                    { "value": "0.00" }
+                                  ]
+                                },
+                                "type": "Section"
+                              }
+                            ]
+                          },
+                          "Summary": {
+                            "ColData": [
+                              {
+                                "value": "Total 1400 Endowment & Spc Investment Sav"
+                              },
+                              { "value": "3763216.06" }
+                            ]
+                          },
+                          "type": "Section"
+                        }
+                      ]
+                    },
+                    "Summary": {
+                      "ColData": [
+                        { "value": "Total Bank Accounts" },
+                        { "value": "6336277.95" }
+                      ]
+                    },
+                    "type": "Section",
+                    "group": "BankAccounts"
+                  },
+                  {
+                    "Header": {
+                      "ColData": [
+                        { "value": "Other Current Assets" },
+                        { "value": "" }
+                      ]
+                    },
+                    "Rows": {
+                      "Row": [
+                        {
+                          "Header": {
+                            "ColData": [
+                              {
+                                "value": "1600 Other Current Assets",
+                                "id": "237"
+                              },
+                              { "value": "" }
+                            ]
+                          },
+                          "Rows": {
+                            "Row": [
+                              {
+                                "Header": {
+                                  "ColData": [
+                                    {
+                                      "value": "1603 Other Current Assets",
+                                      "id": "298"
+                                    },
+                                    { "value": "" }
+                                  ]
+                                },
+                                "Rows": {
+                                  "Row": [
+                                    {
+                                      "Header": {
+                                        "ColData": [
+                                          {
+                                            "value": "1603.30 St. Francis Xavier Other Assets",
+                                            "id": "531"
+                                          },
+                                          { "value": "" }
+                                        ]
+                                      },
+                                      "Rows": {
+                                        "Row": [
+                                          {
+                                            "ColData": [
+                                              {
+                                                "value": "1603.33 SFX Marketable Security",
+                                                "id": "538"
+                                              },
+                                              { "value": "38437.50" }
+                                            ],
+                                            "type": "Data"
+                                          },
+                                          {
+                                            "ColData": [
+                                              {
+                                                "value": "1603.37 SFX School Technology Fund",
+                                                "id": "618"
+                                              },
+                                              { "value": "62705.27" }
+                                            ],
+                                            "type": "Data"
+                                          },
+                                          {
+                                            "ColData": [
+                                              {
+                                                "value": "1603.38 SFX Undesignated Scholar/Proj",
+                                                "id": "662"
+                                              },
+                                              { "value": "221972.77" }
+                                            ],
+                                            "type": "Data"
+                                          },
+                                          {
+                                            "ColData": [
+                                              {
+                                                "value": "1603.39 SFX EPIC Proj. Fund",
+                                                "id": "619"
+                                              },
+                                              { "value": "134244.00" }
+                                            ],
+                                            "type": "Data"
+                                          },
+                                          {
+                                            "ColData": [
+                                              {
+                                                "value": "1603.40 SFX School Fund the Need",
+                                                "id": "696"
+                                              },
+                                              { "value": "302198.00" }
+                                            ],
+                                            "type": "Data"
+                                          },
+                                          {
+                                            "ColData": [
+                                              {
+                                                "value": "1603.41 SFX School Teacher Development",
+                                                "id": "620"
+                                              },
+                                              { "value": "38552.75" }
+                                            ],
+                                            "type": "Data"
+                                          },
+                                          {
+                                            "ColData": [
+                                              {
+                                                "value": "1603.42 SFX School Events Funds",
+                                                "id": "663"
+                                              },
+                                              { "value": "33366.00" }
+                                            ],
+                                            "type": "Data"
+                                          }
+                                        ]
+                                      },
+                                      "Summary": {
+                                        "ColData": [
+                                          {
+                                            "value": "Total 1603.30 St. Francis Xavier Other Assets"
+                                          },
+                                          { "value": "831476.29" }
+                                        ]
+                                      },
+                                      "type": "Section"
+                                    }
+                                  ]
+                                },
+                                "Summary": {
+                                  "ColData": [
+                                    {
+                                      "value": "Total 1603 Other Current Assets"
+                                    },
+                                    { "value": "831476.29" }
+                                  ]
+                                },
+                                "type": "Section"
+                              }
+                            ]
+                          },
+                          "Summary": {
+                            "ColData": [
+                              { "value": "Total 1600 Other Current Assets" },
+                              { "value": "831476.29" }
+                            ]
+                          },
+                          "type": "Section"
+                        }
+                      ]
+                    },
+                    "Summary": {
+                      "ColData": [
+                        { "value": "Total Other Current Assets" },
+                        { "value": "831476.29" }
+                      ]
+                    },
+                    "type": "Section",
+                    "group": "OtherCurrentAssets"
+                  }
+                ]
+              },
+              "Summary": {
+                "ColData": [
+                  { "value": "Total Current Assets" },
+                  { "value": "7167754.24" }
+                ]
+              },
+              "type": "Section",
+              "group": "CurrentAssets"
+            }
+          ]
+        },
+        "Summary": {
+          "ColData": [{ "value": "TOTAL ASSETS" }, { "value": "7167754.24" }]
+        },
+        "type": "Section",
+        "group": "TotalAssets"
+      },
+      {
+        "Header": {
+          "ColData": [{ "value": "LIABILITIES AND EQUITY" }, { "value": "" }]
+        },
+        "Rows": {
+          "Row": [
+            {
+              "Header": {
+                "ColData": [{ "value": "Liabilities" }, { "value": "" }]
+              },
+              "Rows": {
+                "Row": [
+                  {
+                    "Header": {
+                      "ColData": [
+                        { "value": "Current Liabilities" },
+                        { "value": "" }
+                      ]
+                    },
+                    "Rows": {
+                      "Row": [
+                        {
+                          "Header": {
+                            "ColData": [
+                              { "value": "Accounts Payable" },
+                              { "value": "" }
+                            ]
+                          },
+                          "Rows": {
+                            "Row": [
+                              {
+                                "ColData": [
+                                  {
+                                    "value": "2000 Accounts Payable",
+                                    "id": "217"
+                                  },
+                                  { "value": "114953.63" }
+                                ],
+                                "type": "Data"
+                              }
+                            ]
+                          },
+                          "Summary": {
+                            "ColData": [
+                              { "value": "Total Accounts Payable" },
+                              { "value": "114953.63" }
+                            ]
+                          },
+                          "type": "Section",
+                          "group": "AP"
+                        },
+                        {
+                          "Header": {
+                            "ColData": [
+                              { "value": "Credit Cards" },
+                              { "value": "" }
+                            ]
+                          },
+                          "Rows": {
+                            "Row": [
+                              {
+                                "Header": {
+                                  "ColData": [
+                                    {
+                                      "value": "2010 Procurement Card Payable",
+                                      "id": "381"
+                                    },
+                                    { "value": "-4664.01" }
+                                  ]
+                                },
+                                "Rows": {
+                                  "Row": [
+                                    {
+                                      "ColData": [
+                                        {
+                                          "value": "2010.01 SSJFX",
+                                          "id": "610"
+                                        },
+                                        { "value": "-15922.90" }
+                                      ],
+                                      "type": "Data"
+                                    },
+                                    {
+                                      "ColData": [
+                                        { "value": "2010.02 SJS", "id": "682" },
+                                        { "value": "-4069.86" }
+                                      ],
+                                      "type": "Data"
+                                    },
+                                    {
+                                      "ColData": [
+                                        {
+                                          "value": "2010.03 SFXS",
+                                          "id": "611"
+                                        },
+                                        { "value": "-18149.85" }
+                                      ],
+                                      "type": "Data"
+                                    }
+                                  ]
+                                },
+                                "Summary": {
+                                  "ColData": [
+                                    {
+                                      "value": "Total 2010 Procurement Card Payable"
+                                    },
+                                    { "value": "-42806.62" }
+                                  ]
+                                },
+                                "type": "Section"
+                              }
+                            ]
+                          },
+                          "Summary": {
+                            "ColData": [
+                              { "value": "Total Credit Cards" },
+                              { "value": "-42806.62" }
+                            ]
+                          },
+                          "type": "Section",
+                          "group": "CreditCards"
+                        },
+                        {
+                          "Header": {
+                            "ColData": [
+                              { "value": "Other Current Liabilities" },
+                              { "value": "" }
+                            ]
+                          },
+                          "Rows": {
+                            "Row": [
+                              {
+                                "Header": {
+                                  "ColData": [
+                                    {
+                                      "value": "2200 Other Payroll Withholdings",
+                                      "id": "104"
+                                    },
+                                    { "value": "" }
+                                  ]
+                                },
+                                "Rows": {
+                                  "Row": [
+                                    {
+                                      "Header": {
+                                        "ColData": [
+                                          {
+                                            "value": "2204 Employee Health Ins. Withheld",
+                                            "id": "105"
+                                          },
+                                          { "value": "0.00" }
+                                        ]
+                                      },
+                                      "Rows": {
+                                        "Row": [
+                                          {
+                                            "ColData": [
+                                              {
+                                                "value": "2204.02 SJ Payroll Health Deductions",
+                                                "id": "443"
+                                              },
+                                              { "value": "-4462.80" }
+                                            ],
+                                            "type": "Data"
+                                          },
+                                          {
+                                            "ColData": [
+                                              {
+                                                "value": "2204.03 SFX Payroll Health Deductions",
+                                                "id": "444"
+                                              },
+                                              { "value": "-278.49" }
+                                            ],
+                                            "type": "Data"
+                                          }
+                                        ]
+                                      },
+                                      "Summary": {
+                                        "ColData": [
+                                          {
+                                            "value": "Total 2204 Employee Health Ins. Withheld"
+                                          },
+                                          { "value": "-4741.29" }
+                                        ]
+                                      },
+                                      "type": "Section"
+                                    },
+                                    {
+                                      "Header": {
+                                        "ColData": [
+                                          {
+                                            "value": "2205 Employee Dental Ins. Co-Pay",
+                                            "id": "106"
+                                          },
+                                          { "value": "0.00" }
+                                        ]
+                                      },
+                                      "Rows": {
+                                        "Row": [
+                                          {
+                                            "ColData": [
+                                              {
+                                                "value": "2205.02 SJ Payroll Dental Deductions",
+                                                "id": "445"
+                                              },
+                                              { "value": "-725.45" }
+                                            ],
+                                            "type": "Data"
+                                          },
+                                          {
+                                            "ColData": [
+                                              {
+                                                "value": "2205.03 SFX Payroll Dental Deductions",
+                                                "id": "446"
+                                              },
+                                              { "value": "2010.16" }
+                                            ],
+                                            "type": "Data"
+                                          }
+                                        ]
+                                      },
+                                      "Summary": {
+                                        "ColData": [
+                                          {
+                                            "value": "Total 2205 Employee Dental Ins. Co-Pay"
+                                          },
+                                          { "value": "1284.71" }
+                                        ]
+                                      },
+                                      "type": "Section"
+                                    },
+                                    {
+                                      "ColData": [
+                                        {
+                                          "value": "2211 Other Wage Garnishments",
+                                          "id": "277"
+                                        },
+                                        { "value": "0.00" }
+                                      ],
+                                      "type": "Data"
+                                    }
+                                  ]
+                                },
+                                "Summary": {
+                                  "ColData": [
+                                    {
+                                      "value": "Total 2200 Other Payroll Withholdings"
+                                    },
+                                    { "value": "-3456.58" }
+                                  ]
+                                },
+                                "type": "Section"
+                              },
+                              {
+                                "Header": {
+                                  "ColData": [
+                                    {
+                                      "value": "2300 Archdiocesan Obligations",
+                                      "id": "294"
+                                    },
+                                    { "value": "" }
+                                  ]
+                                },
+                                "Rows": {
+                                  "Row": [
+                                    {
+                                      "Header": {
+                                        "ColData": [
+                                          {
+                                            "value": "2313 Principal/Interest Due on Loan",
+                                            "id": "295"
+                                          },
+                                          { "value": "" }
+                                        ]
+                                      },
+                                      "Rows": {
+                                        "Row": [
+                                          {
+                                            "ColData": [
+                                              {
+                                                "value": "2313.87 SJ Church FY17 A/R Balance Prin",
+                                                "id": "473"
+                                              },
+                                              { "value": "45932.88" }
+                                            ],
+                                            "type": "Data"
+                                          },
+                                          {
+                                            "ColData": [
+                                              {
+                                                "value": "2313.89 SJ Church FY18 A/R Balance Prin",
+                                                "id": "415"
+                                              },
+                                              { "value": "159754.50" }
+                                            ],
+                                            "type": "Data"
+                                          },
+                                          {
+                                            "ColData": [
+                                              {
+                                                "value": "2313.91 SJ Church FY19 A/R Balance Prin",
+                                                "id": "417"
+                                              },
+                                              { "value": "102846.12" }
+                                            ],
+                                            "type": "Data"
+                                          },
+                                          {
+                                            "ColData": [
+                                              {
+                                                "value": "2313.92 SJ Church FY19 A/R Balance Int",
+                                                "id": "418"
+                                              },
+                                              { "value": "2566.81" }
+                                            ],
+                                            "type": "Data"
+                                          },
+                                          {
+                                            "ColData": [
+                                              {
+                                                "value": "2313.93 SJ School FY17 A/R Balance Prin",
+                                                "id": "468"
+                                              },
+                                              { "value": "51112.00" }
+                                            ],
+                                            "type": "Data"
+                                          },
+                                          {
+                                            "ColData": [
+                                              {
+                                                "value": "2313.95 SJ School FY18 A/R Balance Prin",
+                                                "id": "469"
+                                              },
+                                              { "value": "179662.00" }
+                                            ],
+                                            "type": "Data"
+                                          },
+                                          {
+                                            "ColData": [
+                                              {
+                                                "value": "2313.97 SJ School FY19 A/R Balance Prin",
+                                                "id": "471"
+                                              },
+                                              { "value": "169669.22" }
+                                            ],
+                                            "type": "Data"
+                                          },
+                                          {
+                                            "ColData": [
+                                              {
+                                                "value": "2313.98 SJ School FY19 A/R Balance Int",
+                                                "id": "472"
+                                              },
+                                              { "value": "2838.72" }
+                                            ],
+                                            "type": "Data"
+                                          }
+                                        ]
+                                      },
+                                      "Summary": {
+                                        "ColData": [
+                                          {
+                                            "value": "Total 2313 Principal/Interest Due on Loan"
+                                          },
+                                          { "value": "714382.25" }
+                                        ]
+                                      },
+                                      "type": "Section"
+                                    }
+                                  ]
+                                },
+                                "Summary": {
+                                  "ColData": [
+                                    {
+                                      "value": "Total 2300 Archdiocesan Obligations"
+                                    },
+                                    { "value": "714382.25" }
+                                  ]
+                                },
+                                "type": "Section"
+                              },
+                              {
+                                "Header": {
+                                  "ColData": [
+                                    {
+                                      "value": "2400 Prepaid Tuition & Fees",
+                                      "id": "399"
+                                    },
+                                    { "value": "" }
+                                  ]
+                                },
+                                "Rows": {
+                                  "Row": [
+                                    {
+                                      "Header": {
+                                        "ColData": [
+                                          {
+                                            "value": "2401 SJS PrePaid Tuition & Fees",
+                                            "id": "457"
+                                          },
+                                          { "value": "" }
+                                        ]
+                                      },
+                                      "Rows": {
+                                        "Row": [
+                                          {
+                                            "ColData": [
+                                              {
+                                                "value": "2401.01 SJS Pre School Reg",
+                                                "id": "534"
+                                              },
+                                              { "value": "0.00" }
+                                            ],
+                                            "type": "Data"
+                                          },
+                                          {
+                                            "ColData": [
+                                              {
+                                                "value": "2401.03 SJS K-8 Registration",
+                                                "id": "536"
+                                              },
+                                              { "value": "0.00" }
+                                            ],
+                                            "type": "Data"
+                                          },
+                                          {
+                                            "ColData": [
+                                              {
+                                                "value": "2401.04 SJS K-8 Tuition",
+                                                "id": "537"
+                                              },
+                                              { "value": "0.00" }
+                                            ],
+                                            "type": "Data"
+                                          }
+                                        ]
+                                      },
+                                      "Summary": {
+                                        "ColData": [
+                                          {
+                                            "value": "Total 2401 SJS PrePaid Tuition & Fees"
+                                          },
+                                          { "value": "0.00" }
+                                        ]
+                                      },
+                                      "type": "Section"
+                                    },
+                                    {
+                                      "Header": {
+                                        "ColData": [
+                                          {
+                                            "value": "2402 SFXS PrePaid Tuition & Fees",
+                                            "id": "458"
+                                          },
+                                          { "value": "" }
+                                        ]
+                                      },
+                                      "Rows": {
+                                        "Row": [
+                                          {
+                                            "ColData": [
+                                              {
+                                                "value": "2402.03 SFX Pre Paid K-8 Fees",
+                                                "id": "474"
+                                              },
+                                              { "value": "0.00" }
+                                            ],
+                                            "type": "Data"
+                                          },
+                                          {
+                                            "ColData": [
+                                              {
+                                                "value": "2402.04 SFX Pre Paid K-8 Tuition",
+                                                "id": "475"
+                                              },
+                                              { "value": "0.00" }
+                                            ],
+                                            "type": "Data"
+                                          },
+                                          {
+                                            "ColData": [
+                                              {
+                                                "value": "2402.06 SFX Pre Paid PREP Tuition",
+                                                "id": "477"
+                                              },
+                                              { "value": "0.00" }
+                                            ],
+                                            "type": "Data"
+                                          },
+                                          {
+                                            "ColData": [
+                                              {
+                                                "value": "2402.07 SFX Pre Paid Camp Fees",
+                                                "id": "478"
+                                              },
+                                              { "value": "0.00" }
+                                            ],
+                                            "type": "Data"
+                                          }
+                                        ]
+                                      },
+                                      "Summary": {
+                                        "ColData": [
+                                          {
+                                            "value": "Total 2402 SFXS PrePaid Tuition & Fees"
+                                          },
+                                          { "value": "0.00" }
+                                        ]
+                                      },
+                                      "type": "Section"
+                                    }
+                                  ]
+                                },
+                                "Summary": {
+                                  "ColData": [
+                                    {
+                                      "value": "Total 2400 Prepaid Tuition & Fees"
+                                    },
+                                    { "value": "0.00" }
+                                  ]
+                                },
+                                "type": "Section"
+                              },
+                              {
+                                "Header": {
+                                  "ColData": [
+                                    {
+                                      "value": "2475 Parish SBA - PPP Proceeds",
+                                      "id": "362"
+                                    },
+                                    { "value": "" }
+                                  ]
+                                },
+                                "Rows": {
+                                  "Row": [
+                                    {
+                                      "Header": {
+                                        "ColData": [
+                                          {
+                                            "value": "2475.10 Church SBA  PPP Proceeds",
+                                            "id": "363"
+                                          },
+                                          { "value": "" }
+                                        ]
+                                      },
+                                      "Rows": {
+                                        "Row": [
+                                          {
+                                            "ColData": [
+                                              {
+                                                "value": "2475.11 St. Joseph",
+                                                "id": "452"
+                                              },
+                                              { "value": "118152.75" }
+                                            ],
+                                            "type": "Data"
+                                          },
+                                          {
+                                            "ColData": [
+                                              {
+                                                "value": "2475.12 St. Francis Xavier",
+                                                "id": "453"
+                                              },
+                                              { "value": "189616.64" }
+                                            ],
+                                            "type": "Data"
+                                          }
+                                        ]
+                                      },
+                                      "Summary": {
+                                        "ColData": [
+                                          {
+                                            "value": "Total 2475.10 Church SBA  PPP Proceeds"
+                                          },
+                                          { "value": "307769.39" }
+                                        ]
+                                      },
+                                      "type": "Section"
+                                    },
+                                    {
+                                      "Header": {
+                                        "ColData": [
+                                          {
+                                            "value": "2475.20 School SBA  PPP Proceeds",
+                                            "id": "364"
+                                          },
+                                          { "value": "" }
+                                        ]
+                                      },
+                                      "Rows": {
+                                        "Row": [
+                                          {
+                                            "ColData": [
+                                              {
+                                                "value": "2475.21 St. Joseph",
+                                                "id": "454"
+                                              },
+                                              { "value": "142519.25" }
+                                            ],
+                                            "type": "Data"
+                                          },
+                                          {
+                                            "ColData": [
+                                              {
+                                                "value": "2475.22 St. Francis Xavier",
+                                                "id": "455"
+                                              },
+                                              { "value": "675048.36" }
+                                            ],
+                                            "type": "Data"
+                                          }
+                                        ]
+                                      },
+                                      "Summary": {
+                                        "ColData": [
+                                          {
+                                            "value": "Total 2475.20 School SBA  PPP Proceeds"
+                                          },
+                                          { "value": "817567.61" }
+                                        ]
+                                      },
+                                      "type": "Section"
+                                    }
+                                  ]
+                                },
+                                "Summary": {
+                                  "ColData": [
+                                    {
+                                      "value": "Total 2475 Parish SBA - PPP Proceeds"
+                                    },
+                                    { "value": "1125337.00" }
+                                  ]
+                                },
+                                "type": "Section"
+                              },
+                              {
+                                "Header": {
+                                  "ColData": [
+                                    {
+                                      "value": "2500 Other Current Liabilities",
+                                      "id": "394"
+                                    },
+                                    { "value": "0.00" }
+                                  ]
+                                },
+                                "Rows": {
+                                  "Row": [
+                                    {
+                                      "Header": {
+                                        "ColData": [
+                                          {
+                                            "value": "2540 Old QB to Merged File Accrual",
+                                            "id": "432"
+                                          },
+                                          { "value": "" }
+                                        ]
+                                      },
+                                      "Rows": {
+                                        "Row": [
+                                          {
+                                            "ColData": [
+                                              {
+                                                "value": "2541 St. Joseph Accrual",
+                                                "id": "433"
+                                              },
+                                              { "value": "0.00" }
+                                            ],
+                                            "type": "Data"
+                                          },
+                                          {
+                                            "Header": {
+                                              "ColData": [
+                                                {
+                                                  "value": "2542 St Francis Xavier Accrual",
+                                                  "id": "434"
+                                                },
+                                                { "value": "0.00" }
+                                              ]
+                                            },
+                                            "Rows": {
+                                              "Row": [
+                                                {
+                                                  "ColData": [
+                                                    {
+                                                      "value": "2542.04 Funds Held St. Thomas School",
+                                                      "id": "480"
+                                                    },
+                                                    { "value": "1991.16" }
+                                                  ],
+                                                  "type": "Data"
+                                                },
+                                                {
+                                                  "ColData": [
+                                                    {
+                                                      "value": "2542.05 Funds for St. Thomas FoodPantry",
+                                                      "id": "481"
+                                                    },
+                                                    { "value": "2460.00" }
+                                                  ],
+                                                  "type": "Data"
+                                                },
+                                                {
+                                                  "ColData": [
+                                                    {
+                                                      "value": "2542.07 SFX School Technology Fund",
+                                                      "id": "482"
+                                                    },
+                                                    { "value": "62705.27" }
+                                                  ],
+                                                  "type": "Data"
+                                                },
+                                                {
+                                                  "ColData": [
+                                                    {
+                                                      "value": "2542.08 SFX Undesignated Scholar/Proj",
+                                                      "id": "483"
+                                                    },
+                                                    { "value": "221972.77" }
+                                                  ],
+                                                  "type": "Data"
+                                                },
+                                                {
+                                                  "ColData": [
+                                                    {
+                                                      "value": "2542.09 SFX EPIC Fund",
+                                                      "id": "484"
+                                                    },
+                                                    { "value": "134244.00" }
+                                                  ],
+                                                  "type": "Data"
+                                                },
+                                                {
+                                                  "ColData": [
+                                                    {
+                                                      "value": "2542.10 SFX School Fund the Need",
+                                                      "id": "485"
+                                                    },
+                                                    { "value": "302198.00" }
+                                                  ],
+                                                  "type": "Data"
+                                                },
+                                                {
+                                                  "ColData": [
+                                                    {
+                                                      "value": "2542.11 SFX School Teacher Development",
+                                                      "id": "486"
+                                                    },
+                                                    { "value": "38552.75" }
+                                                  ],
+                                                  "type": "Data"
+                                                },
+                                                {
+                                                  "ColData": [
+                                                    {
+                                                      "value": "2542.12 SFX School Events",
+                                                      "id": "487"
+                                                    },
+                                                    { "value": "33366.00" }
+                                                  ],
+                                                  "type": "Data"
+                                                }
+                                              ]
+                                            },
+                                            "Summary": {
+                                              "ColData": [
+                                                {
+                                                  "value": "Total 2542 St Francis Xavier Accrual"
+                                                },
+                                                { "value": "797489.95" }
+                                              ]
+                                            },
+                                            "type": "Section"
+                                          }
+                                        ]
+                                      },
+                                      "Summary": {
+                                        "ColData": [
+                                          {
+                                            "value": "Total 2540 Old QB to Merged File Accrual"
+                                          },
+                                          { "value": "797489.95" }
+                                        ]
+                                      },
+                                      "type": "Section"
+                                    }
+                                  ]
+                                },
+                                "Summary": {
+                                  "ColData": [
+                                    {
+                                      "value": "Total 2500 Other Current Liabilities"
+                                    },
+                                    { "value": "797489.95" }
+                                  ]
+                                },
+                                "type": "Section"
+                              }
+                            ]
+                          },
+                          "Summary": {
+                            "ColData": [
+                              { "value": "Total Other Current Liabilities" },
+                              { "value": "2633752.62" }
+                            ]
+                          },
+                          "type": "Section",
+                          "group": "OtherCurrentLiabilities"
+                        }
+                      ]
+                    },
+                    "Summary": {
+                      "ColData": [
+                        { "value": "Total Current Liabilities" },
+                        { "value": "2705899.63" }
+                      ]
+                    },
+                    "type": "Section",
+                    "group": "CurrentLiabilities"
+                  }
+                ]
+              },
+              "Summary": {
+                "ColData": [
+                  { "value": "Total Liabilities" },
+                  { "value": "2705899.63" }
+                ]
+              },
+              "type": "Section",
+              "group": "Liabilities"
+            },
+            {
+              "Header": { "ColData": [{ "value": "Equity" }, { "value": "" }] },
+              "Rows": {
+                "Row": [
+                  {
+                    "ColData": [
+                      { "value": "2703 Opening Bal Equity", "id": "202" },
+                      { "value": "5065889.96" }
+                    ],
+                    "type": "Data"
+                  },
+                  {
+                    "ColData": [
+                      { "value": "3900 Retained Earnings", "id": "393" },
+                      { "value": "-1077882.02" }
+                    ],
+                    "type": "Data"
+                  },
+                  {
+                    "ColData": [
+                      { "value": "Net Income" },
+                      { "value": "473846.67" }
+                    ],
+                    "type": "Data",
+                    "group": "NetIncome"
+                  }
+                ]
+              },
+              "Summary": {
+                "ColData": [
+                  { "value": "Total Equity" },
+                  { "value": "4461854.61" }
+                ]
+              },
+              "type": "Section",
+              "group": "Equity"
+            }
+          ]
+        },
+        "Summary": {
+          "ColData": [
+            { "value": "TOTAL LIABILITIES AND EQUITY" },
+            { "value": "7167754.24" }
+          ]
+        },
+        "type": "Section",
+        "group": "TotalLiabilitiesAndEquity"
+      }
+    ]
+  }
+}

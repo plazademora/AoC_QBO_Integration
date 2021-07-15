@@ -1,0 +1,99 @@
+{"Rows": {
+    "Row": [
+      {
+        "Header": { "ColData": [{ "value": "Income" }, { "value": "" }] },
+        "Rows": {
+          "Row": [
+            {
+                "ColData": [
+                  {
+                    "value": "3000 Sunday and Holy Day Collections",
+                    "id": "107"
+                  },
+                  { "value": "225.00" }
+                ],
+              "Rows": {
+                "Row": [
+                  {
+                      "ColData": [
+                        { "value": "3011 Sunday Collection", "id": "108" },
+                        { "value": "" }
+                      ],
+                    "Rows": {
+                      "Row": [
+                        {
+                          "ColData": [
+                            {
+                              "value": "3012 Sunday Collection Envelopes",
+                              "id": "278"
+                            },
+                            { "value": "496607.06" }
+                          ]
+                        },
+                        {
+                            "ColData": [
+                              {
+                                "value": "3013 Sunday Collection Loose Ck/Cash",
+                                "id": "279"
+                              },
+                              { "value": "1376.00" }
+                            ],
+                          "Rows": {
+                            "Row": [
+                              {
+                                "ColData": [
+                                  {
+                                    "value": "3013.1 Counting Error",
+                                    "id": "692"
+                                  },
+                                  { "value": "452.45" }
+                                ]
+                              }
+                            ]
+                          }
+                        },
+                        {
+                          "ColData": [
+                            {
+                              "value": "3014 Sunday Collections E-Giving",
+                              "id": "406"
+                            },
+                            { "value": "677434.11" }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "Rows": {
+                      "Row": [
+                        {
+                          "ColData": [
+                            {
+                              "value": "3016 Holy Day Collection Envelopes",
+                              "id": "281"
+                            },
+                            { "value": "5408.00" }
+                          ]
+                        },
+                        {
+                          "ColData": [
+                            {
+                              "value": "3017 Holy Day Collect. Loose Ck/Cash",
+                              "id": "280"
+                            },
+                            { "value": "568.00" }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              }
+            }
+          ]   
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,2813 @@
+{
+  "Header": {
+    "Time": "2021-06-07T12:55:08-07:00",
+    "ReportName": "ProfitAndLoss",
+    "DateMacro": "this fiscal year-to-date",
+    "ReportBasis": "Accrual",
+    "StartPeriod": "2020-07-01",
+    "EndPeriod": "2021-06-07",
+    "SummarizeColumnsBy": "Total",
+    "Currency": "USD",
+    "Option": [
+      { "Name": "AccountingStandard", "Value": "GAAP" },
+      { "Name": "NoReportData", "Value": "false" }
+    ]
+  },
+  "Columns": {
+    "Column": [
+      {
+        "ColTitle": "",
+        "ColType": "Account",
+        "MetaData": [{ "Name": "ColKey", "Value": "account" }]
+      },
+      {
+        "ColTitle": "Total",
+        "ColType": "Money",
+        "MetaData": [{ "Name": "ColKey", "Value": "total" }]
+      }
+    ]
+  },
+  "Rows": {
+    "Row": [
+      {
+        "Header": { "ColData": [{ "value": "Income" }, { "value": "" }] },
+        "Rows": {
+          "Row": [
+            {
+              "Header": {
+                "ColData": [
+                  {
+                    "value": "3000 Sunday and Holy Day Collections",
+                    "id": "107"
+                  },
+                  { "value": "225.00" }
+                ]
+              },
+              "Rows": {
+                "Row": [
+                  {
+                    "Header": {
+                      "ColData": [
+                        { "value": "3011 Sunday Collection", "id": "108" },
+                        { "value": "" }
+                      ]
+                    },
+                    "Rows": {
+                      "Row": [
+                        {
+                          "ColData": [
+                            {
+                              "value": "3012 Sunday Collection Envelopes",
+                              "id": "278"
+                            },
+                            { "value": "496607.06" }
+                          ],
+                          "type": "Data"
+                        },
+                        {
+                          "Header": {
+                            "ColData": [
+                              {
+                                "value": "3013 Sunday Collection Loose Ck/Cash",
+                                "id": "279"
+                              },
+                              { "value": "1376.00" }
+                            ]
+                          },
+                          "Rows": {
+                            "Row": [
+                              {
+                                "ColData": [
+                                  {
+                                    "value": "3013.1 Counting Error",
+                                    "id": "692"
+                                  },
+                                  { "value": "452.45" }
+                                ],
+                                "type": "Data"
+                              }
+                            ]
+                          },
+                          "Summary": {
+                            "ColData": [
+                              {
+                                "value": "Total 3013 Sunday Collection Loose Ck/Cash"
+                              },
+                              { "value": "1828.45" }
+                            ]
+                          },
+                          "type": "Section"
+                        },
+                        {
+                          "ColData": [
+                            {
+                              "value": "3014 Sunday Collections E-Giving",
+                              "id": "406"
+                            },
+                            { "value": "677434.11" }
+                          ],
+                          "type": "Data"
+                        }
+                      ]
+                    },
+                    "Summary": {
+                      "ColData": [
+                        { "value": "Total 3011 Sunday Collection" },
+                        { "value": "1175869.62" }
+                      ]
+                    },
+                    "type": "Section"
+                  },
+                  {
+                    "Header": {
+                      "ColData": [
+                        { "value": "3015 Holy Day Collection", "id": "109" },
+                        { "value": "" }
+                      ]
+                    },
+                    "Rows": {
+                      "Row": [
+                        {
+                          "ColData": [
+                            {
+                              "value": "3016 Holy Day Collection Envelopes",
+                              "id": "281"
+                            },
+                            { "value": "5408.00" }
+                          ],
+                          "type": "Data"
+                        },
+                        {
+                          "ColData": [
+                            {
+                              "value": "3017 Holy Day Collect. Loose Ck/Cash",
+                              "id": "280"
+                            },
+                            { "value": "568.00" }
+                          ],
+                          "type": "Data"
+                        }
+                      ]
+                    },
+                    "Summary": {
+                      "ColData": [
+                        { "value": "Total 3015 Holy Day Collection" },
+                        { "value": "5976.00" }
+                      ]
+                    },
+                    "type": "Section"
+                  }
+                ]
+              },
+              "Summary": {
+                "ColData": [
+                  { "value": "Total 3000 Sunday and Holy Day Collections" },
+                  { "value": "1182070.62" }
+                ]
+              },
+              "type": "Section"
+            },
+            {
+              "ColData": [
+                { "value": "3020 Christmas Collection", "id": "110" },
+                { "value": "350328.00" }
+              ],
+              "type": "Data"
+            },
+            {
+              "ColData": [
+                { "value": "3030 Easter Collection", "id": "111" },
+                { "value": "750.00" }
+              ],
+              "type": "Data"
+            },
+            {
+              "Header": {
+                "ColData": [
+                  { "value": "3040 Other Collections", "id": "112" },
+                  { "value": "" }
+                ]
+              },
+              "Rows": {
+                "Row": [
+                  {
+                    "ColData": [
+                      { "value": "3042 Flowers Collection", "id": "558" },
+                      { "value": "1173.00" }
+                    ],
+                    "type": "Data"
+                  },
+                  {
+                    "ColData": [
+                      {
+                        "value": "3043 School Support Collection",
+                        "id": "282"
+                      },
+                      { "value": "140.00" }
+                    ],
+                    "type": "Data"
+                  },
+                  {
+                    "ColData": [
+                      { "value": "3045 Almsgiving", "id": "369" },
+                      { "value": "5828.00" }
+                    ],
+                    "type": "Data"
+                  }
+                ]
+              },
+              "Summary": {
+                "ColData": [
+                  { "value": "Total 3040 Other Collections" },
+                  { "value": "7141.00" }
+                ]
+              },
+              "type": "Section"
+            },
+            {
+              "Header": {
+                "ColData": [
+                  { "value": "3100 Tuition", "id": "392" },
+                  { "value": "1100.00" }
+                ]
+              },
+              "Rows": {
+                "Row": [
+                  {
+                    "ColData": [
+                      { "value": "3101 Tuition - Current", "id": "698" },
+                      { "value": "3014281.05" }
+                    ],
+                    "type": "Data"
+                  },
+                  {
+                    "ColData": [
+                      { "value": "3102 Tuition - Prior", "id": "648" },
+                      { "value": "30883.00" }
+                    ],
+                    "type": "Data"
+                  }
+                ]
+              },
+              "Summary": {
+                "ColData": [
+                  { "value": "Total 3100 Tuition" },
+                  { "value": "3046264.05" }
+                ]
+              },
+              "type": "Section"
+            },
+            {
+              "Header": {
+                "ColData": [
+                  { "value": "3110 Fees", "id": "28" },
+                  { "value": "" }
+                ]
+              },
+              "Rows": {
+                "Row": [
+                  {
+                    "ColData": [
+                      { "value": "3111 Registration Fee", "id": "29" },
+                      { "value": "139630.00" }
+                    ],
+                    "type": "Data"
+                  },
+                  {
+                    "ColData": [
+                      {
+                        "value": "3112 Health/Other Insurance Fees",
+                        "id": "284"
+                      },
+                      { "value": "1512.00" }
+                    ],
+                    "type": "Data"
+                  },
+                  {
+                    "ColData": [
+                      { "value": "3113 Book & Supply Fees", "id": "30" },
+                      { "value": "285594.74" }
+                    ],
+                    "type": "Data"
+                  },
+                  {
+                    "ColData": [
+                      { "value": "3115 Activity/Program Fees", "id": "285" },
+                      { "value": "25395.78" }
+                    ],
+                    "type": "Data"
+                  },
+                  {
+                    "ColData": [
+                      { "value": "3116 Athletic Fee", "id": "31" },
+                      { "value": "1290.00" }
+                    ],
+                    "type": "Data"
+                  },
+                  {
+                    "ColData": [
+                      { "value": "3117 Graduation Fee", "id": "33" },
+                      { "value": "-297.00" }
+                    ],
+                    "type": "Data"
+                  },
+                  {
+                    "ColData": [
+                      { "value": "3120 Sacramental Fee", "id": "35" },
+                      { "value": "635.00" }
+                    ],
+                    "type": "Data"
+                  },
+                  {
+                    "Header": {
+                      "ColData": [
+                        { "value": "3125 3rd Party Fees", "id": "419" },
+                        { "value": "15960.90" }
+                      ]
+                    },
+                    "Rows": {
+                      "Row": [
+                        {
+                          "ColData": [
+                            { "value": "3125A 3rd Party Rev.", "id": "658" },
+                            { "value": "216.00" }
+                          ],
+                          "type": "Data"
+                        },
+                        {
+                          "ColData": [
+                            { "value": "3125B 3rd Party Exp", "id": "612" },
+                            { "value": "5440.00" }
+                          ],
+                          "type": "Data"
+                        }
+                      ]
+                    },
+                    "Summary": {
+                      "ColData": [
+                        { "value": "Total 3125 3rd Party Fees" },
+                        { "value": "21616.90" }
+                      ]
+                    },
+                    "type": "Section"
+                  }
+                ]
+              },
+              "Summary": {
+                "ColData": [
+                  { "value": "Total 3110 Fees" },
+                  { "value": "475377.42" }
+                ]
+              },
+              "type": "Section"
+            },
+            {
+              "Header": {
+                "ColData": [
+                  { "value": "3300 Food Services", "id": "36" },
+                  { "value": "" }
+                ]
+              },
+              "Rows": {
+                "Row": [
+                  {
+                    "ColData": [
+                      { "value": "3301 School Meal Program", "id": "37" },
+                      { "value": "413.00" }
+                    ],
+                    "type": "Data"
+                  }
+                ]
+              },
+              "Summary": {
+                "ColData": [
+                  { "value": "Total 3300 Food Services" },
+                  { "value": "413.00" }
+                ]
+              },
+              "type": "Section"
+            },
+            {
+              "Header": {
+                "ColData": [
+                  { "value": "3350 Lease and/or Rental Income", "id": "387" },
+                  { "value": "" }
+                ]
+              },
+              "Rows": {
+                "Row": [
+                  {
+                    "ColData": [
+                      { "value": "3351 Facility Lease", "id": "595" },
+                      { "value": "45900.00" }
+                    ],
+                    "type": "Data"
+                  },
+                  {
+                    "ColData": [
+                      { "value": "3352 Facility Rental", "id": "630" },
+                      { "value": "200.00" }
+                    ],
+                    "type": "Data"
+                  }
+                ]
+              },
+              "Summary": {
+                "ColData": [
+                  { "value": "Total 3350 Lease and/or Rental Income" },
+                  { "value": "46100.00" }
+                ]
+              },
+              "type": "Section"
+            },
+            {
+              "Header": {
+                "ColData": [
+                  { "value": "3400 Outside Funding Sources", "id": "39" },
+                  { "value": "" }
+                ]
+              },
+              "Rows": {
+                "Row": [
+                  {
+                    "Header": {
+                      "ColData": [
+                        { "value": "3407 Other Scholarships", "id": "304" },
+                        { "value": "" }
+                      ]
+                    },
+                    "Rows": {
+                      "Row": [
+                        {
+                          "ColData": [
+                            {
+                              "value": "3407.01 Tax Credit Scholarship",
+                              "id": "358"
+                            },
+                            { "value": "65526.50" }
+                          ],
+                          "type": "Data"
+                        }
+                      ]
+                    },
+                    "Summary": {
+                      "ColData": [
+                        { "value": "Total 3407 Other Scholarships" },
+                        { "value": "65526.50" }
+                      ]
+                    },
+                    "type": "Section"
+                  }
+                ]
+              },
+              "Summary": {
+                "ColData": [
+                  { "value": "Total 3400 Outside Funding Sources" },
+                  { "value": "65526.50" }
+                ]
+              },
+              "type": "Section"
+            },
+            {
+              "Header": {
+                "ColData": [
+                  { "value": "3450 Fund Raising Net Income", "id": "388" },
+                  { "value": "" }
+                ]
+              },
+              "Rows": {
+                "Row": [
+                  {
+                    "Header": {
+                      "ColData": [
+                        {
+                          "value": "3461 St. Joseph School Fundraising",
+                          "id": "596"
+                        },
+                        { "value": "" }
+                      ]
+                    },
+                    "Rows": {
+                      "Row": [
+                        {
+                          "ColData": [
+                            {
+                              "value": "3461.03 SJS Annual Fund Drive",
+                              "id": "678"
+                            },
+                            { "value": "1515.00" }
+                          ],
+                          "type": "Data"
+                        }
+                      ]
+                    },
+                    "Summary": {
+                      "ColData": [
+                        { "value": "Total 3461 St. Joseph School Fundraising" },
+                        { "value": "1515.00" }
+                      ]
+                    },
+                    "type": "Section"
+                  },
+                  {
+                    "Header": {
+                      "ColData": [
+                        {
+                          "value": "3462 StFrancis Xavier Sch Fundraiser",
+                          "id": "456"
+                        },
+                        { "value": "" }
+                      ]
+                    },
+                    "Rows": {
+                      "Row": [
+                        {
+                          "ColData": [
+                            {
+                              "value": "3462.01 SFXS Annual School Appeal",
+                              "id": "650"
+                            },
+                            { "value": "2000.00" }
+                          ],
+                          "type": "Data"
+                        }
+                      ]
+                    },
+                    "Summary": {
+                      "ColData": [
+                        {
+                          "value": "Total 3462 StFrancis Xavier Sch Fundraiser"
+                        },
+                        { "value": "2000.00" }
+                      ]
+                    },
+                    "type": "Section"
+                  }
+                ]
+              },
+              "Summary": {
+                "ColData": [
+                  { "value": "Total 3450 Fund Raising Net Income" },
+                  { "value": "3515.00" }
+                ]
+              },
+              "type": "Section"
+            },
+            {
+              "Header": {
+                "ColData": [
+                  { "value": "3500 Interest & Investment Income", "id": "40" },
+                  { "value": "" }
+                ]
+              },
+              "Rows": {
+                "Row": [
+                  {
+                    "ColData": [
+                      {
+                        "value": "3501 Interest-Arch Regular Savings",
+                        "id": "41"
+                      },
+                      { "value": "1646.24" }
+                    ],
+                    "type": "Data"
+                  },
+                  {
+                    "ColData": [
+                      {
+                        "value": "3502 Interest-Arch Cert of Deposit",
+                        "id": "42"
+                      },
+                      { "value": "671.46" }
+                    ],
+                    "type": "Data"
+                  },
+                  {
+                    "ColData": [
+                      {
+                        "value": "3503 Interest-Arch Building Fund",
+                        "id": "43"
+                      },
+                      { "value": "2146.75" }
+                    ],
+                    "type": "Data"
+                  },
+                  {
+                    "ColData": [
+                      {
+                        "value": "3504 Invest. Gains/Losses Arch Endow",
+                        "id": "44"
+                      },
+                      { "value": "548814.09" }
+                    ],
+                    "type": "Data"
+                  },
+                  {
+                    "ColData": [
+                      {
+                        "value": "3505 Invest. Gains/Loss Arch Spc Inv",
+                        "id": "147"
+                      },
+                      { "value": "23768.66" }
+                    ],
+                    "type": "Data"
+                  },
+                  {
+                    "ColData": [
+                      {
+                        "value": "3506 Interest-Checking Accounts",
+                        "id": "148"
+                      },
+                      { "value": "46.03" }
+                    ],
+                    "type": "Data"
+                  },
+                  {
+                    "ColData": [
+                      { "value": "3507 Other Interest Account", "id": "45" },
+                      { "value": "212.75" }
+                    ],
+                    "type": "Data"
+                  }
+                ]
+              },
+              "Summary": {
+                "ColData": [
+                  { "value": "Total 3500 Interest & Investment Income" },
+                  { "value": "577305.98" }
+                ]
+              },
+              "type": "Section"
+            },
+            {
+              "Header": {
+                "ColData": [
+                  { "value": "3600 Auxiliary Groups", "id": "149" },
+                  { "value": "" }
+                ]
+              },
+              "Rows": {
+                "Row": [
+                  {
+                    "Header": {
+                      "ColData": [
+                        {
+                          "value": "3603 St Francis Xavier Auxiliary",
+                          "id": "150"
+                        },
+                        { "value": "" }
+                      ]
+                    },
+                    "Rows": {
+                      "Row": [
+                        {
+                          "ColData": [
+                            { "value": "3603.02 SFX Men's Club", "id": "460" },
+                            { "value": "23300.38" }
+                          ],
+                          "type": "Data"
+                        },
+                        {
+                          "ColData": [
+                            {
+                              "value": "3603.10 SFXS Home School Organization",
+                              "id": "464"
+                            },
+                            { "value": "61270.00" }
+                          ],
+                          "type": "Data"
+                        }
+                      ]
+                    },
+                    "Summary": {
+                      "ColData": [
+                        { "value": "Total 3603 St Francis Xavier Auxiliary" },
+                        { "value": "84570.38" }
+                      ]
+                    },
+                    "type": "Section"
+                  }
+                ]
+              },
+              "Summary": {
+                "ColData": [
+                  { "value": "Total 3600 Auxiliary Groups" },
+                  { "value": "84570.38" }
+                ]
+              },
+              "type": "Section"
+            },
+            {
+              "Header": {
+                "ColData": [
+                  { "value": "3700 Miscellaneous Income", "id": "154" },
+                  { "value": "" }
+                ]
+              },
+              "Rows": {
+                "Row": [
+                  {
+                    "Header": {
+                      "ColData": [
+                        { "value": "3701 Stole Fees", "id": "155" },
+                        { "value": "" }
+                      ]
+                    },
+                    "Rows": {
+                      "Row": [
+                        {
+                          "ColData": [
+                            { "value": "3701.10 Baptism", "id": "263" },
+                            { "value": "2310.00" }
+                          ],
+                          "type": "Data"
+                        },
+                        {
+                          "ColData": [
+                            { "value": "3701.20 Funeral", "id": "508" },
+                            { "value": "17075.00" }
+                          ],
+                          "type": "Data"
+                        },
+                        {
+                          "ColData": [
+                            { "value": "3701.30 Wedding", "id": "509" },
+                            { "value": "14355.00" }
+                          ],
+                          "type": "Data"
+                        }
+                      ]
+                    },
+                    "Summary": {
+                      "ColData": [
+                        { "value": "Total 3701 Stole Fees" },
+                        { "value": "33740.00" }
+                      ]
+                    },
+                    "type": "Section"
+                  },
+                  {
+                    "ColData": [
+                      { "value": "3702 Stipend for Masses", "id": "156" },
+                      { "value": "11645.00" }
+                    ],
+                    "type": "Data"
+                  },
+                  {
+                    "ColData": [
+                      { "value": "3703 Votive and Vigil Candles", "id": "157" },
+                      { "value": "2517.30" }
+                    ],
+                    "type": "Data"
+                  },
+                  {
+                    "ColData": [
+                      { "value": "3705 Scholarship Income", "id": "634" },
+                      { "value": "528.00" }
+                    ],
+                    "type": "Data"
+                  },
+                  {
+                    "ColData": [
+                      { "value": "3706 Donations", "id": "159" },
+                      { "value": "44650.71" }
+                    ],
+                    "type": "Data"
+                  },
+                  {
+                    "ColData": [
+                      {
+                        "value": "3720 Other Miscellaneous Income",
+                        "id": "312"
+                      },
+                      { "value": "104194.51" }
+                    ],
+                    "type": "Data"
+                  }
+                ]
+              },
+              "Summary": {
+                "ColData": [
+                  { "value": "Total 3700 Miscellaneous Income" },
+                  { "value": "197275.52" }
+                ]
+              },
+              "type": "Section"
+            }
+          ]
+        },
+        "Summary": {
+          "ColData": [{ "value": "Total Income" }, { "value": "6036637.47" }]
+        },
+        "type": "Section",
+        "group": "Income"
+      },
+      {
+        "Summary": {
+          "ColData": [{ "value": "Gross Profit" }, { "value": "6036637.47" }]
+        },
+        "type": "Section",
+        "group": "GrossProfit"
+      },
+      {
+        "Header": { "ColData": [{ "value": "Expenses" }, { "value": "" }] },
+        "Rows": {
+          "Row": [
+            {
+              "Header": {
+                "ColData": [
+                  { "value": "4010 Salaries", "id": "391" },
+                  { "value": "" }
+                ]
+              },
+              "Rows": {
+                "Row": [
+                  {
+                    "ColData": [
+                      { "value": "4011 Priests", "id": "638" },
+                      { "value": "95672.51" }
+                    ],
+                    "type": "Data"
+                  },
+                  {
+                    "ColData": [
+                      { "value": "4012 Extra Priests", "id": "576" },
+                      { "value": "2998.50" }
+                    ],
+                    "type": "Data"
+                  },
+                  {
+                    "ColData": [
+                      { "value": "4014 Professional Staff", "id": "672" },
+                      { "value": "254442.99" }
+                    ],
+                    "type": "Data"
+                  },
+                  {
+                    "ColData": [
+                      {
+                        "value": "4015 Admin Support Staff - Church",
+                        "id": "397"
+                      },
+                      { "value": "260213.91" }
+                    ],
+                    "type": "Data"
+                  },
+                  {
+                    "ColData": [
+                      { "value": "4016 House Staff", "id": "580" },
+                      { "value": "18738.50" }
+                    ],
+                    "type": "Data"
+                  },
+                  {
+                    "ColData": [
+                      { "value": "4017 Maintenance - Church", "id": "396" },
+                      { "value": "99515.51" }
+                    ],
+                    "type": "Data"
+                  },
+                  {
+                    "ColData": [
+                      {
+                        "value": "4511 Administrators & Othr Schl Prof",
+                        "id": "639"
+                      },
+                      { "value": "187866.32" }
+                    ],
+                    "type": "Data"
+                  },
+                  {
+                    "ColData": [
+                      { "value": "4512 Religious Teachers", "id": "577" },
+                      { "value": "6366.45" }
+                    ],
+                    "type": "Data"
+                  },
+                  {
+                    "ColData": [
+                      { "value": "4513 Lay Teachers", "id": "690" },
+                      { "value": "978663.38" }
+                    ],
+                    "type": "Data"
+                  },
+                  {
+                    "ColData": [
+                      { "value": "4514 Special Program Teachers", "id": "578" },
+                      { "value": "500598.51" }
+                    ],
+                    "type": "Data"
+                  },
+                  {
+                    "ColData": [
+                      { "value": "4515 Instructional Aides", "id": "640" },
+                      { "value": "293617.53" }
+                    ],
+                    "type": "Data"
+                  },
+                  {
+                    "ColData": [
+                      { "value": "4516 Substitute Teachers", "id": "579" },
+                      { "value": "67765.46" }
+                    ],
+                    "type": "Data"
+                  },
+                  {
+                    "ColData": [
+                      { "value": "4517 Support Staff - School", "id": "673" },
+                      { "value": "206864.71" }
+                    ],
+                    "type": "Data"
+                  },
+                  {
+                    "ColData": [
+                      {
+                        "value": "4518 Maintenance Staff - School",
+                        "id": "641"
+                      },
+                      { "value": "101043.27" }
+                    ],
+                    "type": "Data"
+                  }
+                ]
+              },
+              "Summary": {
+                "ColData": [
+                  { "value": "Total 4010 Salaries" },
+                  { "value": "3074367.55" }
+                ]
+              },
+              "type": "Section"
+            },
+            {
+              "ColData": [
+                { "value": "4030 Health Insurance-Employer Paid", "id": "163" },
+                { "value": "524972.00" }
+              ],
+              "type": "Data"
+            },
+            {
+              "ColData": [
+                { "value": "4040 Employer FICA", "id": "164" },
+                { "value": "226912.54" }
+              ],
+              "type": "Data"
+            },
+            {
+              "Header": {
+                "ColData": [
+                  { "value": "4050 Fringe Benefits", "id": "165" },
+                  { "value": "" }
+                ]
+              },
+              "Rows": {
+                "Row": [
+                  {
+                    "ColData": [
+                      { "value": "4052 Fringe Benefits - Lay", "id": "186" },
+                      { "value": "82431.62" }
+                    ],
+                    "type": "Data"
+                  }
+                ]
+              },
+              "Summary": {
+                "ColData": [
+                  { "value": "Total 4050 Fringe Benefits" },
+                  { "value": "82431.62" }
+                ]
+              },
+              "type": "Section"
+            },
+            {
+              "Header": {
+                "ColData": [
+                  { "value": "4060 Prof. Growth/Minist./Other", "id": "166" },
+                  { "value": "" }
+                ]
+              },
+              "Rows": {
+                "Row": [
+                  {
+                    "ColData": [
+                      { "value": "4061 Professional Growth", "id": "189" },
+                      { "value": "14202.86" }
+                    ],
+                    "type": "Data"
+                  },
+                  {
+                    "ColData": [
+                      {
+                        "value": "4062 Ministerial Expense Allowance",
+                        "id": "568"
+                      },
+                      { "value": "1247.50" }
+                    ],
+                    "type": "Data"
+                  },
+                  {
+                    "ColData": [
+                      {
+                        "value": "4063 Unemployment Compensation",
+                        "id": "581"
+                      },
+                      { "value": "8967.00" }
+                    ],
+                    "type": "Data"
+                  }
+                ]
+              },
+              "Summary": {
+                "ColData": [
+                  { "value": "Total 4060 Prof. Growth/Minist./Other" },
+                  { "value": "24417.36" }
+                ]
+              },
+              "type": "Section"
+            },
+            {
+              "Header": {
+                "ColData": [
+                  {
+                    "value": "4100 Books & Supplies,Non-Liturgical",
+                    "id": "167"
+                  },
+                  { "value": "" }
+                ]
+              },
+              "Rows": {
+                "Row": [
+                  {
+                    "ColData": [
+                      { "value": "4102 Offertory Supplies", "id": "169" },
+                      { "value": "480.23" }
+                    ],
+                    "type": "Data"
+                  },
+                  {
+                    "ColData": [
+                      { "value": "4103 Books and Magazines", "id": "170" },
+                      { "value": "4362.62" }
+                    ],
+                    "type": "Data"
+                  },
+                  {
+                    "ColData": [
+                      { "value": "4105 Textbooks", "id": "561" },
+                      { "value": "19909.81" }
+                    ],
+                    "type": "Data"
+                  },
+                  {
+                    "ColData": [
+                      { "value": "4106 Workbooks", "id": "688" },
+                      { "value": "22371.51" }
+                    ],
+                    "type": "Data"
+                  },
+                  {
+                    "ColData": [
+                      { "value": "4107 Library Materials", "id": "562" },
+                      { "value": "1778.29" }
+                    ],
+                    "type": "Data"
+                  },
+                  {
+                    "ColData": [
+                      { "value": "4109 Instructional Materials", "id": "563" },
+                      { "value": "58384.85" }
+                    ],
+                    "type": "Data"
+                  },
+                  {
+                    "ColData": [
+                      { "value": "4110 Instructional Software", "id": "187" },
+                      { "value": "18647.84" }
+                    ],
+                    "type": "Data"
+                  }
+                ]
+              },
+              "Summary": {
+                "ColData": [
+                  { "value": "Total 4100 Books & Supplies,Non-Liturgical" },
+                  { "value": "125935.15" }
+                ]
+              },
+              "type": "Section"
+            },
+            {
+              "Header": {
+                "ColData": [
+                  { "value": "4150 Administrative Expenses", "id": "46" },
+                  { "value": "" }
+                ]
+              },
+              "Rows": {
+                "Row": [
+                  {
+                    "ColData": [
+                      {
+                        "value": "4151 Ofc Equipment-Supplies & Maint.",
+                        "id": "47"
+                      },
+                      { "value": "14325.78" }
+                    ],
+                    "type": "Data"
+                  },
+                  {
+                    "ColData": [
+                      { "value": "4152 Outside Printing Cost", "id": "48" },
+                      { "value": "20296.63" }
+                    ],
+                    "type": "Data"
+                  },
+                  {
+                    "ColData": [
+                      { "value": "4153 Postage/Courier Services", "id": "49" },
+                      { "value": "4745.59" }
+                    ],
+                    "type": "Data"
+                  },
+                  {
+                    "ColData": [
+                      { "value": "4154 Office Supplies", "id": "50" },
+                      { "value": "9787.12" }
+                    ],
+                    "type": "Data"
+                  },
+                  {
+                    "ColData": [
+                      { "value": "4155 Professional Service Fees", "id": "51" },
+                      { "value": "138121.38" }
+                    ],
+                    "type": "Data"
+                  },
+                  {
+                    "ColData": [
+                      { "value": "4156 Computer Supplies", "id": "185" },
+                      { "value": "25801.46" }
+                    ],
+                    "type": "Data"
+                  },
+                  {
+                    "ColData": [
+                      {
+                        "value": "4157 Criminal Background Checks",
+                        "id": "52"
+                      },
+                      { "value": "1801.23" }
+                    ],
+                    "type": "Data"
+                  },
+                  {
+                    "ColData": [
+                      { "value": "4158 Bank Fees", "id": "386" },
+                      { "value": "38553.67" }
+                    ],
+                    "type": "Data"
+                  },
+                  {
+                    "ColData": [
+                      {
+                        "value": "4159 Other Administrative Expense",
+                        "id": "420"
+                      },
+                      { "value": "73.50" }
+                    ],
+                    "type": "Data"
+                  }
+                ]
+              },
+              "Summary": {
+                "ColData": [
+                  { "value": "Total 4150 Administrative Expenses" },
+                  { "value": "253506.36" }
+                ]
+              },
+              "type": "Section"
+            },
+            {
+              "Header": {
+                "ColData": [
+                  { "value": "4200 Transportation", "id": "53" },
+                  { "value": "" }
+                ]
+              },
+              "Rows": {
+                "Row": [
+                  {
+                    "ColData": [
+                      {
+                        "value": "4201 Local Travel/Reimbursement",
+                        "id": "162"
+                      },
+                      { "value": "60.89" }
+                    ],
+                    "type": "Data"
+                  }
+                ]
+              },
+              "Summary": {
+                "ColData": [
+                  { "value": "Total 4200 Transportation" },
+                  { "value": "60.89" }
+                ]
+              },
+              "type": "Section"
+            },
+            {
+              "Header": {
+                "ColData": [
+                  { "value": "4250 Food Service & Meals", "id": "54" },
+                  { "value": "" }
+                ]
+              },
+              "Rows": {
+                "Row": [
+                  {
+                    "ColData": [
+                      { "value": "4252 Food/Groceries", "id": "56" },
+                      { "value": "14456.82" }
+                    ],
+                    "type": "Data"
+                  },
+                  {
+                    "ColData": [
+                      { "value": "4253 Meal Allowance", "id": "57" },
+                      { "value": "3906.06" }
+                    ],
+                    "type": "Data"
+                  },
+                  {
+                    "ColData": [
+                      { "value": "4254 Catering", "id": "58" },
+                      { "value": "968.71" }
+                    ],
+                    "type": "Data"
+                  }
+                ]
+              },
+              "Summary": {
+                "ColData": [
+                  { "value": "Total 4250 Food Service & Meals" },
+                  { "value": "19331.59" }
+                ]
+              },
+              "type": "Section"
+            },
+            {
+              "ColData": [
+                { "value": "4400 Telephone", "id": "60" },
+                { "value": "10050.32" }
+              ],
+              "type": "Data"
+            },
+            {
+              "ColData": [
+                { "value": "4410 Heating Fuel", "id": "61" },
+                { "value": "32037.55" }
+              ],
+              "type": "Data"
+            },
+            {
+              "ColData": [
+                { "value": "4420 Electricity", "id": "62" },
+                { "value": "50452.71" }
+              ],
+              "type": "Data"
+            },
+            {
+              "Header": {
+                "ColData": [
+                  { "value": "4430 Other Utilities", "id": "59" },
+                  { "value": "" }
+                ]
+              },
+              "Rows": {
+                "Row": [
+                  {
+                    "ColData": [
+                      { "value": "4431 Water/Sewer", "id": "63" },
+                      { "value": "17200.07" }
+                    ],
+                    "type": "Data"
+                  },
+                  {
+                    "ColData": [
+                      { "value": "4432 Scavenger Service", "id": "64" },
+                      { "value": "8210.37" }
+                    ],
+                    "type": "Data"
+                  },
+                  {
+                    "ColData": [
+                      { "value": "4433 Cable/Dish Services", "id": "65" },
+                      { "value": "3547.77" }
+                    ],
+                    "type": "Data"
+                  },
+                  {
+                    "ColData": [
+                      {
+                        "value": "4434 Internet/Computer Telecom Costs",
+                        "id": "66"
+                      },
+                      { "value": "7303.98" }
+                    ],
+                    "type": "Data"
+                  }
+                ]
+              },
+              "Summary": {
+                "ColData": [
+                  { "value": "Total 4430 Other Utilities" },
+                  { "value": "36262.19" }
+                ]
+              },
+              "type": "Section"
+            },
+            {
+              "Header": {
+                "ColData": [
+                  {
+                    "value": "4450 Maintenance & Building Repairs",
+                    "id": "67"
+                  },
+                  { "value": "334.00" }
+                ]
+              },
+              "Rows": {
+                "Row": [
+                  {
+                    "ColData": [
+                      { "value": "4451 Security", "id": "68" },
+                      { "value": "24729.00" }
+                    ],
+                    "type": "Data"
+                  },
+                  {
+                    "ColData": [
+                      { "value": "4452 Ground Services", "id": "69" },
+                      { "value": "64338.89" }
+                    ],
+                    "type": "Data"
+                  },
+                  {
+                    "ColData": [
+                      { "value": "4453 Ground Supplies", "id": "70" },
+                      { "value": "1699.18" }
+                    ],
+                    "type": "Data"
+                  },
+                  {
+                    "ColData": [
+                      { "value": "4454 Building Services", "id": "71" },
+                      { "value": "45461.95" }
+                    ],
+                    "type": "Data"
+                  },
+                  {
+                    "ColData": [
+                      { "value": "4455 Repairs to Buildings", "id": "115" },
+                      { "value": "86243.24" }
+                    ],
+                    "type": "Data"
+                  },
+                  {
+                    "ColData": [
+                      { "value": "4456 Equipment Services", "id": "116" },
+                      { "value": "14684.21" }
+                    ],
+                    "type": "Data"
+                  },
+                  {
+                    "ColData": [
+                      { "value": "4457 Equipment Rental", "id": "117" },
+                      { "value": "-182.18" }
+                    ],
+                    "type": "Data"
+                  },
+                  {
+                    "ColData": [
+                      { "value": "4459 Janitorial Supplies", "id": "118" },
+                      { "value": "30597.21" }
+                    ],
+                    "type": "Data"
+                  }
+                ]
+              },
+              "Summary": {
+                "ColData": [
+                  { "value": "Total 4450 Maintenance & Building Repairs" },
+                  { "value": "267905.50" }
+                ]
+              },
+              "type": "Section"
+            },
+            {
+              "Header": {
+                "ColData": [
+                  { "value": "4550 Bingo Expenses", "id": "370" },
+                  { "value": "" }
+                ]
+              },
+              "Rows": {
+                "Row": [
+                  {
+                    "ColData": [
+                      { "value": "4555 Bingo Hall Rental", "id": "372" },
+                      { "value": "900.00" }
+                    ],
+                    "type": "Data"
+                  }
+                ]
+              },
+              "Summary": {
+                "ColData": [
+                  { "value": "Total 4550 Bingo Expenses" },
+                  { "value": "900.00" }
+                ]
+              },
+              "type": "Section"
+            },
+            {
+              "Header": {
+                "ColData": [
+                  { "value": "4600 Interest Expense", "id": "119" },
+                  { "value": "" }
+                ]
+              },
+              "Rows": {
+                "Row": [
+                  {
+                    "ColData": [
+                      {
+                        "value": "4601 Interest Expense Oper. Loans",
+                        "id": "378"
+                      },
+                      { "value": "4768.60" }
+                    ],
+                    "type": "Data"
+                  }
+                ]
+              },
+              "Summary": {
+                "ColData": [
+                  { "value": "Total 4600 Interest Expense" },
+                  { "value": "4768.60" }
+                ]
+              },
+              "type": "Section"
+            },
+            {
+              "Header": {
+                "ColData": [
+                  { "value": "4650 Altar & Liturgical Supplies", "id": "120" },
+                  { "value": "141.42" }
+                ]
+              },
+              "Rows": {
+                "Row": [
+                  {
+                    "ColData": [
+                      { "value": "4651 Hosts and Wine", "id": "121" },
+                      { "value": "960.49" }
+                    ],
+                    "type": "Data"
+                  },
+                  {
+                    "ColData": [
+                      { "value": "4653 Candles", "id": "123" },
+                      { "value": "1786.10" }
+                    ],
+                    "type": "Data"
+                  },
+                  {
+                    "ColData": [
+                      { "value": "4656 Music Books", "id": "126" },
+                      { "value": "464.49" }
+                    ],
+                    "type": "Data"
+                  },
+                  {
+                    "ColData": [
+                      { "value": "4657 Liturgical Publications", "id": "129" },
+                      { "value": "1465.58" }
+                    ],
+                    "type": "Data"
+                  },
+                  {
+                    "ColData": [
+                      { "value": "4659 Flowers", "id": "130" },
+                      { "value": "3283.85" }
+                    ],
+                    "type": "Data"
+                  },
+                  {
+                    "ColData": [
+                      { "value": "4660 Other Liturgical Costs", "id": "127" },
+                      { "value": "1317.72" }
+                    ],
+                    "type": "Data"
+                  }
+                ]
+              },
+              "Summary": {
+                "ColData": [
+                  { "value": "Total 4650 Altar & Liturgical Supplies" },
+                  { "value": "9419.65" }
+                ]
+              },
+              "type": "Section"
+            },
+            {
+              "Header": {
+                "ColData": [
+                  { "value": "4700 Furnishings & Equipment", "id": "131" },
+                  { "value": "" }
+                ]
+              },
+              "Rows": {
+                "Row": [
+                  {
+                    "ColData": [
+                      { "value": "4701 Admin Furnishings/Equip", "id": "132" },
+                      { "value": "27765.58" }
+                    ],
+                    "type": "Data"
+                  },
+                  {
+                    "ColData": [
+                      {
+                        "value": "4702 Instructional Furnishings/Equip",
+                        "id": "133"
+                      },
+                      { "value": "189206.17" }
+                    ],
+                    "type": "Data"
+                  },
+                  {
+                    "ColData": [
+                      {
+                        "value": "4703 Maintenance Furnishings/Equip",
+                        "id": "134"
+                      },
+                      { "value": "4633.76" }
+                    ],
+                    "type": "Data"
+                  }
+                ]
+              },
+              "Summary": {
+                "ColData": [
+                  { "value": "Total 4700 Furnishings & Equipment" },
+                  { "value": "221605.51" }
+                ]
+              },
+              "type": "Section"
+            },
+            {
+              "Header": {
+                "ColData": [
+                  { "value": "4750 Archdiocesan Assessment", "id": "144" },
+                  { "value": "" }
+                ]
+              },
+              "Rows": {
+                "Row": [
+                  {
+                    "ColData": [
+                      { "value": "4751 Archhdiocesean Assesment", "id": "253" },
+                      { "value": "177788.16" }
+                    ],
+                    "type": "Data"
+                  },
+                  {
+                    "ColData": [
+                      {
+                        "value": "4752 Lease, Lic & Rental Arch Assess",
+                        "id": "254"
+                      },
+                      { "value": "4171.50" }
+                    ],
+                    "type": "Data"
+                  }
+                ]
+              },
+              "Summary": {
+                "ColData": [
+                  { "value": "Total 4750 Archdiocesan Assessment" },
+                  { "value": "181959.66" }
+                ]
+              },
+              "type": "Section"
+            },
+            {
+              "ColData": [
+                { "value": "4760 PRMAA Assessment", "id": "145" },
+                { "value": "62225.82" }
+              ],
+              "type": "Data"
+            },
+            {
+              "ColData": [
+                { "value": "4770 OCS Assessment", "id": "146" },
+                { "value": "26055.00" }
+              ],
+              "type": "Data"
+            },
+            {
+              "ColData": [
+                { "value": "4780 Property/Casualty Insurance", "id": "390" },
+                { "value": "153969.53" }
+              ],
+              "type": "Data"
+            },
+            {
+              "ColData": [
+                { "value": "4790 Auto Insur-Priest Owned Vehicle", "id": "72" },
+                { "value": "3855.00" }
+              ],
+              "type": "Data"
+            },
+            {
+              "Header": {
+                "ColData": [
+                  { "value": "4800 Miscellaneous", "id": "135" },
+                  { "value": "" }
+                ]
+              },
+              "Rows": {
+                "Row": [
+                  {
+                    "ColData": [
+                      { "value": "4802 Meetings & Speakers", "id": "140" },
+                      { "value": "2650.00" }
+                    ],
+                    "type": "Data"
+                  },
+                  {
+                    "ColData": [
+                      {
+                        "value": "4803 Ministry Formation & Education",
+                        "id": "142"
+                      },
+                      { "value": "2658.32" }
+                    ],
+                    "type": "Data"
+                  },
+                  {
+                    "ColData": [
+                      {
+                        "value": "4804 Hospitality & Entertainment",
+                        "id": "138"
+                      },
+                      { "value": "387.77" }
+                    ],
+                    "type": "Data"
+                  },
+                  {
+                    "ColData": [
+                      {
+                        "value": "4805 Public Relations & Advertising",
+                        "id": "141"
+                      },
+                      { "value": "1195.86" }
+                    ],
+                    "type": "Data"
+                  },
+                  {
+                    "ColData": [
+                      { "value": "4806 Gifts & Donations", "id": "139" },
+                      { "value": "6815.85" }
+                    ],
+                    "type": "Data"
+                  },
+                  {
+                    "ColData": [
+                      { "value": "4807 Dues/Subscriptions", "id": "137" },
+                      { "value": "20079.33" }
+                    ],
+                    "type": "Data"
+                  },
+                  {
+                    "ColData": [
+                      { "value": "4808 Unrelated Business Tax", "id": "379" },
+                      { "value": "-3.13" }
+                    ],
+                    "type": "Data"
+                  },
+                  {
+                    "ColData": [
+                      { "value": "4809 Special Program Expense", "id": "143" },
+                      { "value": "5285.31" }
+                    ],
+                    "type": "Data"
+                  },
+                  {
+                    "Header": {
+                      "ColData": [
+                        {
+                          "value": "4820 Other Miscellaneous Expense",
+                          "id": "311"
+                        },
+                        { "value": "118956.73" }
+                      ]
+                    },
+                    "Rows": {
+                      "Row": [
+                        {
+                          "ColData": [
+                            {
+                              "value": "4820A Credit Card Expense - Needs Det",
+                              "id": "361"
+                            },
+                            { "value": "-5838.83" }
+                          ],
+                          "type": "Data"
+                        }
+                      ]
+                    },
+                    "Summary": {
+                      "ColData": [
+                        { "value": "Total 4820 Other Miscellaneous Expense" },
+                        { "value": "113117.90" }
+                      ]
+                    },
+                    "type": "Section"
+                  }
+                ]
+              },
+              "Summary": {
+                "ColData": [
+                  { "value": "Total 4800 Miscellaneous" },
+                  { "value": "152187.21" }
+                ]
+              },
+              "type": "Section"
+            }
+          ]
+        },
+        "Summary": {
+          "ColData": [{ "value": "Total Expenses" }, { "value": "5545589.31" }]
+        },
+        "type": "Section",
+        "group": "Expenses"
+      },
+      {
+        "Summary": {
+          "ColData": [
+            { "value": "Net Operating Income" },
+            { "value": "491048.16" }
+          ]
+        },
+        "type": "Section",
+        "group": "NetOperatingIncome"
+      },
+      {
+        "Header": { "ColData": [{ "value": "Other Income" }, { "value": "" }] },
+        "Rows": {
+          "Row": [
+            {
+              "Header": {
+                "ColData": [
+                  { "value": "5000 Insurance Recoveries", "id": "75" },
+                  { "value": "" }
+                ]
+              },
+              "Rows": {
+                "Row": [
+                  {
+                    "ColData": [
+                      { "value": "5001 Casualty Claims", "id": "220" },
+                      { "value": "9560.00" }
+                    ],
+                    "type": "Data"
+                  }
+                ]
+              },
+              "Summary": {
+                "ColData": [
+                  { "value": "Total 5000 Insurance Recoveries" },
+                  { "value": "9560.00" }
+                ]
+              },
+              "type": "Section"
+            },
+            {
+              "Header": {
+                "ColData": [
+                  {
+                    "value": "5010 Sharing Collections Oth Parish",
+                    "id": "79"
+                  },
+                  { "value": "" }
+                ]
+              },
+              "Rows": {
+                "Row": [
+                  {
+                    "Header": {
+                      "ColData": [
+                        {
+                          "value": "5011 SS Joseph/Francis Xavier Sharin",
+                          "id": "226"
+                        },
+                        { "value": "" }
+                      ]
+                    },
+                    "Rows": {
+                      "Row": [
+                        {
+                          "ColData": [
+                            {
+                              "value": "5011.1 St. VIncent de Paul",
+                              "id": "516"
+                            },
+                            { "value": "45309.00" }
+                          ],
+                          "type": "Data"
+                        }
+                      ]
+                    },
+                    "Summary": {
+                      "ColData": [
+                        {
+                          "value": "Total 5011 SS Joseph/Francis Xavier Sharin"
+                        },
+                        { "value": "45309.00" }
+                      ]
+                    },
+                    "type": "Section"
+                  },
+                  {
+                    "Header": {
+                      "ColData": [
+                        { "value": "5012 St Joseph Sharing", "id": "227" },
+                        { "value": "" }
+                      ]
+                    },
+                    "Rows": {
+                      "Row": [
+                        {
+                          "ColData": [
+                            { "value": "5012.02 St. Ignatius", "id": "424" },
+                            { "value": "14002.00" }
+                          ],
+                          "type": "Data"
+                        }
+                      ]
+                    },
+                    "Summary": {
+                      "ColData": [
+                        { "value": "Total 5012 St Joseph Sharing" },
+                        { "value": "14002.00" }
+                      ]
+                    },
+                    "type": "Section"
+                  },
+                  {
+                    "Header": {
+                      "ColData": [
+                        {
+                          "value": "5013 St Francis Xavier Sharing",
+                          "id": "225"
+                        },
+                        { "value": "" }
+                      ]
+                    },
+                    "Rows": {
+                      "Row": [
+                        {
+                          "ColData": [
+                            {
+                              "value": "5013.01 St. Thomas of Canterbury",
+                              "id": "421"
+                            },
+                            { "value": "46138.00" }
+                          ],
+                          "type": "Data"
+                        }
+                      ]
+                    },
+                    "Summary": {
+                      "ColData": [
+                        { "value": "Total 5013 St Francis Xavier Sharing" },
+                        { "value": "46138.00" }
+                      ]
+                    },
+                    "type": "Section"
+                  }
+                ]
+              },
+              "Summary": {
+                "ColData": [
+                  { "value": "Total 5010 Sharing Collections Oth Parish" },
+                  { "value": "105449.00" }
+                ]
+              },
+              "type": "Section"
+            },
+            {
+              "Header": {
+                "ColData": [
+                  {
+                    "value": "5015 Sharing Collections Outside AOC",
+                    "id": "247"
+                  },
+                  { "value": "" }
+                ]
+              },
+              "Rows": {
+                "Row": [
+                  {
+                    "Header": {
+                      "ColData": [
+                        {
+                          "value": "5016 Immaculate Conception-Haiti",
+                          "id": "422"
+                        },
+                        { "value": "28783.00" }
+                      ]
+                    },
+                    "Rows": {
+                      "Row": [
+                        {
+                          "ColData": [
+                            {
+                              "value": "5016C IC Secial Fundraising",
+                              "id": "547"
+                            },
+                            { "value": "40000.00" }
+                          ],
+                          "type": "Data"
+                        }
+                      ]
+                    },
+                    "Summary": {
+                      "ColData": [
+                        { "value": "Total 5016 Immaculate Conception-Haiti" },
+                        { "value": "68783.00" }
+                      ]
+                    },
+                    "type": "Section"
+                  },
+                  {
+                    "ColData": [
+                      { "value": "5017 Haiti-Rodlin", "id": "248" },
+                      { "value": "4202.95" }
+                    ],
+                    "type": "Data"
+                  }
+                ]
+              },
+              "Summary": {
+                "ColData": [
+                  { "value": "Total 5015 Sharing Collections Outside AOC" },
+                  { "value": "72985.95" }
+                ]
+              },
+              "type": "Section"
+            },
+            {
+              "Header": {
+                "ColData": [
+                  { "value": "5030 Arch Required Collections", "id": "80" },
+                  { "value": "" }
+                ]
+              },
+              "Rows": {
+                "Row": [
+                  {
+                    "ColData": [
+                      { "value": "5031 Latin America", "id": "81" },
+                      { "value": "1401.00" }
+                    ],
+                    "type": "Data"
+                  },
+                  {
+                    "ColData": [
+                      { "value": "5032 Seminaries", "id": "87" },
+                      { "value": "3035.00" }
+                    ],
+                    "type": "Data"
+                  },
+                  {
+                    "ColData": [
+                      { "value": "5033 Annual Catholic Appeal", "id": "82" },
+                      { "value": "-1132.00" }
+                    ],
+                    "type": "Data"
+                  },
+                  {
+                    "ColData": [
+                      { "value": "5034 Holy Land", "id": "83" },
+                      { "value": "120.00" }
+                    ],
+                    "type": "Data"
+                  },
+                  {
+                    "ColData": [
+                      {
+                        "value": "5035 Aid Churches Centl/East Europe",
+                        "id": "86"
+                      },
+                      { "value": "1785.00" }
+                    ],
+                    "type": "Data"
+                  },
+                  {
+                    "ColData": [
+                      { "value": "5036 Catholic Charities", "id": "84" },
+                      { "value": "2060.00" }
+                    ],
+                    "type": "Data"
+                  },
+                  {
+                    "ColData": [
+                      { "value": "5037 Peter's Pence", "id": "85" },
+                      { "value": "755.00" }
+                    ],
+                    "type": "Data"
+                  },
+                  {
+                    "ColData": [
+                      { "value": "5039 World Mission Sunday", "id": "88" },
+                      { "value": "2148.00" }
+                    ],
+                    "type": "Data"
+                  },
+                  {
+                    "ColData": [
+                      {
+                        "value": "5040 Cath Campaign for Human Develop",
+                        "id": "89"
+                      },
+                      { "value": "5240.00" }
+                    ],
+                    "type": "Data"
+                  },
+                  {
+                    "ColData": [
+                      { "value": "5041 Religious Retirement", "id": "90" },
+                      { "value": "5066.00" }
+                    ],
+                    "type": "Data"
+                  },
+                  {
+                    "ColData": [
+                      { "value": "5042 Missionary CO-OP Plan", "id": "218" },
+                      { "value": "940.00" }
+                    ],
+                    "type": "Data"
+                  },
+                  {
+                    "ColData": [
+                      {
+                        "value": "5044 Archdiocesan Priest Retirement",
+                        "id": "297"
+                      },
+                      { "value": "3060.00" }
+                    ],
+                    "type": "Data"
+                  }
+                ]
+              },
+              "Summary": {
+                "ColData": [
+                  { "value": "Total 5030 Arch Required Collections" },
+                  { "value": "24478.00" }
+                ]
+              },
+              "type": "Section"
+            },
+            {
+              "Header": {
+                "ColData": [
+                  { "value": "5050 Estates, Bequests & Memorials", "id": "92" },
+                  { "value": "" }
+                ]
+              },
+              "Rows": {
+                "Row": [
+                  {
+                    "ColData": [
+                      { "value": "5052 Bequests Proceeds", "id": "204" },
+                      { "value": "20000.00" }
+                    ],
+                    "type": "Data"
+                  },
+                  {
+                    "ColData": [
+                      { "value": "5053 Memorial Proceeds", "id": "205" },
+                      { "value": "2070.00" }
+                    ],
+                    "type": "Data"
+                  }
+                ]
+              },
+              "Summary": {
+                "ColData": [
+                  { "value": "Total 5050 Estates, Bequests & Memorials" },
+                  { "value": "22070.00" }
+                ]
+              },
+              "type": "Section"
+            },
+            {
+              "Header": {
+                "ColData": [
+                  { "value": "5060 Other Extraordinary Income", "id": "206" },
+                  { "value": "" }
+                ]
+              },
+              "Rows": {
+                "Row": [
+                  {
+                    "ColData": [
+                      {
+                        "value": "5061 Other Extraordinary Collections",
+                        "id": "207"
+                      },
+                      { "value": "255.00" }
+                    ],
+                    "type": "Data"
+                  },
+                  {
+                    "ColData": [
+                      {
+                        "value": "5065 Other Extraordinary Income",
+                        "id": "427"
+                      },
+                      { "value": "201413.98" }
+                    ],
+                    "type": "Data"
+                  }
+                ]
+              },
+              "Summary": {
+                "ColData": [
+                  { "value": "Total 5060 Other Extraordinary Income" },
+                  { "value": "201668.98" }
+                ]
+              },
+              "type": "Section"
+            },
+            {
+              "Header": {
+                "ColData": [
+                  { "value": "5110 Fund Collections", "id": "76" },
+                  { "value": "" }
+                ]
+              },
+              "Rows": {
+                "Row": [
+                  {
+                    "ColData": [
+                      {
+                        "value": "5112 Parish Endow Fund Collection",
+                        "id": "223"
+                      },
+                      { "value": "-7625.00" }
+                    ],
+                    "type": "Data"
+                  },
+                  {
+                    "ColData": [
+                      {
+                        "value": "5113 Parish Ed. Endow Fund Collect",
+                        "id": "221"
+                      },
+                      { "value": "10860.97" }
+                    ],
+                    "type": "Data"
+                  },
+                  {
+                    "ColData": [
+                      { "value": "5114 Annual Appeal Rebate", "id": "160" },
+                      { "value": "23516.90" }
+                    ],
+                    "type": "Data"
+                  },
+                  {
+                    "Header": {
+                      "ColData": [
+                        {
+                          "value": "5115 \"To Teach Who Christ Is\" Campgn",
+                          "id": "249"
+                        },
+                        { "value": "" }
+                      ]
+                    },
+                    "Rows": {
+                      "Row": [
+                        {
+                          "ColData": [
+                            {
+                              "value": "5115.01 St Joseph TTWCI Campaign",
+                              "id": "430"
+                            },
+                            { "value": "17044.50" }
+                          ],
+                          "type": "Data"
+                        },
+                        {
+                          "ColData": [
+                            {
+                              "value": "5115.02 St Francis Xavier TTWCI Campagn",
+                              "id": "431"
+                            },
+                            { "value": "107071.91" }
+                          ],
+                          "type": "Data"
+                        }
+                      ]
+                    },
+                    "Summary": {
+                      "ColData": [
+                        {
+                          "value": "Total 5115 \"To Teach Who Christ Is\" Campgn"
+                        },
+                        { "value": "124116.41" }
+                      ]
+                    },
+                    "type": "Section"
+                  }
+                ]
+              },
+              "Summary": {
+                "ColData": [
+                  { "value": "Total 5110 Fund Collections" },
+                  { "value": "150869.28" }
+                ]
+              },
+              "type": "Section"
+            },
+            {
+              "Header": {
+                "ColData": [
+                  { "value": "5120 Capital Collections", "id": "73" },
+                  { "value": "" }
+                ]
+              },
+              "Rows": {
+                "Row": [
+                  {
+                    "ColData": [
+                      { "value": "5122 Church Building Fund", "id": "77" },
+                      { "value": "206170.63" }
+                    ],
+                    "type": "Data"
+                  }
+                ]
+              },
+              "Summary": {
+                "ColData": [
+                  { "value": "Total 5120 Capital Collections" },
+                  { "value": "206170.63" }
+                ]
+              },
+              "type": "Section"
+            }
+          ]
+        },
+        "Summary": {
+          "ColData": [
+            { "value": "Total Other Income" },
+            { "value": "793251.84" }
+          ]
+        },
+        "type": "Section",
+        "group": "OtherIncome"
+      },
+      {
+        "Header": {
+          "ColData": [{ "value": "Other Expenses" }, { "value": "" }]
+        },
+        "Rows": {
+          "Row": [
+            {
+              "Header": {
+                "ColData": [
+                  {
+                    "value": "6010 Share Collect Pay to Oth Parish",
+                    "id": "212"
+                  },
+                  { "value": "" }
+                ]
+              },
+              "Rows": {
+                "Row": [
+                  {
+                    "Header": {
+                      "ColData": [
+                        {
+                          "value": "6011 SS Joseph/Francis Xavier Sharin",
+                          "id": "213"
+                        },
+                        { "value": "" }
+                      ]
+                    },
+                    "Rows": {
+                      "Row": [
+                        {
+                          "ColData": [
+                            {
+                              "value": "6011.01 St. Vincent de Paul",
+                              "id": "517"
+                            },
+                            { "value": "48253.00" }
+                          ],
+                          "type": "Data"
+                        }
+                      ]
+                    },
+                    "Summary": {
+                      "ColData": [
+                        {
+                          "value": "Total 6011 SS Joseph/Francis Xavier Sharin"
+                        },
+                        { "value": "48253.00" }
+                      ]
+                    },
+                    "type": "Section"
+                  },
+                  {
+                    "Header": {
+                      "ColData": [
+                        { "value": "6012 St. Joseph Sharing", "id": "699" },
+                        { "value": "" }
+                      ]
+                    },
+                    "Rows": {
+                      "Row": [
+                        {
+                          "ColData": [
+                            { "value": "6012.02 St. Ignatius", "id": "702" },
+                            { "value": "500.00" }
+                          ],
+                          "type": "Data"
+                        }
+                      ]
+                    },
+                    "Summary": {
+                      "ColData": [
+                        { "value": "Total 6012 St. Joseph Sharing" },
+                        { "value": "500.00" }
+                      ]
+                    },
+                    "type": "Section"
+                  },
+                  {
+                    "Header": {
+                      "ColData": [
+                        {
+                          "value": "6013 St Francis Xavier Sharing",
+                          "id": "582"
+                        },
+                        { "value": "" }
+                      ]
+                    },
+                    "Rows": {
+                      "Row": [
+                        {
+                          "ColData": [
+                            {
+                              "value": "6013.01 St. Thomas of Canterbury",
+                              "id": "616"
+                            },
+                            { "value": "57767.50" }
+                          ],
+                          "type": "Data"
+                        }
+                      ]
+                    },
+                    "Summary": {
+                      "ColData": [
+                        { "value": "Total 6013 St Francis Xavier Sharing" },
+                        { "value": "57767.50" }
+                      ]
+                    },
+                    "type": "Section"
+                  }
+                ]
+              },
+              "Summary": {
+                "ColData": [
+                  { "value": "Total 6010 Share Collect Pay to Oth Parish" },
+                  { "value": "106520.50" }
+                ]
+              },
+              "type": "Section"
+            },
+            {
+              "Header": {
+                "ColData": [
+                  { "value": "6015 Sharing Outside the AOC", "id": "250" },
+                  { "value": "" }
+                ]
+              },
+              "Rows": {
+                "Row": [
+                  {
+                    "Header": {
+                      "ColData": [
+                        {
+                          "value": "6016 Immaculate Conception-Haiti",
+                          "id": "426"
+                        },
+                        { "value": "4942.50" }
+                      ]
+                    },
+                    "Rows": {
+                      "Row": [
+                        {
+                          "ColData": [
+                            {
+                              "value": "6016A IC Normal School Support",
+                              "id": "542"
+                            },
+                            { "value": "23509.93" }
+                          ],
+                          "type": "Data"
+                        },
+                        {
+                          "ColData": [
+                            {
+                              "value": "6016B IC Special School Support",
+                              "id": "543"
+                            },
+                            { "value": "57035.00" }
+                          ],
+                          "type": "Data"
+                        },
+                        {
+                          "ColData": [
+                            { "value": "6016C IC Parish Support", "id": "544" },
+                            { "value": "4060.00" }
+                          ],
+                          "type": "Data"
+                        },
+                        {
+                          "ColData": [
+                            {
+                              "value": "6016D IT Superintendent Support",
+                              "id": "545"
+                            },
+                            { "value": "3000.00" }
+                          ],
+                          "type": "Data"
+                        },
+                        {
+                          "ColData": [
+                            { "value": "6016E Scholorships", "id": "555" },
+                            { "value": "14306.00" }
+                          ],
+                          "type": "Data"
+                        }
+                      ]
+                    },
+                    "Summary": {
+                      "ColData": [
+                        { "value": "Total 6016 Immaculate Conception-Haiti" },
+                        { "value": "106853.43" }
+                      ]
+                    },
+                    "type": "Section"
+                  },
+                  {
+                    "ColData": [
+                      { "value": "6017 Haiti Fr. Rodlin", "id": "251" },
+                      { "value": "8000.00" }
+                    ],
+                    "type": "Data"
+                  }
+                ]
+              },
+              "Summary": {
+                "ColData": [
+                  { "value": "Total 6015 Sharing Outside the AOC" },
+                  { "value": "114853.43" }
+                ]
+              },
+              "type": "Section"
+            },
+            {
+              "Header": {
+                "ColData": [
+                  {
+                    "value": "6030 Pymt Arch Required Collections",
+                    "id": "171"
+                  },
+                  { "value": "" }
+                ]
+              },
+              "Rows": {
+                "Row": [
+                  {
+                    "ColData": [
+                      { "value": "6031 Latin America", "id": "172" },
+                      { "value": "485.00" }
+                    ],
+                    "type": "Data"
+                  },
+                  {
+                    "ColData": [
+                      { "value": "6032 Seminaries", "id": "178" },
+                      { "value": "2945.00" }
+                    ],
+                    "type": "Data"
+                  },
+                  {
+                    "ColData": [
+                      { "value": "6034 Holy Land", "id": "174" },
+                      { "value": "1245.00" }
+                    ],
+                    "type": "Data"
+                  },
+                  {
+                    "ColData": [
+                      {
+                        "value": "6035 Aid Churches Centl/East Europe",
+                        "id": "177"
+                      },
+                      { "value": "6072.00" }
+                    ],
+                    "type": "Data"
+                  },
+                  {
+                    "ColData": [
+                      { "value": "6036 Catholic Charities", "id": "175" },
+                      { "value": "4671.52" }
+                    ],
+                    "type": "Data"
+                  },
+                  {
+                    "ColData": [
+                      { "value": "6037 Peter's Pence", "id": "176" },
+                      { "value": "3143.00" }
+                    ],
+                    "type": "Data"
+                  },
+                  {
+                    "ColData": [
+                      { "value": "6039 World Mission Sunday", "id": "179" },
+                      { "value": "2218.00" }
+                    ],
+                    "type": "Data"
+                  },
+                  {
+                    "ColData": [
+                      {
+                        "value": "6040 Cath Campaign for Human Develop",
+                        "id": "180"
+                      },
+                      { "value": "4665.00" }
+                    ],
+                    "type": "Data"
+                  },
+                  {
+                    "ColData": [
+                      { "value": "6041 Religious Retirement", "id": "181" },
+                      { "value": "1863.42" }
+                    ],
+                    "type": "Data"
+                  },
+                  {
+                    "ColData": [
+                      {
+                        "value": "6044 Archdiocesan Priest Retirement",
+                        "id": "296"
+                      },
+                      { "value": "7160.00" }
+                    ],
+                    "type": "Data"
+                  }
+                ]
+              },
+              "Summary": {
+                "ColData": [
+                  { "value": "Total 6030 Pymt Arch Required Collections" },
+                  { "value": "34467.94" }
+                ]
+              },
+              "type": "Section"
+            },
+            {
+              "Header": {
+                "ColData": [
+                  { "value": "6060 Other Extraordinary Expenses", "id": "183" },
+                  { "value": "327.72" }
+                ]
+              },
+              "Rows": {
+                "Row": [
+                  {
+                    "ColData": [
+                      { "value": "6061 Real Estate Taxes", "id": "193" },
+                      { "value": "6098.01" }
+                    ],
+                    "type": "Data"
+                  },
+                  {
+                    "ColData": [
+                      {
+                        "value": "6063 Other Extraordinary Expenses",
+                        "id": "637"
+                      },
+                      { "value": "352688.99" }
+                    ],
+                    "type": "Data"
+                  },
+                  {
+                    "ColData": [
+                      { "value": "6064 Prior Year Adjustments", "id": "309" },
+                      { "value": "-107155.37" }
+                    ],
+                    "type": "Data"
+                  }
+                ]
+              },
+              "Summary": {
+                "ColData": [
+                  { "value": "Total 6060 Other Extraordinary Expenses" },
+                  { "value": "251959.35" }
+                ]
+              },
+              "type": "Section"
+            },
+            {
+              "Header": {
+                "ColData": [
+                  { "value": "6110 Capital Improvements", "id": "210" },
+                  { "value": "" }
+                ]
+              },
+              "Rows": {
+                "Row": [
+                  {
+                    "Header": {
+                      "ColData": [
+                        {
+                          "value": "6112 St Joseph Campus Cap Improvemnt",
+                          "id": "566"
+                        },
+                        { "value": "" }
+                      ]
+                    },
+                    "Rows": {
+                      "Row": [
+                        {
+                          "ColData": [
+                            {
+                              "value": "6112.01 SJ Church Sound System Upgrade",
+                              "id": "661"
+                            },
+                            { "value": "957.81" }
+                          ],
+                          "type": "Data"
+                        },
+                        {
+                          "ColData": [
+                            {
+                              "value": "6112.02 Church Lighting Project",
+                              "id": "594"
+                            },
+                            { "value": "21425.40" }
+                          ],
+                          "type": "Data"
+                        },
+                        {
+                          "ColData": [
+                            { "value": "6112.06 School Security", "id": "627" },
+                            { "value": "33304.30" }
+                          ],
+                          "type": "Data"
+                        },
+                        {
+                          "ColData": [
+                            {
+                              "value": "6112.07 SJ Parking lot project",
+                              "id": "628"
+                            },
+                            { "value": "8329.89" }
+                          ],
+                          "type": "Data"
+                        },
+                        {
+                          "ColData": [
+                            { "value": "6112.08 Church Masonry", "id": "629" },
+                            { "value": "9270.00" }
+                          ],
+                          "type": "Data"
+                        }
+                      ]
+                    },
+                    "Summary": {
+                      "ColData": [
+                        {
+                          "value": "Total 6112 St Joseph Campus Cap Improvemnt"
+                        },
+                        { "value": "73287.40" }
+                      ]
+                    },
+                    "type": "Section"
+                  },
+                  {
+                    "Header": {
+                      "ColData": [
+                        {
+                          "value": "6113 SFX Campus Cap Improvement",
+                          "id": "238"
+                        },
+                        { "value": "" }
+                      ]
+                    },
+                    "Rows": {
+                      "Row": [
+                        {
+                          "ColData": [
+                            {
+                              "value": "6113.02 SFX Church Improvements",
+                              "id": "512"
+                            },
+                            { "value": "168418.05" }
+                          ],
+                          "type": "Data"
+                        },
+                        {
+                          "ColData": [
+                            {
+                              "value": "6113.03 SFX Church Carpet",
+                              "id": "515"
+                            },
+                            { "value": "50000.00" }
+                          ],
+                          "type": "Data"
+                        },
+                        {
+                          "ColData": [
+                            {
+                              "value": "6113.04 SFX Parking lot project",
+                              "id": "554"
+                            },
+                            { "value": "4356.66" }
+                          ],
+                          "type": "Data"
+                        },
+                        {
+                          "ColData": [
+                            { "value": "6113.05 Church Masonry", "id": "557" },
+                            { "value": "6590.00" }
+                          ],
+                          "type": "Data"
+                        }
+                      ]
+                    },
+                    "Summary": {
+                      "ColData": [
+                        { "value": "Total 6113 SFX Campus Cap Improvement" },
+                        { "value": "229364.71" }
+                      ]
+                    },
+                    "type": "Section"
+                  }
+                ]
+              },
+              "Summary": {
+                "ColData": [
+                  { "value": "Total 6110 Capital Improvements" },
+                  { "value": "302652.11" }
+                ]
+              },
+              "type": "Section"
+            }
+          ]
+        },
+        "Summary": {
+          "ColData": [
+            { "value": "Total Other Expenses" },
+            { "value": "810453.33" }
+          ]
+        },
+        "type": "Section",
+        "group": "OtherExpenses"
+      },
+      {
+        "Summary": {
+          "ColData": [{ "value": "Net Other Income" }, { "value": "-17201.49" }]
+        },
+        "type": "Section",
+        "group": "NetOtherIncome"
+      },
+      {
+        "Summary": {
+          "ColData": [{ "value": "Net Income" }, { "value": "473846.67" }]
+        },
+        "type": "Section",
+        "group": "NetIncome"
+      }
+    ]
+  }
+}

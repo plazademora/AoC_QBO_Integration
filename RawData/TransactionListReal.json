@@ -1,0 +1,437 @@
+{
+    "Header": {
+        "Time": "2021-07-13T13:59:02-07:00",
+        "ReportName": "TransactionList",
+        "StartPeriod": "2021-06-28",
+        "EndPeriod": "2021-07-05",
+        "Currency": "USD",
+        "Option": [
+            {
+                "Name": "NoReportData",
+                "Value": "false"
+            }
+        ]
+    },
+    "Columns": {
+        "Column": [
+            {
+                "ColTitle": "Date",
+                "ColType": "Date",
+                "MetaData": [
+                    {
+                        "Name": "ColKey",
+                        "Value": "tx_date"
+                    }
+                ]
+            },
+            {
+                "ColTitle": "Transaction Type",
+                "ColType": "String",
+                "MetaData": [
+                    {
+                        "Name": "ColKey",
+                        "Value": "txn_type"
+                    }
+                ]
+            },
+            {
+                "ColTitle": "Num",
+                "ColType": "String",
+                "MetaData": [
+                    {
+                        "Name": "ColKey",
+                        "Value": "doc_num"
+                    }
+                ]
+            },
+            {
+                "ColTitle": "Posting",
+                "ColType": "Boolean",
+                "MetaData": [
+                    {
+                        "Name": "ColKey",
+                        "Value": "is_no_post"
+                    }
+                ]
+            },
+            {
+                "ColTitle": "Name",
+                "ColType": "String",
+                "MetaData": [
+                    {
+                        "Name": "ColKey",
+                        "Value": "name"
+                    }
+                ]
+            },
+            {
+                "ColTitle": "Memo/Description",
+                "ColType": "String",
+                "MetaData": [
+                    {
+                        "Name": "ColKey",
+                        "Value": "memo"
+                    }
+                ]
+            },
+            {
+                "ColTitle": "Account",
+                "ColType": "String",
+                "MetaData": [
+                    {
+                        "Name": "ColKey",
+                        "Value": "account_name"
+                    }
+                ]
+            },
+            {
+                "ColTitle": "Split",
+                "ColType": "String",
+                "MetaData": [
+                    {
+                        "Name": "ColKey",
+                        "Value": "other_account"
+                    }
+                ]
+            },
+            {
+                "ColTitle": "Amount",
+                "ColType": "Money",
+                "MetaData": [
+                    {
+                        "Name": "ColKey",
+                        "Value": "subt_nat_amount"
+                    }
+                ]
+            }
+        ]
+    },
+    "Rows": {
+        "Row": [
+            {
+                "ColData": [
+                    {
+                        "value": "2021-06-28"
+                    },
+                    {
+                        "value": "Bill",
+                        "id": "7018"
+                    },
+                    {
+                        "value": "F-Inv#062821"
+                    },
+                    {
+                        "value": "Yes"
+                    },
+                    {
+                        "value": "Xfinity - St. Frances",
+                        "id": "209"
+                    },
+                    {
+                        "value": "F-Inv#062821 (July 2 - August 1, 2021)"
+                    },
+                    {
+                        "value": "2000 Accounts Payable",
+                        "id": "236"
+                    },
+                    {
+                        "value": "-Split-",
+                        "id": ""
+                    },
+                    {
+                        "value": "75.26"
+                    }
+                ],
+                "type": "Data"
+            },
+            {
+                "ColData": [
+                    {
+                        "value": "2021-06-30"
+                    },
+                    {
+                        "value": "Deposit",
+                        "id": "7004"
+                    },
+                    {
+                        "value": ""
+                    },
+                    {
+                        "value": "Yes"
+                    },
+                    {
+                        "value": "",
+                        "id": ""
+                    },
+                    {
+                        "value": "Maternity Deposit"
+                    },
+                    {
+                        "value": "1101.10 Cash:SJLSDR Operating Acct#2513:Church Available",
+                        "id": "447"
+                    },
+                    {
+                        "value": "-Split-",
+                        "id": ""
+                    },
+                    {
+                        "value": "2908.00"
+                    }
+                ],
+                "type": "Data"
+            },
+            {
+                "ColData": [
+                    {
+                        "value": "2021-06-30"
+                    },
+                    {
+                        "value": "Deposit",
+                        "id": "7005"
+                    },
+                    {
+                        "value": ""
+                    },
+                    {
+                        "value": "Yes"
+                    },
+                    {
+                        "value": "",
+                        "id": ""
+                    },
+                    {
+                        "value": "St. Francis of Assisi Deposit"
+                    },
+                    {
+                        "value": "1101.10 Cash:SJLSDR Operating Acct#2513:Church Available",
+                        "id": "447"
+                    },
+                    {
+                        "value": "3012 Sunday and Holy Day Collections:Sunday Collection:Sunday Collection Envelopes",
+                        "id": "194"
+                    },
+                    {
+                        "value": "1194.00"
+                    }
+                ],
+                "type": "Data"
+            },
+            {
+                "ColData": [
+                    {
+                        "value": "2021-06-30"
+                    },
+                    {
+                        "value": "Deposit",
+                        "id": "7006"
+                    },
+                    {
+                        "value": ""
+                    },
+                    {
+                        "value": "Yes"
+                    },
+                    {
+                        "value": "",
+                        "id": ""
+                    },
+                    {
+                        "value": "St. Philomena Deposit"
+                    },
+                    {
+                        "value": "1101.10 Cash:SJLSDR Operating Acct#2513:Church Available",
+                        "id": "447"
+                    },
+                    {
+                        "value": "-Split-",
+                        "id": ""
+                    },
+                    {
+                        "value": "2214.00"
+                    }
+                ],
+                "type": "Data"
+            },
+            {
+                "ColData": [
+                    {
+                        "value": "2021-06-30"
+                    },
+                    {
+                        "value": "Bill",
+                        "id": "7019"
+                    },
+                    {
+                        "value": "P-Inv#063021"
+                    },
+                    {
+                        "value": "Yes"
+                    },
+                    {
+                        "value": "Fr. Tom Florek",
+                        "id": "342"
+                    },
+                    {
+                        "value": "P-Inv#063021 (Masses celebrated from June 1 - June 27, 2021)"
+                    },
+                    {
+                        "value": "2000 Accounts Payable",
+                        "id": "236"
+                    },
+                    {
+                        "value": "4012 Salaries:Extra Priests",
+                        "id": "420"
+                    },
+                    {
+                        "value": "100.00"
+                    }
+                ],
+                "type": "Data"
+            },
+            {
+                "ColData": [
+                    {
+                        "value": "2021-06-30"
+                    },
+                    {
+                        "value": "Bill",
+                        "id": "7020"
+                    },
+                    {
+                        "value": "M,F,P-Inv#063021"
+                    },
+                    {
+                        "value": "Yes"
+                    },
+                    {
+                        "value": "Franciscan Friars",
+                        "id": "134"
+                    },
+                    {
+                        "value": "M,F,P-Inv#063021 (Masses celebrated from June 1 - June 27, 2021)"
+                    },
+                    {
+                        "value": "2000 Accounts Payable",
+                        "id": "236"
+                    },
+                    {
+                        "value": "-Split-",
+                        "id": ""
+                    },
+                    {
+                        "value": "1000.00"
+                    }
+                ],
+                "type": "Data"
+            },
+            {
+                "ColData": [
+                    {
+                        "value": "2021-06-30"
+                    },
+                    {
+                        "value": "Bill",
+                        "id": "7021"
+                    },
+                    {
+                        "value": "P-Inv#063021"
+                    },
+                    {
+                        "value": "Yes"
+                    },
+                    {
+                        "value": "Fr. Michael Rossmann",
+                        "id": "8"
+                    },
+                    {
+                        "value": "P-Inv#063021 (Masses celebrated from June 1 - June 27, 2021)"
+                    },
+                    {
+                        "value": "2000 Accounts Payable",
+                        "id": "236"
+                    },
+                    {
+                        "value": "4012 Salaries:Extra Priests",
+                        "id": "420"
+                    },
+                    {
+                        "value": "100.00"
+                    }
+                ],
+                "type": "Data"
+            },
+            {
+                "ColData": [
+                    {
+                        "value": "2021-06-30"
+                    },
+                    {
+                        "value": "Bill",
+                        "id": "7022"
+                    },
+                    {
+                        "value": "M-Inv#17237652"
+                    },
+                    {
+                        "value": "Yes"
+                    },
+                    {
+                        "value": "Quill LLC",
+                        "id": "214"
+                    },
+                    {
+                        "value": "M-Inv#17237652 (Janitorial Supplies)"
+                    },
+                    {
+                        "value": "2000 Accounts Payable",
+                        "id": "236"
+                    },
+                    {
+                        "value": "4459 Maintenance & Building Repairs:Janitorial Supplies",
+                        "id": "94"
+                    },
+                    {
+                        "value": "78.54"
+                    }
+                ],
+                "type": "Data"
+            },
+            {
+                "ColData": [
+                    {
+                        "value": "2021-06-30"
+                    },
+                    {
+                        "value": "Journal Entry",
+                        "id": "7044"
+                    },
+                    {
+                        "value": "12"
+                    },
+                    {
+                        "value": "Yes"
+                    },
+                    {
+                        "value": "",
+                        "id": ""
+                    },
+                    {
+                        "value": "Bank Adjustment"
+                    },
+                    {
+                        "value": "",
+                        "id": ""
+                    },
+                    {
+                        "value": "-Split-",
+                        "id": ""
+                    },
+                    {
+                        "value": ""
+                    }
+                ],
+                "type": "Data"
+            }
+        ]
+    }
+}

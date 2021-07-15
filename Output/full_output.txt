@@ -1,0 +1,244 @@
+3000 Sunday and Holy Day Collections, 107, 225.00
+3011 Sunday Collection, 108, 
+3012 Sunday Collection Envelopes, 278, 496607.06
+3013 Sunday Collection Loose Ck/Cash, 279, 1376.00
+3013.1 Counting Error, 692, 452.45
+3014 Sunday Collections E-Giving, 406, 677434.11
+3015 Holy Day Collection, 109, 
+3016 Holy Day Collection Envelopes, 281, 5408.00
+3017 Holy Day Collect. Loose Ck/Cash, 280, 568.00
+3020 Christmas Collection, 110, 350328.00
+3030 Easter Collection, 111, 750.00
+3040 Other Collections, 112, 
+3042 Flowers Collection, 558, 1173.00
+3043 School Support Collection, 282, 140.00
+3045 Almsgiving, 369, 5828.00
+3100 Tuition, 392, 1100.00
+3101 Tuition - Current, 698, 3014281.05
+3102 Tuition - Prior, 648, 30883.00
+3110 Fees, 28, 
+3111 Registration Fee, 29, 139630.00
+3112 Health/Other Insurance Fees, 284, 1512.00
+3113 Book & Supply Fees, 30, 285594.74
+3115 Activity/Program Fees, 285, 25395.78
+3116 Athletic Fee, 31, 1290.00
+3117 Graduation Fee, 33, -297.00
+3120 Sacramental Fee, 35, 635.00
+3125 3rd Party Fees, 419, 15960.90
+3125A 3rd Party Rev., 658, 216.00
+3125B 3rd Party Exp, 612, 5440.00
+3300 Food Services, 36, 
+3301 School Meal Program, 37, 413.00
+3350 Lease and/or Rental Income, 387, 
+3351 Facility Lease, 595, 45900.00
+3352 Facility Rental, 630, 200.00
+3400 Outside Funding Sources, 39, 
+3407 Other Scholarships, 304, 
+3407.01 Tax Credit Scholarship, 358, 65526.50
+3450 Fund Raising Net Income, 388, 
+3461 St. Joseph School Fundraising, 596, 
+3461.03 SJS Annual Fund Drive, 678, 1515.00
+3462 StFrancis Xavier Sch Fundraiser, 456, 
+3462.01 SFXS Annual School Appeal, 650, 2000.00
+3500 Interest & Investment Income, 40, 
+3501 Interest-Arch Regular Savings, 41, 1646.24
+3502 Interest-Arch Cert of Deposit, 42, 671.46
+3503 Interest-Arch Building Fund, 43, 2146.75
+3504 Invest. Gains/Losses Arch Endow, 44, 548814.09
+3505 Invest. Gains/Loss Arch Spc Inv, 147, 23768.66
+3506 Interest-Checking Accounts, 148, 46.03
+3507 Other Interest Account, 45, 212.75
+3600 Auxiliary Groups, 149, 
+3603 St Francis Xavier Auxiliary, 150, 
+3603.02 SFX Men's Club, 460, 23300.38
+3603.10 SFXS Home School Organization, 464, 61270.00
+3700 Miscellaneous Income, 154, 
+3701 Stole Fees, 155, 
+3701.10 Baptism, 263, 2310.00
+3701.20 Funeral, 508, 17075.00
+3701.30 Wedding, 509, 14355.00
+3702 Stipend for Masses, 156, 11645.00
+3703 Votive and Vigil Candles, 157, 2517.30
+3705 Scholarship Income, 634, 528.00
+3706 Donations, 159, 44650.71
+3720 Other Miscellaneous Income, 312, 104194.51
+4010 Salaries, 391, 
+4011 Priests, 638, 95672.51
+4012 Extra Priests, 576, 2998.50
+4014 Professional Staff, 672, 254442.99
+4015 Admin Support Staff - Church, 397, 260213.91
+4016 House Staff, 580, 18738.50
+4017 Maintenance - Church, 396, 99515.51
+4511 Administrators & Othr Schl Prof, 639, 187866.32
+4512 Religious Teachers, 577, 6366.45
+4513 Lay Teachers, 690, 978663.38
+4514 Special Program Teachers, 578, 500598.51
+4515 Instructional Aides, 640, 293617.53
+4516 Substitute Teachers, 579, 67765.46
+4517 Support Staff - School, 673, 206864.71
+4518 Maintenance Staff - School, 641, 101043.27
+4030 Health Insurance-Employer Paid, 163, 524972.00
+4040 Employer FICA, 164, 226912.54
+4050 Fringe Benefits, 165, 
+4052 Fringe Benefits - Lay, 186, 82431.62
+4060 Prof. Growth/Minist./Other, 166, 
+4061 Professional Growth, 189, 14202.86
+4062 Ministerial Expense Allowance, 568, 1247.50
+4063 Unemployment Compensation, 581, 8967.00
+4100 Books & Supplies,Non-Liturgical, 167, 
+4102 Offertory Supplies, 169, 480.23
+4103 Books and Magazines, 170, 4362.62
+4105 Textbooks, 561, 19909.81
+4106 Workbooks, 688, 22371.51
+4107 Library Materials, 562, 1778.29
+4109 Instructional Materials, 563, 58384.85
+4110 Instructional Software, 187, 18647.84
+4150 Administrative Expenses, 46, 
+4151 Ofc Equipment-Supplies & Maint., 47, 14325.78
+4152 Outside Printing Cost, 48, 20296.63
+4153 Postage/Courier Services, 49, 4745.59
+4154 Office Supplies, 50, 9787.12
+4155 Professional Service Fees, 51, 138121.38
+4156 Computer Supplies, 185, 25801.46
+4157 Criminal Background Checks, 52, 1801.23
+4158 Bank Fees, 386, 38553.67
+4159 Other Administrative Expense, 420, 73.50
+4200 Transportation, 53, 
+4201 Local Travel/Reimbursement, 162, 60.89
+4250 Food Service & Meals, 54, 
+4252 Food/Groceries, 56, 14456.82
+4253 Meal Allowance, 57, 3906.06
+4254 Catering, 58, 968.71
+4400 Telephone, 60, 10050.32
+4410 Heating Fuel, 61, 32037.55
+4420 Electricity, 62, 50452.71
+4430 Other Utilities, 59, 
+4431 Water/Sewer, 63, 17200.07
+4432 Scavenger Service, 64, 8210.37
+4433 Cable/Dish Services, 65, 3547.77
+4434 Internet/Computer Telecom Costs, 66, 7303.98
+4450 Maintenance & Building Repairs, 67, 334.00
+4451 Security, 68, 24729.00
+4452 Ground Services, 69, 64338.89
+4453 Ground Supplies, 70, 1699.18
+4454 Building Services, 71, 45461.95
+4455 Repairs to Buildings, 115, 86243.24
+4456 Equipment Services, 116, 14684.21
+4457 Equipment Rental, 117, -182.18
+4459 Janitorial Supplies, 118, 30597.21
+4550 Bingo Expenses, 370, 
+4555 Bingo Hall Rental, 372, 900.00
+4600 Interest Expense, 119, 
+4601 Interest Expense Oper. Loans, 378, 4768.60
+4650 Altar & Liturgical Supplies, 120, 141.42
+4651 Hosts and Wine, 121, 960.49
+4653 Candles, 123, 1786.10
+4656 Music Books, 126, 464.49
+4657 Liturgical Publications, 129, 1465.58
+4659 Flowers, 130, 3283.85
+4660 Other Liturgical Costs, 127, 1317.72
+4700 Furnishings & Equipment, 131, 
+4701 Admin Furnishings/Equip, 132, 27765.58
+4702 Instructional Furnishings/Equip, 133, 189206.17
+4703 Maintenance Furnishings/Equip, 134, 4633.76
+4750 Archdiocesan Assessment, 144, 
+4751 Archhdiocesean Assesment, 253, 177788.16
+4752 Lease, Lic & Rental Arch Assess, 254, 4171.50
+4760 PRMAA Assessment, 145, 62225.82
+4770 OCS Assessment, 146, 26055.00
+4780 Property/Casualty Insurance, 390, 153969.53
+4790 Auto Insur-Priest Owned Vehicle, 72, 3855.00
+4800 Miscellaneous, 135, 
+4802 Meetings & Speakers, 140, 2650.00
+4803 Ministry Formation & Education, 142, 2658.32
+4804 Hospitality & Entertainment, 138, 387.77
+4805 Public Relations & Advertising, 141, 1195.86
+4806 Gifts & Donations, 139, 6815.85
+4807 Dues/Subscriptions, 137, 20079.33
+4808 Unrelated Business Tax, 379, -3.13
+4809 Special Program Expense, 143, 5285.31
+4820 Other Miscellaneous Expense, 311, 118956.73
+4820A Credit Card Expense - Needs Det, 361, -5838.83
+5000 Insurance Recoveries, 75, 
+5001 Casualty Claims, 220, 9560.00
+5010 Sharing Collections Oth Parish, 79, 
+5011 SS Joseph/Francis Xavier Sharin, 226, 
+5011.1 St. VIncent de Paul, 516, 45309.00
+5012 St Joseph Sharing, 227, 
+5012.02 St. Ignatius, 424, 14002.00
+5013 St Francis Xavier Sharing, 225, 
+5013.01 St. Thomas of Canterbury, 421, 46138.00
+5015 Sharing Collections Outside AOC, 247, 
+5016 Immaculate Conception-Haiti, 422, 28783.00
+5016C IC Secial Fundraising, 547, 40000.00
+5017 Haiti-Rodlin, 248, 4202.95
+5030 Arch Required Collections, 80, 
+5031 Latin America, 81, 1401.00
+5032 Seminaries, 87, 3035.00
+5033 Annual Catholic Appeal, 82, -1132.00
+5034 Holy Land, 83, 120.00
+5035 Aid Churches Centl/East Europe, 86, 1785.00
+5036 Catholic Charities, 84, 2060.00
+5037 Peter's Pence, 85, 755.00
+5039 World Mission Sunday, 88, 2148.00
+5040 Cath Campaign for Human Develop, 89, 5240.00
+5041 Religious Retirement, 90, 5066.00
+5042 Missionary CO-OP Plan, 218, 940.00
+5044 Archdiocesan Priest Retirement, 297, 3060.00
+5050 Estates, Bequests & Memorials, 92, 
+5052 Bequests Proceeds, 204, 20000.00
+5053 Memorial Proceeds, 205, 2070.00
+5060 Other Extraordinary Income, 206, 
+5061 Other Extraordinary Collections, 207, 255.00
+5065 Other Extraordinary Income, 427, 201413.98
+5110 Fund Collections, 76, 
+5112 Parish Endow Fund Collection, 223, -7625.00
+5113 Parish Ed. Endow Fund Collect, 221, 10860.97
+5114 Annual Appeal Rebate, 160, 23516.90
+5115 "To Teach Who Christ Is" Campgn, 249, 
+5115.01 St Joseph TTWCI Campaign, 430, 17044.50
+5115.02 St Francis Xavier TTWCI Campagn, 431, 107071.91
+5120 Capital Collections, 73, 
+5122 Church Building Fund, 77, 206170.63
+6010 Share Collect Pay to Oth Parish, 212, 
+6011 SS Joseph/Francis Xavier Sharin, 213, 
+6011.01 St. Vincent de Paul, 517, 48253.00
+6012 St. Joseph Sharing, 699, 
+6012.02 St. Ignatius, 702, 500.00
+6013 St Francis Xavier Sharing, 582, 
+6013.01 St. Thomas of Canterbury, 616, 57767.50
+6015 Sharing Outside the AOC, 250, 
+6016 Immaculate Conception-Haiti, 426, 4942.50
+6016A IC Normal School Support, 542, 23509.93
+6016B IC Special School Support, 543, 57035.00
+6016C IC Parish Support, 544, 4060.00
+6016D IT Superintendent Support, 545, 3000.00
+6016E Scholorships, 555, 14306.00
+6017 Haiti Fr. Rodlin, 251, 8000.00
+6030 Pymt Arch Required Collections, 171, 
+6031 Latin America, 172, 485.00
+6032 Seminaries, 178, 2945.00
+6034 Holy Land, 174, 1245.00
+6035 Aid Churches Centl/East Europe, 177, 6072.00
+6036 Catholic Charities, 175, 4671.52
+6037 Peter's Pence, 176, 3143.00
+6039 World Mission Sunday, 179, 2218.00
+6040 Cath Campaign for Human Develop, 180, 4665.00
+6041 Religious Retirement, 181, 1863.42
+6044 Archdiocesan Priest Retirement, 296, 7160.00
+6060 Other Extraordinary Expenses, 183, 327.72
+6061 Real Estate Taxes, 193, 6098.01
+6063 Other Extraordinary Expenses, 637, 352688.99
+6064 Prior Year Adjustments, 309, -107155.37
+6110 Capital Improvements, 210, 
+6112 St Joseph Campus Cap Improvemnt, 566, 
+6112.01 SJ Church Sound System Upgrade, 661, 957.81
+6112.02 Church Lighting Project, 594, 21425.40
+6112.06 School Security, 627, 33304.30
+6112.07 SJ Parking lot project, 628, 8329.89
+6112.08 Church Masonry, 629, 9270.00
+6113 SFX Campus Cap Improvement, 238, 
+6113.02 SFX Church Improvements, 512, 168418.05
+6113.03 SFX Church Carpet, 515, 50000.00
+6113.04 SFX Parking lot project, 554, 4356.66
+6113.05 Church Masonry, 557, 6590.00

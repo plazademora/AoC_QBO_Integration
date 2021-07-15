@@ -1,0 +1,16 @@
+{
+  "Header": {
+    "Time": "2021-06-07T12:55:08-07:00",
+    "ReportName": "ProfitAndLoss",
+    "DateMacro": "this fiscal year-to-date",
+    "ReportBasis": "Accrual",
+    "StartPeriod": "2020-07-01",
+    "EndPeriod": "2021-06-07",
+    "SummarizeColumnsBy": "Total",
+    "Currency": "USD",
+    "Option": [
+      { "Name": "AccountingStandard", "Value": "GAAP" },
+      { "Name": "NoReportData", "Value": "false" }
+    ]
+  }
+}

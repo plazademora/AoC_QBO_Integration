@@ -1,0 +1,794 @@
+TransactionDate,TransactionType,TransactionTypeID,DocumentNumber,Posting,VendorName,VendorID,Memo,Split,SplitID,TransactionAmount
+2021-01-01,Deposit,4352,NA,Yes,NA,NA,Smart201009 SFXS,1101.10 Cash:Saints JFX Oper. Acct. #2264:Checking Available,691,-Split-
+2021-01-01,Bill,8384,AR00174984,Yes,Catholic Bishop of Chicago (BillingSSJFX),359,NA,2000 Accounts Payable,217,4751 Archdiocesan Assessment:Archhdiocesean Assesment
+2021-01-01,Bill,8385,AR00175239,Yes,Catholic Bishop of Chicago (BillingSSJFX),359,NA,2000 Accounts Payable,217,"4752 Archdiocesan Assessment:Lease, Lic & Rental Arch Assess"
+2021-01-01,Bill,8386,AR00175481,Yes,Catholic Bishop of Chicago (BillingSSJFX),359,NA,2000 Accounts Payable,217,4760 PRMAA Assessment
+2021-01-01,Bill,8387,IB00181594,Yes,Catholic Bishop of Chicago (BillingSSJFX),359,NA,2000 Accounts Payable,217,4030 Health Insurance-Employer Paid
+2021-01-01,Bill,8388,IR00148317,Yes,Catholic Bishop of Chicago (BillingSSJFX),359,NA,2000 Accounts Payable,217,4052 Fringe Benefits:Fringe Benefits - Lay
+2021-01-01,Bill,8389,MR00157900,Yes,Catholic Bishop of Chicago (BillingSSJFX),359,NA,2000 Accounts Payable,217,4780 Property/Casualty Insurance
+2021-01-01,Bill,8390,IB00181260,Yes,Catholic Bishop of Chicago (BillingSFXS),548,NA,2000 Accounts Payable,217,4030 Health Insurance-Employer Paid
+2021-01-01,Bill,8391,IB00181261,Yes,Catholic Bishop of Chicago (BillingSFXS),548,NA,2000 Accounts Payable,217,4030 Health Insurance-Employer Paid
+2021-01-01,Bill,8392,IR00148130,Yes,Catholic Bishop of Chicago (BillingSFXS),548,NA,2000 Accounts Payable,217,4052 Fringe Benefits:Fringe Benefits - Lay
+2021-01-01,Bill,8393,MR00157716,Yes,Catholic Bishop of Chicago (BillingSFXS),548,NA,2000 Accounts Payable,217,4780 Property/Casualty Insurance
+2021-01-01,Bill,8394,IB00181298,Yes,Catholic Bishop of Chicago (BillingSJS),547,NA,2000 Accounts Payable,217,4030 Health Insurance-Employer Paid
+2021-01-01,Bill,8395,IR00148161,Yes,Catholic Bishop of Chicago (BillingSJS),547,NA,2000 Accounts Payable,217,4052 Fringe Benefits:Fringe Benefits - Lay
+2021-01-01,Bill,8396,MR00157745,Yes,Catholic Bishop of Chicago (BillingSJS),547,NA,2000 Accounts Payable,217,4780 Property/Casualty Insurance
+2021-01-01,Journal Entry,10581,GC 210101,Yes,NA,NA,General Journal,NA,NA,-Split-
+2021-01-03,Journal Entry,10570,SUN 210103,Yes,NA,NA,General Journal,NA,NA,-Split-
+2021-01-04,Deposit,4441,NA,Yes,NA,NA,TTWCI,101.25G Cash:Saints JFX Oper. Acct. #2264:Checking Restricted:Church Restricted:TTWCI,665,"5115.02 Fund Collections:""To Teach Who Christ Is"" Campgn:St Francis Xavier TTWCI Campagn"
+2021-01-04,Deposit,4443,NA,Yes,NA,NA,MD CHRISTMAS 210104,1101.10 Cash:Saints JFX Oper. Acct. #2264:Checking Available,691,3020 Christmas Collection
+2021-01-04,Deposit,4447,NA,Yes,NA,NA,Interest,1107.01 Cash:Old St. Francis Xavier Accounts:St. Francis Xavier Ckg #0396,332,3506 Interest & Investment Income:Interest-Checking Accounts
+2021-01-04,Check,8973,ACH,Yes,bank Fee,346,NA,1101.10 Cash:Saints JFX Oper. Acct. #2264:Checking Available,691,4158 Administrative Expenses:Bank Fees
+2021-01-05,Deposit,4167,NA,Yes,NA,NA,Smart 210105 SFX,1101.10 Cash:Saints JFX Oper. Acct. #2264:Checking Available,691,-Split-
+2021-01-05,Deposit,4173,NA,Yes,NA,NA,Smart210105 SJS,1101.10 Cash:Saints JFX Oper. Acct. #2264:Checking Available,691,-Split-
+2021-01-05,Deposit,4442,NA,Yes,NA,NA,MD Christmas 210105,1101.10 Cash:Saints JFX Oper. Acct. #2264:Checking Available,691,3020 Christmas Collection
+2021-01-05,Check,8974,ACH,Yes,First Fund,340,NA,1101.10 Cash:Saints JFX Oper. Acct. #2264:Checking Available,691,4158 Administrative Expenses:Bank Fees
+2021-01-06,Deposit,4452,NA,Yes,NA,NA,WS,1106.01 Cash:Old St. Joseph Accounts:St. Joseph #XXXX Oper (Old) BMO,330,-Split-
+2021-01-06,Check,8975,ACH,Yes,Stop Payment,358,NA,1101.10 Cash:Saints JFX Oper. Acct. #2264:Checking Available,691,4158 Administrative Expenses:Bank Fees
+2021-01-07,Check,8976,ach,Yes,acct adjustment,366,NA,1101.10 Cash:Saints JFX Oper. Acct. #2264:Checking Available,691,4158 Administrative Expenses:Bank Fees
+2021-01-07,Journal Entry,10584,wire transf,Yes,NA,NA,General Journal,NA,NA,-Split-
+2021-01-07,Journal Entry,10586,210107 MD,Yes,NA,NA,General Journal,NA,NA,-Split-
+2021-01-08,Deposit,4168,NA,Yes,NA,NA,Smart210108 SFXS,1101.10 Cash:Saints JFX Oper. Acct. #2264:Checking Available,691,-Split-
+2021-01-08,Journal Entry,10563,PP01082021,Yes,NA,NA,General Journal,NA,NA,-Split-
+2021-01-08,Journal Entry,10565,PP01082021,Yes,NA,NA,General Journal,NA,NA,-Split-
+2021-01-10,Deposit,4162,NA,Yes,NA,NA,SUN 210110,1101.10 Cash:Saints JFX Oper. Acct. #2264:Checking Available,691,3012 Sunday and Holy Day Collections:Sunday Collection:Sunday Collection Envelopes
+2021-01-10,Journal Entry,10572,SPEC 210110,Yes,NA,NA,General Journal,NA,NA,-Split-
+2021-01-10,Journal Entry,10573,SUN 200110,Yes,NA,NA,General Journal,NA,NA,-Split-
+2021-01-11,Bill,6569,107211,Yes,Monk's WIne and Candles SSJFX,65,NA,2000 Accounts Payable,217,-Split-
+2021-01-11,Bill,6570,1372,Yes,Americhoice Radon Testing,869,NA,2000 Accounts Payable,217,4155 Administrative Expenses:Professional Service Fees
+2021-01-11,Bill,6571,AE12053296,Yes,Apple Inc.,846,NA,2000 Accounts Payable,217,4702 Furnishings & Equipment:Instructional Furnishings/Equip
+2021-01-11,Bill,6572,MAT-182049,Yes,A SmartSign Store,567,NA,2000 Accounts Payable,217,4154 Administrative Expenses:Office Supplies
+2021-01-11,Bill,6573,110952012,Yes,Accurate Biometrics,24,NA,2000 Accounts Payable,217,4157 Administrative Expenses:Criminal Background Checks
+2021-01-11,Bill,6574,RR Costco member,Yes,Joseph D'Arco,45,NA,2000 Accounts Payable,217,4807 Miscellaneous:Dues/Subscriptions
+2021-01-11,Bill,6575,RR heaters at SFXS,Yes,Mike Henn,79,NA,2000 Accounts Payable,217,6063 Other Extraordinary Expenses:Other Extraordinary Expenses
+2021-01-11,Bill,6576,RR barrel shipping,Yes,Mike Henn,79,NA,2000 Accounts Payable,217,6016C Sharing Outside the AOC:Immaculate Conception-Haiti:IC Parish Support
+2021-01-11,Bill,6577,3784918,Yes,Engie Resources SJ Campus,111,NA,2000 Accounts Payable,217,-Split-
+2021-01-11,Bill,6578,3784941,Yes,Engie Resources Convent SJ,112,NA,2000 Accounts Payable,217,-Split-
+2021-01-11,Bill,6579,RR Rodlin wages,Yes,St. Joan of Arc,870,NA,2000 Accounts Payable,217,4011 Salaries:Priests
+2021-01-11,Bill,6580,107188,Yes,Monk's WIne and Candles SSJFX,65,NA,2000 Accounts Payable,217,4653 Altar & Liturgical Supplies:Candles
+2021-01-11,Bill,6581,8060733105,Yes,Staples SJ,92,NA,2000 Accounts Payable,217,-Split-
+2021-01-11,Bill,6582,638413,Yes,Village of Wilmette SJ Annex 330900,830,NA,2000 Accounts Payable,217,4431 Other Utilities:Water/Sewer
+2021-01-11,Bill,6583,1738171-03,Yes,"Kranz, Inc",415,NA,2000 Accounts Payable,217,4459 Maintenance & Building Repairs:Janitorial Supplies
+2021-01-11,Bill,6584,cantor Christmas Eve,Yes,Bonnie Mootry,871,NA,2000 Accounts Payable,217,4015 Salaries:Admin Support Staff - Church
+2021-01-11,Vendor Credit,6585,SFX92120,Yes,Heinemann,405,NA,2000 Accounts Payable,217,"4105 Books & Supplies,Non-Liturgical:Textbooks"
+2021-01-11,Bill,6586,Jan 1 - Feb 1 2021,Yes,Comcast Business (TV) SFXS 1576,57,NA,2000 Accounts Payable,217,4433 Other Utilities:Cable/Dish Services
+2021-01-11,Bill,6587,1002,Yes,Merbeth Metal Products Inc,866,NA,2000 Accounts Payable,217,6063 Other Extraordinary Expenses:Other Extraordinary Expenses
+2021-01-11,Bill,6588,746066,Yes,Anderson Lock,185,NA,2000 Accounts Payable,217,4451 Maintenance & Building Repairs:Security
+2021-01-11,Bill,6589,121548,Yes,Elk Grove Graphics,485,NA,2000 Accounts Payable,217,4152 Administrative Expenses:Outside Printing Cost
+2021-01-11,Bill,6590,22295498,Yes,Canon SFX,524,contract 0010491764245,2000 Accounts Payable,217,4701 Furnishings & Equipment:Admin Furnishings/Equip
+2021-01-11,Bill,6591,9502,Yes,Wilshore Electric LLC,872,NA,2000 Accounts Payable,217,4451 Maintenance & Building Repairs:Security
+2021-01-11,Bill,6592,705624-01,Yes,Watra Church Goods,350,NA,2000 Accounts Payable,217,4660 Altar & Liturgical Supplies:Other Liturgical Costs
+2021-01-11,Bill,8370,145403,Yes,GO Technology Group Inc.,64,NA,2000 Accounts Payable,217,4702 Furnishings & Equipment:Instructional Furnishings/Equip
+2021-01-11,Bill,8371,145450,Yes,GO Technology Group Inc.,64,NA,2000 Accounts Payable,217,4155 Administrative Expenses:Professional Service Fees
+2021-01-11,Bill,8372,4034960577,Yes,Canon Maintanence,563,NA,2000 Accounts Payable,217,4151 Administrative Expenses:Ofc Equipment-Supplies & Maint.
+2021-01-11,Bill,8373,4034960578,Yes,Canon Maintanence,563,NA,2000 Accounts Payable,217,4151 Administrative Expenses:Ofc Equipment-Supplies & Maint.
+2021-01-11,Bill,8374,11/26 - 12/27,Yes,Nicor SJ Convent,12,NA,2000 Accounts Payable,217,4410 Heating Fuel
+2021-01-11,Bill,8375,Nov - Dec 2020,Yes,Bank of America SFX 5830,296,NA,2000 Accounts Payable,217,2010.03 Procurement Card Payable:SFXS
+2021-01-11,Bill,8376,19-482-251,Yes,TelAssist,137,NA,2000 Accounts Payable,217,4434 Other Utilities:Internet/Computer Telecom Costs
+2021-01-12,Deposit,4444,NA,Yes,NA,NA,acct adj credit,1101.10 Cash:Saints JFX Oper. Acct. #2264:Checking Available,691,3013.1 Sunday and Holy Day Collections:Sunday Collection:Sunday Collection Loose Ck/Cash:Counting Error
+2021-01-12,Bill,8060,Feb 2021 statement,Yes,Pitney Bowes Purchase Power SFXCH 6704,806,NA,2000 Accounts Payable,217,4153 Administrative Expenses:Postage/Courier Services
+2021-01-12,Bill,8061,RR Christmas gift,Yes,Wayne Watts,241,NA,2000 Accounts Payable,217,-Split-
+2021-01-12,Bill,8062,Jan 2021 statement,Yes,Comcast SFX Rectory 2307,170,NA,2000 Accounts Payable,217,4433 Other Utilities:Cable/Dish Services
+2021-01-12,Bill,8063,2469878507,Yes,AT&T SJS,235,NA,2000 Accounts Payable,217,4400 Telephone
+2021-01-12,Bill,8064,2454978502,Yes,AT&T SFX ALL 5570 631,169,NA,2000 Accounts Payable,217,-Split-
+2021-01-12,Bill,8065,12/20-1/16/21,Yes,The New York Times,140,NA,2000 Accounts Payable,217,4807 Miscellaneous:Dues/Subscriptions
+2021-01-12,Bill,8066,2447978501,Yes,AT&T SJC 395,25,NA,2000 Accounts Payable,217,4400 Telephone
+2021-01-12,Bill,8067,Nov 20 - Dec 19,Yes,AT&T SJC YFF 2253,448,NA,2000 Accounts Payable,217,4400 Telephone
+2021-01-12,Bill,8068,9869406380,Yes,Verizon Wireless,118,NA,2000 Accounts Payable,217,-Split-
+2021-01-12,Bill,8069,40611,Yes,Precision,93,NA,2000 Accounts Payable,217,4459 Maintenance & Building Repairs:Janitorial Supplies
+2021-01-12,Bill,8070,40727,Yes,Precision,93,NA,2000 Accounts Payable,217,4454 Maintenance & Building Repairs:Building Services
+2021-01-12,Bill,8071,INV99812,Yes,Learning Without Tears,404,NA,2000 Accounts Payable,217,"4109 Books & Supplies,Non-Liturgical:Instructional Materials"
+2021-01-12,Bill,8072,271872020B000,Yes,Metropolitan Water Reclamation District,518,NA,2000 Accounts Payable,217,4431 Other Utilities:Water/Sewer
+2021-01-12,Bill,8073,MA December,Yes,Daniel Mayall,85,NA,2000 Accounts Payable,217,4253 Food Service & Meals:Meal Allowance
+2021-01-12,Bill,8074,271962020B000,Yes,Metropolitan Water Reclamation District,518,NA,2000 Accounts Payable,217,4431 Other Utilities:Water/Sewer
+2021-01-12,Bill,8075,RR reprint from 12/7,Yes,John Hopkins,101,NA,2000 Accounts Payable,217,-Split-
+2021-01-12,Bill,8076,37,Yes,Ron's Artic Snowplowing,304,NA,2000 Accounts Payable,217,-Split-
+2021-01-12,Bill,8077,covid shields,Yes,James Bui,873,NA,2000 Accounts Payable,217,6063 Other Extraordinary Expenses:Other Extraordinary Expenses
+2021-01-12,Bill,8078,RR tuition overpaid,Yes,Eileen and Kevin O'Hara,874,NA,2000 Accounts Payable,217,3101 Tuition:Tuition - Current
+2021-01-12,Bill,8079,113790861,Yes,Comcast Business (Internet) SJS 5239,851,NA,2000 Accounts Payable,217,4434 Other Utilities:Internet/Computer Telecom Costs
+2021-01-12,Bill,8080,MJ12010733,Yes,Lapels of Wilmette SJC,426,NA,2000 Accounts Payable,217,4155 Administrative Expenses:Professional Service Fees
+2021-01-12,Bill,8081,3799271,Yes,Engie Resources Convent SJ,112,NA,2000 Accounts Payable,217,4420 Electricity
+2021-01-12,Bill,8082,3799341,Yes,Engie Resources SJ Campus,111,NA,2000 Accounts Payable,217,-Split-
+2021-01-12,Bill,8083,22295612,Yes,Canon,258,NA,2000 Accounts Payable,217,-Split-
+2021-01-12,Bill,8377,T40002536325,Yes,Advanced Disposal SJ CH,108,NA,2000 Accounts Payable,217,4432 Other Utilities:Scavenger Service
+2021-01-12,Bill,8378,T40002535551,Yes,Advanced Disposal SFX Sch,60,NA,2000 Accounts Payable,217,4432 Other Utilities:Scavenger Service
+2021-01-12,Bill,8379,RR spirit/psalms,Yes,John Hopkins,101,NA,2000 Accounts Payable,217,4656 Altar & Liturgical Supplies:Music Books
+2021-01-12,Bill,8380,RR music/office exp,Yes,John Hopkins,101,NA,2000 Accounts Payable,217,-Split-
+2021-01-12,Bill,8381,reissue bonus chk,Yes,Edward Harnett,121,NA,2000 Accounts Payable,217,4806 Miscellaneous:Gifts & Donations
+2021-01-12,Bill,8382,donation,Yes,To Teach Who Christ Is,559,NA,2000 Accounts Payable,217,"5115.02 Fund Collections:""To Teach Who Christ Is"" Campgn:St Francis Xavier TTWCI Campagn"
+2021-01-12,Bill,8383,thru 2/5/2021,Yes,Chicago Tribune,222,acct: 30043892,2000 Accounts Payable,217,4807 Miscellaneous:Dues/Subscriptions
+2021-01-12,Journal Entry,10574,MD 210112,Yes,NA,NA,General Journal,NA,NA,-Split-
+2021-01-13,Bill Payment (Check),2761,3892,Yes,A SmartSign Store,567,NA,1101.10 Cash:Saints JFX Oper. Acct. #2264:Checking Available,691,2000 Accounts Payable
+2021-01-13,Bill Payment (Check),2762,3893,Yes,Accurate Biometrics,24,NA,1101.10 Cash:Saints JFX Oper. Acct. #2264:Checking Available,691,2000 Accounts Payable
+2021-01-13,Bill Payment (Check),2763,3894,Yes,Advanced Disposal SFX CH,59,NA,1101.10 Cash:Saints JFX Oper. Acct. #2264:Checking Available,691,2000 Accounts Payable
+2021-01-13,Bill Payment (Check),2764,3895,Yes,Advanced Disposal SFX Sch,60,NA,1101.10 Cash:Saints JFX Oper. Acct. #2264:Checking Available,691,2000 Accounts Payable
+2021-01-13,Bill Payment (Check),2765,3896,Yes,Advanced Disposal SJ CH,108,NA,1101.10 Cash:Saints JFX Oper. Acct. #2264:Checking Available,691,2000 Accounts Payable
+2021-01-13,Bill Payment (Check),2766,3897,Yes,Americhoice Radon Testing,869,NA,1101.10 Cash:Saints JFX Oper. Acct. #2264:Checking Available,691,2000 Accounts Payable
+2021-01-13,Bill Payment (Check),2767,3898,Yes,Anderson Lock,185,NA,1101.10 Cash:Saints JFX Oper. Acct. #2264:Checking Available,691,2000 Accounts Payable
+2021-01-13,Bill Payment (Check),2768,3899,Yes,Apple Inc.,846,NA,1101.10 Cash:Saints JFX Oper. Acct. #2264:Checking Available,691,2000 Accounts Payable
+2021-01-13,Bill Payment (Check),2769,3900,Yes,AT&T Messaging SFX CH,71,NA,1101.10 Cash:Saints JFX Oper. Acct. #2264:Checking Available,691,2000 Accounts Payable
+2021-01-13,Bill Payment (Check),2770,3901,Yes,AT&T SFX ALL 5570 631,169,NA,1101.10 Cash:Saints JFX Oper. Acct. #2264:Checking Available,691,2000 Accounts Payable
+2021-01-13,Bill Payment (Check),2771,3902,Yes,AT&T SJC 395,25,NA,1101.10 Cash:Saints JFX Oper. Acct. #2264:Checking Available,691,2000 Accounts Payable
+2021-01-13,Bill Payment (Check),2772,3903,Yes,AT&T SJC YFF 2253,448,NA,1101.10 Cash:Saints JFX Oper. Acct. #2264:Checking Available,691,2000 Accounts Payable
+2021-01-13,Bill Payment (Check),2773,3904,Yes,AT&T SJS,235,NA,1101.10 Cash:Saints JFX Oper. Acct. #2264:Checking Available,691,2000 Accounts Payable
+2021-01-13,Bill Payment (Check),2774,3905,Yes,Bank of America SFX 5830,296,NA,1101.10 Cash:Saints JFX Oper. Acct. #2264:Checking Available,691,2000 Accounts Payable
+2021-01-13,Bill Payment (Check),2775,3906,Yes,Bonnie Mootry,871,NA,1101.10 Cash:Saints JFX Oper. Acct. #2264:Checking Available,691,2000 Accounts Payable
+2021-01-13,Bill Payment (Check),2776,3907,Yes,Canon,258,NA,1101.10 Cash:Saints JFX Oper. Acct. #2264:Checking Available,691,2000 Accounts Payable
+2021-01-13,Bill Payment (Check),2777,3908,Yes,Canon Maintanence,563,NA,1101.10 Cash:Saints JFX Oper. Acct. #2264:Checking Available,691,2000 Accounts Payable
+2021-01-13,Bill Payment (Check),2778,3909,Yes,Canon SFX,524,contract 0010491764245,1101.10 Cash:Saints JFX Oper. Acct. #2264:Checking Available,691,2000 Accounts Payable
+2021-01-13,Bill Payment (Check),2779,3910,Yes,Catholic Bishop of Chicago (BillingSFXS),548,NA,1101.10 Cash:Saints JFX Oper. Acct. #2264:Checking Available,691,2000 Accounts Payable
+2021-01-13,Bill Payment (Check),2780,3911,Yes,Catholic Bishop of Chicago (BillingSSJFX),359,NA,1101.10 Cash:Saints JFX Oper. Acct. #2264:Checking Available,691,2000 Accounts Payable
+2021-01-13,Bill Payment (Check),2781,3912,Yes,Chicago Tribune,222,acct: 30043892,1101.10 Cash:Saints JFX Oper. Acct. #2264:Checking Available,691,2000 Accounts Payable
+2021-01-13,Bill Payment (Check),2782,3913,Yes,Comcast Business (Internet) SJS 5239,851,NA,1101.10 Cash:Saints JFX Oper. Acct. #2264:Checking Available,691,2000 Accounts Payable
+2021-01-13,Bill Payment (Check),2783,3914,Yes,Comcast SFX Rectory 2307,170,NA,1101.10 Cash:Saints JFX Oper. Acct. #2264:Checking Available,691,2000 Accounts Payable
+2021-01-13,Bill Payment (Check),2784,3915,Yes,Comcast Business (TV) SFXS 1576,57,NA,1101.10 Cash:Saints JFX Oper. Acct. #2264:Checking Available,691,2000 Accounts Payable
+2021-01-13,Bill Payment (Check),2785,3916,Yes,Daniel Mayall,85,NA,1101.10 Cash:Saints JFX Oper. Acct. #2264:Checking Available,691,2000 Accounts Payable
+2021-01-13,Bill Payment (Check),2786,3917,Yes,Edward Harnett,121,NA,1101.10 Cash:Saints JFX Oper. Acct. #2264:Checking Available,691,2000 Accounts Payable
+2021-01-13,Bill Payment (Check),2787,3918,Yes,Eileen and Kevin O'Hara,874,NA,1101.10 Cash:Saints JFX Oper. Acct. #2264:Checking Available,691,2000 Accounts Payable
+2021-01-13,Bill Payment (Check),2788,3919,Yes,Elk Grove Graphics,485,NA,1101.10 Cash:Saints JFX Oper. Acct. #2264:Checking Available,691,2000 Accounts Payable
+2021-01-13,Bill Payment (Check),2789,3920,Yes,Engie Resources Convent SJ,112,NA,1101.10 Cash:Saints JFX Oper. Acct. #2264:Checking Available,691,2000 Accounts Payable
+2021-01-13,Bill Payment (Check),2790,3921,Yes,Engie Resources SJ Campus,111,NA,1101.10 Cash:Saints JFX Oper. Acct. #2264:Checking Available,691,2000 Accounts Payable
+2021-01-13,Bill Payment (Check),2791,3922,Yes,Engie SFX,253,NA,1101.10 Cash:Saints JFX Oper. Acct. #2264:Checking Available,691,2000 Accounts Payable
+2021-01-13,Bill Payment (Check),2792,3923,Yes,GO Technology Group Inc.,64,NA,1101.10 Cash:Saints JFX Oper. Acct. #2264:Checking Available,691,2000 Accounts Payable
+2021-01-13,Bill Payment (Check),2793,3924,Yes,Janina Jakucewicz,138,NA,1101.10 Cash:Saints JFX Oper. Acct. #2264:Checking Available,691,2000 Accounts Payable
+2021-01-13,Bill Payment (Check),2794,3925,Yes,"Kranz, Inc",415,NA,1101.10 Cash:Saints JFX Oper. Acct. #2264:Checking Available,691,2000 Accounts Payable
+2021-01-13,Bill Payment (Check),2795,3926,Yes,Lapels of WIlmette SFX Rectory Cleaning,58,NA,1101.10 Cash:Saints JFX Oper. Acct. #2264:Checking Available,691,2000 Accounts Payable
+2021-01-13,Bill Payment (Check),2796,3927,Yes,Lapels of Wilmette SJC,426,NA,1101.10 Cash:Saints JFX Oper. Acct. #2264:Checking Available,691,2000 Accounts Payable
+2021-01-13,Bill Payment (Check),2797,3928,Yes,Learning Without Tears,404,NA,1101.10 Cash:Saints JFX Oper. Acct. #2264:Checking Available,691,2000 Accounts Payable
+2021-01-13,Bill Payment (Check),2798,3929,Yes,Metropolitan Water Reclamation District,518,NA,1101.10 Cash:Saints JFX Oper. Acct. #2264:Checking Available,691,2000 Accounts Payable
+2021-01-13,Bill Payment (Check),2799,3930,Yes,Monk's WIne and Candles SSJFX,65,NA,1101.10 Cash:Saints JFX Oper. Acct. #2264:Checking Available,691,2000 Accounts Payable
+2021-01-13,Bill Payment (Check),2800,3931,Yes,Morning Glory Flower Shop,55,NA,1101.10 Cash:Saints JFX Oper. Acct. #2264:Checking Available,691,2000 Accounts Payable
+2021-01-13,Bill Payment (Check),2801,3932,Yes,Nicor SJ Convent,12,NA,1101.10 Cash:Saints JFX Oper. Acct. #2264:Checking Available,691,2000 Accounts Payable
+2021-01-13,Bill Payment (Check),2802,3933,Yes,Pitney Bowes Purchase Power SFXCH 6704,806,NA,1101.10 Cash:Saints JFX Oper. Acct. #2264:Checking Available,691,2000 Accounts Payable
+2021-01-13,Bill Payment (Check),2803,3934,Yes,Ron's Artic Snowplowing,304,NA,1101.10 Cash:Saints JFX Oper. Acct. #2264:Checking Available,691,2000 Accounts Payable
+2021-01-13,Bill Payment (Check),2804,3935,Yes,St. Joan of Arc,870,NA,1101.10 Cash:Saints JFX Oper. Acct. #2264:Checking Available,691,2000 Accounts Payable
+2021-01-13,Bill Payment (Check),2805,3936,Yes,Staples SJ,92,NA,1101.10 Cash:Saints JFX Oper. Acct. #2264:Checking Available,691,2000 Accounts Payable
+2021-01-13,Bill Payment (Check),2806,3937,Yes,TelAssist,137,NA,1101.10 Cash:Saints JFX Oper. Acct. #2264:Checking Available,691,2000 Accounts Payable
+2021-01-13,Bill Payment (Check),2807,3938,Yes,The New York Times,140,NA,1101.10 Cash:Saints JFX Oper. Acct. #2264:Checking Available,691,2000 Accounts Payable
+2021-01-13,Bill Payment (Check),2808,3939,Yes,Verizon Wireless,118,NA,1101.10 Cash:Saints JFX Oper. Acct. #2264:Checking Available,691,2000 Accounts Payable
+2021-01-13,Bill Payment (Check),2809,3940,Yes,Village of Wilmette SJ Annex 330900,830,NA,1101.10 Cash:Saints JFX Oper. Acct. #2264:Checking Available,691,2000 Accounts Payable
+2021-01-13,Bill Payment (Check),2810,3941,Yes,Watra Church Goods,350,NA,1101.10 Cash:Saints JFX Oper. Acct. #2264:Checking Available,691,2000 Accounts Payable
+2021-01-13,Bill Payment (Check),2811,3942,Yes,Wayne Watts,241,NA,1101.10 Cash:Saints JFX Oper. Acct. #2264:Checking Available,691,2000 Accounts Payable
+2021-01-13,Bill Payment (Check),2812,3943,Yes,Wilshore Electric LLC,872,NA,1101.10 Cash:Saints JFX Oper. Acct. #2264:Checking Available,691,2000 Accounts Payable
+2021-01-13,Bill Payment (Check),2813,3944,Yes,James Bui,873,NA,1101.10 Cash:Saints JFX Oper. Acct. #2264:Checking Available,691,2000 Accounts Payable
+2021-01-13,Bill Payment (Check),2814,3945,Yes,John Hopkins,101,NA,1101.10 Cash:Saints JFX Oper. Acct. #2264:Checking Available,691,2000 Accounts Payable
+2021-01-13,Bill Payment (Check),2815,3946,Yes,Joseph D'Arco,45,NA,1101.10 Cash:Saints JFX Oper. Acct. #2264:Checking Available,691,2000 Accounts Payable
+2021-01-13,Bill Payment (Check),2816,3947,Yes,Merbeth Metal Products Inc,866,NA,1101.10 Cash:Saints JFX Oper. Acct. #2264:Checking Available,691,2000 Accounts Payable
+2021-01-13,Bill Payment (Check),2817,3948,Yes,Mike Henn,79,NA,1101.10 Cash:Saints JFX Oper. Acct. #2264:Checking Available,691,2000 Accounts Payable
+2021-01-13,Bill Payment (Check),2818,3949,Yes,Precision,93,NA,1101.10 Cash:Saints JFX Oper. Acct. #2264:Checking Available,691,2000 Accounts Payable
+2021-01-13,Bill Payment (Check),2819,3951,Yes,Mike Henn,79,NA,101.29A Cash:Saints JFX Oper. Acct. #2264:Checking Restricted:Haiti:Haiti General Fund,697,2000 Accounts Payable
+2021-01-13,Bill Payment (Check),2820,3950,Yes,To Teach Who Christ Is,559,NA,101.25G Cash:Saints JFX Oper. Acct. #2264:Checking Restricted:Church Restricted:TTWCI,665,2000 Accounts Payable
+2021-01-13,Bill,8398,7572301,Yes,AT&T Messaging SFX CH,71,NA,2000 Accounts Payable,217,4400 Telephone
+2021-01-13,Bill,8399,MJ12010330,Yes,Lapels of WIlmette SFX Rectory Cleaning,58,NA,2000 Accounts Payable,217,4155 Administrative Expenses:Professional Service Fees
+2021-01-13,Bill,8400,271821,Yes,Morning Glory Flower Shop,55,NA,2000 Accounts Payable,217,4659 Altar & Liturgical Supplies:Flowers
+2021-01-13,Bill,8401,T40002530908,Yes,Advanced Disposal SFX CH,59,NA,2000 Accounts Payable,217,4432 Other Utilities:Scavenger Service
+2021-01-13,Bill,8402,9511,Yes,Wilshore Electric LLC,872,NA,2000 Accounts Payable,217,4455 Maintenance & Building Repairs:Repairs to Buildings
+2021-01-13,Bill,8403,RR supplies,Yes,Janina Jakucewicz,138,NA,2000 Accounts Payable,217,4459 Maintenance & Building Repairs:Janitorial Supplies
+2021-01-13,Bill,8404,3784858,Yes,Engie SFX,253,NA,2000 Accounts Payable,217,-Split-
+2021-01-15,Deposit,4169,NA,Yes,NA,NA,Smart210115 SFXS,1101.10 Cash:Saints JFX Oper. Acct. #2264:Checking Available,691,-Split-
+2021-01-15,Deposit,4174,NA,Yes,NA,NA,Smart 210115 SJS,1101.10 Cash:Saints JFX Oper. Acct. #2264:Checking Available,691,-Split-
+2021-01-15,Check,8979,NA,Yes,NA,NA,Service Charge,1107.01 Cash:Old St. Francis Xavier Accounts:St. Francis Xavier Ckg #0396,332,4158 Administrative Expenses:Bank Fees
+2021-01-17,Journal Entry,10575,SUN 210117,Yes,NA,NA,General Journal,NA,NA,-Split-
+2021-01-18,Journal Entry,10576,MD 210118,Yes,NA,NA,General Journal,NA,NA,-Split-
+2021-01-19,Deposit,4445,NA,Yes,NA,NA,UW Metro,1101.10 Cash:Saints JFX Oper. Acct. #2264:Checking Available,691,3014 Sunday and Holy Day Collections:Sunday Collection:Sunday Collections E-Giving
+2021-01-19,Transfer,4505,NA,Yes,NA,NA,transfer debit,1101 Cash:Saints JFX Oper. Acct. #2264,565,1132.02 Cash:Auxiliary Accounts:St Joseph Auxiliary Accounts:St Joseph Men's Club #9953
+2021-01-19,Check,8977,ACH,Yes,Analysis activity,824,NA,1101.10 Cash:Saints JFX Oper. Acct. #2264:Checking Available,691,4158 Administrative Expenses:Bank Fees
+2021-01-20,Deposit,4170,NA,Yes,NA,NA,Smart210120 SFXS,1101.10 Cash:Saints JFX Oper. Acct. #2264:Checking Available,691,-Split-
+2021-01-20,Deposit,4175,NA,Yes,NA,NA,Smart 210120 SJS,1101.10 Cash:Saints JFX Oper. Acct. #2264:Checking Available,691,-Split-
+2021-01-21,Deposit,4165,NA,Yes,NA,NA,Deposit,1240.03 Oper. Savings at the Arch Bank:Stock Savings Account:StJoseph Stk/Mut Fnd #402440250,609,3706 Miscellaneous Income:Donations
+2021-01-21,Deposit,4166,NA,Yes,NA,NA,Deposit,1240.02 Oper. Savings at the Arch Bank:Stock Savings Account:SFX Stock/Mut Fund #701430250,651,-Split-
+2021-01-22,Bill Payment (Check),2699,3952,Yes,Jennifer Henik,876,Fed8.31/Med3.39/SS14.51/IL11.58/Gross234.00,1101.10 Cash:Saints JFX Oper. Acct. #2264:Checking Available,691,2000 Accounts Payable
+2021-01-22,Deposit,4163,NA,Yes,NA,NA,MOC 210122,1101.10 Cash:Saints JFX Oper. Acct. #2264:Checking Available,691,3720 Miscellaneous Income:Other Miscellaneous Income
+2021-01-22,Transfer,4502,NA,Yes,NA,NA,transfer from school acct to church acct,1240.04 Oper. Savings at the Arch Bank:Stock Savings Account:StJoseph Stk/Mut Fnd #702440250,601,1240.02 Oper. Savings at the Arch Bank:Stock Savings Account:SFX Stock/Mut Fund #701430250
+2021-01-22,Transfer,4503,NA,Yes,NA,NA,transfer capital restricted funds to building account,1240.02 Oper. Savings at the Arch Bank:Stock Savings Account:SFX Stock/Mut Fund #701430250,651,1301.01 Long-Term/Restricted Savings:Building Fund Savings:SFX Bldg Fund #701430204
+2021-01-22,Bill,8405,1/8/2021 retro pay,Yes,Jennifer Henik,876,Fed8.31/Med3.39/SS14.51/IL11.58/Gross234.00,2000 Accounts Payable,217,4015 Salaries:Admin Support Staff - Church
+2021-01-22,Journal Entry,10564,PP01222021,Yes,NA,NA,General Journal,NA,NA,-Split-
+2021-01-22,Journal Entry,10567,PP01222021,Yes,NA,NA,General Journal,NA,NA,-Split-
+2021-01-22,Journal Entry,10577,MD 210122,Yes,NA,NA,General Journal,NA,NA,-Split-
+2021-01-24,Journal Entry,10578,SUN 210124,Yes,NA,NA,General Journal,NA,NA,-Split-
+2021-01-25,Deposit,4171,NA,Yes,NA,NA,Smart210125 SFXS,1101.10 Cash:Saints JFX Oper. Acct. #2264:Checking Available,691,-Split-
+2021-01-25,Deposit,4172,NA,Yes,NA,NA,Deposit,1101.10 Cash:Saints JFX Oper. Acct. #2264:Checking Available,691,3101 Tuition:Tuition - Current
+2021-01-25,Deposit,4176,NA,Yes,NA,NA,Smart 210125 SJS,1101.10 Cash:Saints JFX Oper. Acct. #2264:Checking Available,691,-Split-
+2021-01-25,Bill,8406,428624,Yes,Church Budget,28,NA,2000 Accounts Payable,217,4152 Administrative Expenses:Outside Printing Cost
+2021-01-25,Bill,8407,IN00409279,Yes,Fox Valley Fire and Safety,269,NA,2000 Accounts Payable,217,4456 Maintenance & Building Repairs:Equipment Services
+2021-01-25,Bill,8408,church doors,Yes,"Virgil James, Inc",320,NA,2000 Accounts Payable,217,6113.02 Capital Improvements:SFX Campus Cap Improvement:SFX Church Improvements
+2021-01-25,Bill,8409,3702,Yes,Sparks Interior LTD,877,NA,2000 Accounts Payable,217,4701 Furnishings & Equipment:Admin Furnishings/Equip
+2021-01-25,Bill,8410,41,Yes,Ron's Artic Snowplowing,304,NA,2000 Accounts Payable,217,-Split-
+2021-01-25,Bill,8411,2021-STFX-5,Yes,"Fun Fluency, Inc",509,NA,2000 Accounts Payable,217,-Split-
+2021-01-25,Bill,8412,1056874,Yes,Anderson Lock,185,NA,2000 Accounts Payable,217,4451 Maintenance & Building Repairs:Security
+2021-01-25,Bill,8413,SW20926,Yes,Martin Peterson Company Inc.,353,NA,2000 Accounts Payable,217,4455 Maintenance & Building Repairs:Repairs to Buildings
+2021-01-25,Bill,8414,SW20927,Yes,Martin Peterson Company Inc.,353,NA,2000 Accounts Payable,217,4455 Maintenance & Building Repairs:Repairs to Buildings
+2021-01-25,Bill,8415,Jan statement,Yes,Albertsons/Safeway,156,NA,2000 Accounts Payable,217,4252 Food Service & Meals:Food/Groceries
+2021-01-25,Bill,8416,5350499507,Yes,AT&T SJS,235,NA,2000 Accounts Payable,217,4400 Telephone
+2021-01-25,Bill,8417,5338499503,Yes,AT&T SJC 395,25,NA,2000 Accounts Payable,217,4400 Telephone
+2021-01-25,Bill,8418,10573050-00,Yes,"Active Electrical Supply Co., Inc",107,NA,2000 Accounts Payable,217,4459 Maintenance & Building Repairs:Janitorial Supplies
+2021-01-25,Bill,8419,68636,Yes,Crescent Cleaning Company,820,NA,2000 Accounts Payable,217,-Split-
+2021-01-25,Bill,8420,68122,Yes,Crescent Cleaning Company,820,NA,2000 Accounts Payable,217,-Split-
+2021-01-25,Bill,8421,RR stamps,Yes,Anne Hrabe,878,NA,2000 Accounts Payable,217,4153 Administrative Expenses:Postage/Courier Services
+2021-01-25,Bill,8422,IB00181483,Yes,The Catholic Bishop of Chicago,230,NA,2000 Accounts Payable,217,4030 Health Insurance-Employer Paid
+2021-01-25,Bill,8423,RI104746791,Yes,FP Mailing Solutions,114,NA,2000 Accounts Payable,217,4701 Furnishings & Equipment:Admin Furnishings/Equip
+2021-01-25,Bill,8424,13679,Yes,Berghaus,270,NA,2000 Accounts Payable,217,4456 Maintenance & Building Repairs:Equipment Services
+2021-01-25,Bill,8425,3798378,Yes,Engie SFX,253,NA,2000 Accounts Payable,217,-Split-
+2021-01-25,Bill,8426,94146049/94166105,Yes,OCP,475,NA,2000 Accounts Payable,217,4656 Altar & Liturgical Supplies:Music Books
+2021-01-25,Bill,8427,bal due,Yes,Gospel Weeklies,237,NA,2000 Accounts Payable,217,"4106 Books & Supplies,Non-Liturgical:Workbooks"
+2021-01-25,Bill,8428,Helen PreJean talk,Yes,Ministry Against the Death Penalty,817,NA,2000 Accounts Payable,217,4802 Miscellaneous:Meetings & Speakers
+2021-01-25,Bill,8429,RR Mixer for loft,Yes,Jonathan Metzinger,438,NA,2000 Accounts Payable,217,4701 Furnishings & Equipment:Admin Furnishings/Equip
+2021-01-25,Bill,8430,7016248,Yes,Loyola Press YFF,833,NA,2000 Accounts Payable,217,"4105 Books & Supplies,Non-Liturgical:Textbooks"
+2021-01-25,Bill,8431,19-642-471,Yes,TelAssist,137,NA,2000 Accounts Payable,217,4434 Other Utilities:Internet/Computer Telecom Costs
+2021-01-25,Bill,8432,Donation,Yes,Catholic Extension,879,NA,2000 Accounts Payable,217,4806 Miscellaneous:Gifts & Donations
+2021-01-25,Bill,8433,9871519103,Yes,Verizon Wireless,118,NA,2000 Accounts Payable,217,-Split-
+2021-01-27,Bill Payment (Check),2700,3953,Yes,"Active Electrical Supply Co., Inc",107,NA,1101.10 Cash:Saints JFX Oper. Acct. #2264:Checking Available,691,2000 Accounts Payable
+2021-01-27,Bill Payment (Check),2701,3954,Yes,Albertsons/Safeway,156,NA,1101.10 Cash:Saints JFX Oper. Acct. #2264:Checking Available,691,2000 Accounts Payable
+2021-01-27,Bill Payment (Check),2702,3955,Yes,Anderson Lock,185,NA,1101.10 Cash:Saints JFX Oper. Acct. #2264:Checking Available,691,2000 Accounts Payable
+2021-01-27,Bill Payment (Check),2703,3956,Yes,Anderson Pest Solutions SFX,66,NA,1101.10 Cash:Saints JFX Oper. Acct. #2264:Checking Available,691,2000 Accounts Payable
+2021-01-27,Bill Payment (Check),2704,3957,Yes,Anne Hrabe,878,NA,1101.10 Cash:Saints JFX Oper. Acct. #2264:Checking Available,691,2000 Accounts Payable
+2021-01-27,Bill Payment (Check),2705,3958,Yes,AT&T SFX ALL 5570 631,169,NA,1101.10 Cash:Saints JFX Oper. Acct. #2264:Checking Available,691,2000 Accounts Payable
+2021-01-27,Bill Payment (Check),2706,3959,Yes,AT&T SJC 395,25,NA,1101.10 Cash:Saints JFX Oper. Acct. #2264:Checking Available,691,2000 Accounts Payable
+2021-01-27,Bill Payment (Check),2707,3960,Yes,AT&T SJS,235,NA,1101.10 Cash:Saints JFX Oper. Acct. #2264:Checking Available,691,2000 Accounts Payable
+2021-01-27,Bill Payment (Check),2708,3961,Yes,Bank of America 4433,26,NA,1101.10 Cash:Saints JFX Oper. Acct. #2264:Checking Available,691,2000 Accounts Payable
+2021-01-27,Bill Payment (Check),2709,3962,Yes,Bank of America SFX 5830,296,NA,1101.10 Cash:Saints JFX Oper. Acct. #2264:Checking Available,691,2000 Accounts Payable
+2021-01-27,Bill Payment (Check),2710,3963,Yes,Berghaus,270,NA,1101.10 Cash:Saints JFX Oper. Acct. #2264:Checking Available,691,2000 Accounts Payable
+2021-01-27,Bill Payment (Check),2711,3964,Yes,Catholic Bishop of Chicago (BillingSJS),547,NA,1101.10 Cash:Saints JFX Oper. Acct. #2264:Checking Available,691,2000 Accounts Payable
+2021-01-27,Bill Payment (Check),2712,3965,Yes,Catholic Extension,879,NA,1101.10 Cash:Saints JFX Oper. Acct. #2264:Checking Available,691,2000 Accounts Payable
+2021-01-27,Bill Payment (Check),2713,3966,Yes,Church Budget,28,NA,1101.10 Cash:Saints JFX Oper. Acct. #2264:Checking Available,691,2000 Accounts Payable
+2021-01-27,Bill Payment (Check),2714,3967,Yes,Claire Labuda,537,NA,1101.10 Cash:Saints JFX Oper. Acct. #2264:Checking Available,691,2000 Accounts Payable
+2021-01-27,Bill Payment (Check),2715,3968,Yes,Comcast Business (Internet) SFXS 5692,850,NA,1101.10 Cash:Saints JFX Oper. Acct. #2264:Checking Available,691,2000 Accounts Payable
+2021-01-27,Bill Payment (Check),2716,3969,Yes,Comcast SFX Office 2331,142,NA,1101.10 Cash:Saints JFX Oper. Acct. #2264:Checking Available,691,2000 Accounts Payable
+2021-01-27,Bill Payment (Check),2717,3970,Yes,Crescent Cleaning Company,820,NA,1101.10 Cash:Saints JFX Oper. Acct. #2264:Checking Available,691,2000 Accounts Payable
+2021-01-27,Bill Payment (Check),2718,3971,Yes,Eileen Kirk,711,NA,1101.10 Cash:Saints JFX Oper. Acct. #2264:Checking Available,691,2000 Accounts Payable
+2021-01-27,Bill Payment (Check),2719,3972,Yes,Engie SFX,253,NA,1101.10 Cash:Saints JFX Oper. Acct. #2264:Checking Available,691,2000 Accounts Payable
+2021-01-27,Bill Payment (Check),2720,3973,Yes,Fox Valley Fire and Safety,269,NA,1101.10 Cash:Saints JFX Oper. Acct. #2264:Checking Available,691,2000 Accounts Payable
+2021-01-27,Bill Payment (Check),2721,3974,Yes,FP Mailing Solutions,114,NA,1101.10 Cash:Saints JFX Oper. Acct. #2264:Checking Available,691,2000 Accounts Payable
+2021-01-27,Bill Payment (Check),2722,3975,Yes,"Fun Fluency, Inc",509,NA,1101.10 Cash:Saints JFX Oper. Acct. #2264:Checking Available,691,2000 Accounts Payable
+2021-01-27,Bill Payment (Check),2723,3976,Yes,Gospel Weeklies,237,NA,1101.10 Cash:Saints JFX Oper. Acct. #2264:Checking Available,691,2000 Accounts Payable
+2021-01-27,Bill Payment (Check),2724,3977,Yes,Houghton Mifflin Harcourt,189,NA,1101.10 Cash:Saints JFX Oper. Acct. #2264:Checking Available,691,2000 Accounts Payable
+2021-01-27,Bill Payment (Check),2725,3978,Yes,Impressions In Stone,236,NA,1101.10 Cash:Saints JFX Oper. Acct. #2264:Checking Available,691,2000 Accounts Payable
+2021-01-27,Bill Payment (Check),2726,3979,Yes,Jonathan Metzinger,438,NA,1101.10 Cash:Saints JFX Oper. Acct. #2264:Checking Available,691,2000 Accounts Payable
+2021-01-27,Bill Payment (Check),2727,3980,Yes,Kit Kalpin,881,NA,1101.10 Cash:Saints JFX Oper. Acct. #2264:Checking Available,691,2000 Accounts Payable
+2021-01-27,Bill Payment (Check),2728,3981,Yes,Loyola Press YFF,833,NA,1101.10 Cash:Saints JFX Oper. Acct. #2264:Checking Available,691,2000 Accounts Payable
+2021-01-27,Bill Payment (Check),2821,3982,Yes,Martin Peterson Company Inc.,353,NA,1101.10 Cash:Saints JFX Oper. Acct. #2264:Checking Available,691,2000 Accounts Payable
+2021-01-27,Bill Payment (Check),2822,3983,Yes,Millen Hardware,155,NA,1101.10 Cash:Saints JFX Oper. Acct. #2264:Checking Available,691,2000 Accounts Payable
+2021-01-27,Bill Payment (Check),2823,3984,Yes,Ministry Against the Death Penalty,817,NA,1101.10 Cash:Saints JFX Oper. Acct. #2264:Checking Available,691,2000 Accounts Payable
+2021-01-27,Bill Payment (Check),2824,3985,Yes,OCP,475,NA,1101.10 Cash:Saints JFX Oper. Acct. #2264:Checking Available,691,2000 Accounts Payable
+2021-01-27,Bill Payment (Check),2825,3986,Yes,Pamela Elliot,880,NA,1101.10 Cash:Saints JFX Oper. Acct. #2264:Checking Available,691,2000 Accounts Payable
+2021-01-27,Bill Payment (Check),2826,3987,Yes,Ron's Artic Snowplowing,304,NA,1101.10 Cash:Saints JFX Oper. Acct. #2264:Checking Available,691,2000 Accounts Payable
+2021-01-27,Bill Payment (Check),2827,3988,Yes,"Savvas Learning Company, LLC",832,NA,1101.10 Cash:Saints JFX Oper. Acct. #2264:Checking Available,691,2000 Accounts Payable
+2021-01-27,Bill Payment (Check),2828,3989,Yes,"Schaefer's Wines, Foods & Spirits",56,NA,1101.10 Cash:Saints JFX Oper. Acct. #2264:Checking Available,691,2000 Accounts Payable
+2021-01-27,Bill Payment (Check),2829,3990,Yes,Sparks Interior LTD,877,NA,1101.10 Cash:Saints JFX Oper. Acct. #2264:Checking Available,691,2000 Accounts Payable
+2021-01-27,Bill Payment (Check),2830,3991,Yes,TelAssist,137,NA,1101.10 Cash:Saints JFX Oper. Acct. #2264:Checking Available,691,2000 Accounts Payable
+2021-01-27,Bill Payment (Check),2831,3992,Yes,The Catholic Bishop of Chicago,230,NA,1101.10 Cash:Saints JFX Oper. Acct. #2264:Checking Available,691,2000 Accounts Payable
+2021-01-27,Bill Payment (Check),2832,3993,Yes,The New York Times,140,NA,1101.10 Cash:Saints JFX Oper. Acct. #2264:Checking Available,691,2000 Accounts Payable
+2021-01-27,Bill Payment (Check),2833,3994,Yes,Verizon Wireless,118,NA,1101.10 Cash:Saints JFX Oper. Acct. #2264:Checking Available,691,2000 Accounts Payable
+2021-01-27,Bill Payment (Check),2834,3995,Yes,Pitney Bowes SFXS 0015503825,488,NA,1101.10 Cash:Saints JFX Oper. Acct. #2264:Checking Available,691,2000 Accounts Payable
+2021-01-27,Bill Payment (Check),2835,3996,Yes,"Virgil James, Inc",320,NA,1101.22 Cash:Saints JFX Oper. Acct. #2264:Checking Restricted:Building Restricted,587,2000 Accounts Payable
+2021-01-27,Deposit,4440,NA,Yes,NA,NA,Deposit,1101.10 Cash:Saints JFX Oper. Acct. #2264:Checking Available,691,3703 Miscellaneous Income:Votive and Vigil Candles
+2021-01-27,Bill,8434,5345499504,Yes,AT&T SFX ALL 5570 631,169,NA,2000 Accounts Payable,217,-Split-
+2021-01-27,Bill,8435,Jan 20 - Feb 19,Yes,Comcast SFX Office 2331,142,NA,2000 Accounts Payable,217,4434 Other Utilities:Internet/Computer Telecom Costs
+2021-01-27,Bill,8436,2042347,Yes,"Schaefer's Wines, Foods & Spirits",56,NA,2000 Accounts Payable,217,4252 Food Service & Meals:Food/Groceries
+2021-01-27,Bill,8437,1/17 - 2/13,Yes,The New York Times,140,NA,2000 Accounts Payable,217,4807 Miscellaneous:Dues/Subscriptions
+2021-01-27,Bill,8438,RR Covid test,Yes,Pamela Elliot,880,NA,2000 Accounts Payable,217,6063 Other Extraordinary Expenses:Other Extraordinary Expenses
+2021-01-27,Bill,8439,RR camera/elearning,Yes,Kit Kalpin,881,NA,2000 Accounts Payable,217,4702 Furnishings & Equipment:Instructional Furnishings/Equip
+2021-01-27,Bill,8440,11321,Yes,Impressions In Stone,236,NA,2000 Accounts Payable,217,4453 Maintenance & Building Repairs:Ground Supplies
+2021-01-27,Bill,8441,4026270889,Yes,"Savvas Learning Company, LLC",832,NA,2000 Accounts Payable,217,"4109 Books & Supplies,Non-Liturgical:Instructional Materials"
+2021-01-27,Bill,8442,7027402199,Yes,"Savvas Learning Company, LLC",832,NA,2000 Accounts Payable,217,4807 Miscellaneous:Dues/Subscriptions
+2021-01-27,Bill,8443,7186942,Yes,Anderson Pest Solutions SFX,66,NA,2000 Accounts Payable,217,4155 Administrative Expenses:Professional Service Fees
+2021-01-27,Bill,8444,113790791,Yes,Comcast Business (Internet) SFXS 5692,850,NA,2000 Accounts Payable,217,4434 Other Utilities:Internet/Computer Telecom Costs
+2021-01-27,Bill,8445,RR PD,Yes,Eileen Kirk,711,NA,2000 Accounts Payable,217,4061 Prof. Growth/Minist./Other:Professional Growth
+2021-01-27,Bill,8446,955074345,Yes,Houghton Mifflin Harcourt,189,NA,2000 Accounts Payable,217,"4109 Books & Supplies,Non-Liturgical:Instructional Materials"
+2021-01-27,Bill,8447,Irish Dance stipend,Yes,Claire Labuda,537,NA,2000 Accounts Payable,217,4514 Salaries:Special Program Teachers
+2021-01-27,Bill,8448,141569/86,Yes,Millen Hardware,155,NA,2000 Accounts Payable,217,4459 Maintenance & Building Repairs:Janitorial Supplies
+2021-01-27,Bill,8449,Dec - Jan statement,Yes,Bank of America 4433,26,NA,2000 Accounts Payable,217,2010.01 Procurement Card Payable:SSJFX
+2021-01-27,Bill,8450,Dec - Jan Statement,Yes,Bank of America SFX 5830,296,NA,2000 Accounts Payable,217,2010.03 Procurement Card Payable:SFXS
+2021-01-27,Bill,8451,3104503233,Yes,Pitney Bowes SFXS 0015503825,488,NA,2000 Accounts Payable,217,4701 Furnishings & Equipment:Admin Furnishings/Equip
+2021-01-28,Bill,8565,AF00033555,Yes,Catholic Bishop of Chicago (BillingSSJFX),359,NA,2000 Accounts Payable,217,4063 Prof. Growth/Minist./Other:Unemployment Compensation
+2021-01-28,Bill,8581,AF00033510,Yes,Catholic Bishop of Chicago (BillingSJS),547,NA,2000 Accounts Payable,217,4063 Prof. Growth/Minist./Other:Unemployment Compensation
+2021-01-29,Bill Payment (Check),2836,3997,Yes,AT&T SJC YFF 2253,448,NA,1101.10 Cash:Saints JFX Oper. Acct. #2264:Checking Available,691,2000 Accounts Payable
+2021-01-29,Deposit,4177,NA,Yes,NA,NA,Smart 210129 SFXS,1101.10 Cash:Saints JFX Oper. Acct. #2264:Checking Available,691,-Split-
+2021-01-29,Deposit,4178,NA,Yes,NA,NA,Smart 210129 SJS,1101.10 Cash:Saints JFX Oper. Acct. #2264:Checking Available,691,-Split-
+2021-01-29,Transfer,4504,NA,Yes,NA,NA,transfer of funds to restricted account,1240.02 Oper. Savings at the Arch Bank:Stock Savings Account:SFX Stock/Mut Fund #701430250,651,101.25E Cash:Saints JFX Oper. Acct. #2264:Checking Restricted:Church Restricted:SVDP
+2021-01-29,Bill,7136,Dec - Jan statement,Yes,AT&T SJC YFF 2253,448,NA,2000 Accounts Payable,217,4400 Telephone
+2021-01-29,Bill,8555,AF00033699,Yes,Catholic Bishop of Chicago (BillingSFXS),548,NA,2000 Accounts Payable,217,4155 Administrative Expenses:Professional Service Fees
+2021-01-29,Bill,8562,IM00006660,Yes,Catholic Bishop of Chicago (BillingSFXS),548,NA,2000 Accounts Payable,217,4780 Property/Casualty Insurance
+2021-01-29,Bill,8578,IM00006659,Yes,Catholic Bishop of Chicago (BillingSSJFX),359,NA,2000 Accounts Payable,217,4780 Property/Casualty Insurance
+2021-01-29,Bill,8582,AF00033721,Yes,Catholic Bishop of Chicago (BillingSJS),547,NA,2000 Accounts Payable,217,4155 Administrative Expenses:Professional Service Fees
+2021-01-29,Bill,8587,IM00006661,Yes,Catholic Bishop of Chicago (BillingSJS),547,NA,2000 Accounts Payable,217,4780 Property/Casualty Insurance
+2021-01-29,Bill,8591,FC-0017962,Yes,Catholic Bishop of Chicago (BillingSJInt),549,NA,2000 Accounts Payable,217,4601 Interest Expense:Interest Expense Oper. Loans
+2021-01-29,Bill,8593,FC-0017835,Yes,Catholic Bishop of Chicago (BillingSJInt),549,NA,2000 Accounts Payable,217,4601 Interest Expense:Interest Expense Oper. Loans
+2021-01-29,Journal Entry,10585,wire transf,Yes,NA,NA,General Journal,NA,NA,-Split-
+2021-01-31,Deposit,4050,NA,Yes,NA,NA,Interest,1107.02 Cash:Old St. Francis Xavier Accounts:St Francis Xavier EGiving #0640,333,3507 Interest & Investment Income:Other Interest Account
+2021-01-31,Journal Entry,10582,SUNC 210131,Yes,NA,NA,General Journal,NA,NA,-Split-
+2021-02-01,Deposit,4463,NA,Yes,NA,NA,BEN,1101.10 Cash:Saints JFX Oper. Acct. #2264:Checking Available,691,3014 Sunday and Holy Day Collections:Sunday Collection:Sunday Collections E-Giving
+2021-02-01,Vendor Credit,8553,GR00035398,Yes,Catholic Bishop of Chicago (BillingSFXS),548,Gratitude Fund,2000 Accounts Payable,217,4513 Salaries:Lay Teachers
+2021-02-01,Vendor Credit,8554,GR00035399,Yes,Catholic Bishop of Chicago (BillingSFXS),548,Gratitude Fund,2000 Accounts Payable,217,4513 Salaries:Lay Teachers
+2021-02-01,Bill,8557,IB00181874,Yes,Catholic Bishop of Chicago (BillingSFXS),548,NA,2000 Accounts Payable,217,4030 Health Insurance-Employer Paid
+2021-02-01,Bill,8558,IB00181875,Yes,Catholic Bishop of Chicago (BillingSFXS),548,NA,2000 Accounts Payable,217,4030 Health Insurance-Employer Paid
+2021-02-01,Bill,8560,IR00148582,Yes,Catholic Bishop of Chicago (BillingSFXS),548,NA,2000 Accounts Payable,217,4052 Fringe Benefits:Fringe Benefits - Lay
+2021-02-01,Bill,8563,MR00158177,Yes,Catholic Bishop of Chicago (BillingSFXS),548,NA,2000 Accounts Payable,217,4780 Property/Casualty Insurance
+2021-02-01,Bill,8568,AR00175792,Yes,Catholic Bishop of Chicago (BillingSSJFX),359,NA,2000 Accounts Payable,217,4751 Archdiocesan Assessment:Archhdiocesean Assesment
+2021-02-01,Bill,8569,AR00176048,Yes,Catholic Bishop of Chicago (BillingSSJFX),359,NA,2000 Accounts Payable,217,"4752 Archdiocesan Assessment:Lease, Lic & Rental Arch Assess"
+2021-02-01,Bill,8570,AR00176289,Yes,Catholic Bishop of Chicago (BillingSSJFX),359,NA,2000 Accounts Payable,217,4760 PRMAA Assessment
+2021-02-01,Bill,8574,IB00182192,Yes,Catholic Bishop of Chicago (BillingSSJFX),359,NA,2000 Accounts Payable,217,4030 Health Insurance-Employer Paid
+2021-02-01,Bill,8576,IR00148769,Yes,Catholic Bishop of Chicago (BillingSSJFX),359,NA,2000 Accounts Payable,217,4052 Fringe Benefits:Fringe Benefits - Lay
+2021-02-01,Bill,8579,MR00158359,Yes,Catholic Bishop of Chicago (BillingSSJFX),359,NA,2000 Accounts Payable,217,4780 Property/Casualty Insurance
+2021-02-01,Bill,8583,IB00181907,Yes,Catholic Bishop of Chicago (BillingSJS),547,NA,2000 Accounts Payable,217,4030 Health Insurance-Employer Paid
+2021-02-01,Bill,8585,IR00148613,Yes,Catholic Bishop of Chicago (BillingSJS),547,NA,2000 Accounts Payable,217,4052 Fringe Benefits:Fringe Benefits - Lay
+2021-02-01,Bill,8588,MR00158205,Yes,Catholic Bishop of Chicago (BillingSJS),547,NA,2000 Accounts Payable,217,4780 Property/Casualty Insurance
+2021-02-01,Journal Entry,11028,GC FEB 2021,Yes,NA,NA,General Journal,NA,NA,-Split-
+2021-02-02,Check,8980,ACH,Yes,First Fund,340,NA,1101.10 Cash:Saints JFX Oper. Acct. #2264:Checking Available,691,4158 Administrative Expenses:Bank Fees
+2021-02-02,Check,8981,ACH,Yes,Bank Card,341,NA,1101.10 Cash:Saints JFX Oper. Acct. #2264:Checking Available,691,4158 Administrative Expenses:Bank Fees
+2021-02-03,Journal Entry,10583,MD 210203,Yes,NA,NA,General Journal,NA,NA,-Split-
+2021-02-05,Deposit,4465,NA,Yes,NA,NA,Smart 210205 SJS,1101.10 Cash:Saints JFX Oper. Acct. #2264:Checking Available,691,3101 Tuition:Tuition - Current
+2021-02-05,Deposit,4466,NA,Yes,NA,NA,Smart 210205 SFXS,1101.10 Cash:Saints JFX Oper. Acct. #2264:Checking Available,691,-Split-
+2021-02-05,Journal Entry,10587,PP02052021,Yes,NA,NA,General Journal,NA,NA,-Split-
+2021-02-05,Journal Entry,10589,PP02192022,Yes,NA,NA,General Journal,NA,NA,-Split-
+2021-02-07,Journal Entry,10783,SUN 210207,Yes,NA,NA,General Journal,NA,NA,-Split-
+2021-02-08,Bill,7137,T40002552530,Yes,Advanced Disposal SFX Sch,60,NA,2000 Accounts Payable,217,4432 Other Utilities:Scavenger Service
+2021-02-08,Bill,7138,T40002552731,Yes,Advanced Disposal SJ CH,108,NA,2000 Accounts Payable,217,4432 Other Utilities:Scavenger Service
+2021-02-08,Bill,7139,26185504,Yes,Canon,258,NA,2000 Accounts Payable,217,-Split-
+2021-02-08,Bill,7140,4035261443,Yes,Canon Maintanence,563,NA,2000 Accounts Payable,217,-Split-
+2021-02-08,Bill,7141,3105710,Yes,Constellation BG92628,90,NA,2000 Accounts Payable,217,4410 Heating Fuel
+2021-02-08,Bill,7142,3105714,Yes,Constellation BG92634,91,NA,2000 Accounts Payable,217,4410 Heating Fuel
+2021-02-08,Bill,7143,3099828,Yes,Constellation BG142404,128,NA,2000 Accounts Payable,217,4410 Heating Fuel
+2021-02-08,Bill,7144,3099643,Yes,Constellation BG91706,130,NA,2000 Accounts Payable,217,4410 Heating Fuel
+2021-02-08,Bill,7145,SM20903-4,Yes,Martin Peterson Company Inc.,353,NA,2000 Accounts Payable,217,4454 Maintenance & Building Repairs:Building Services
+2021-02-08,Bill,7146,SM2092-2,Yes,Martin Peterson Company Inc.,353,NA,2000 Accounts Payable,217,-Split-
+2021-02-08,Bill,7147,SW21901,Yes,Martin Peterson Company Inc.,353,NA,2000 Accounts Payable,217,4455 Maintenance & Building Repairs:Repairs to Buildings
+2021-02-08,Bill,7148,S33417,Yes,Martin Peterson Company Inc.,353,NA,2000 Accounts Payable,217,4455 Maintenance & Building Repairs:Repairs to Buildings
+2021-02-08,Bill,7149,S33719,Yes,Martin Peterson Company Inc.,353,NA,2000 Accounts Payable,217,4455 Maintenance & Building Repairs:Repairs to Buildings
+2021-02-08,Bill,7150,39459,Yes,Liguori Publications,585,NA,2000 Accounts Payable,217,4657 Altar & Liturgical Supplies:Liturgical Publications
+2021-02-08,Bill,7151,1058134,Yes,Anderson Lock,185,NA,2000 Accounts Payable,217,4451 Maintenance & Building Repairs:Security
+2021-02-08,Bill,7152,SFXC 2071,Yes,Integrity Systems,553,AMP replacement,2000 Accounts Payable,217,4456 Maintenance & Building Repairs:Equipment Services
+2021-02-08,Bill,7153,47,Yes,Ron's Artic Snowplowing,304,NA,2000 Accounts Payable,217,-Split-
+2021-02-08,Bill,7154,597910736,Yes,Home Depot Pro SFX,480,NA,2000 Accounts Payable,217,-Split-
+2021-02-08,Bill,7155,597910728,Yes,Home Depot Pro SFX,480,NA,2000 Accounts Payable,217,4453 Maintenance & Building Repairs:Ground Supplies
+2021-02-08,Bill,7156,26185479,Yes,Canon SFX,524,NA,2000 Accounts Payable,217,4701 Furnishings & Equipment:Admin Furnishings/Equip
+2021-02-08,Bill,7157,2021-1212,Yes,Monk's WIne and Candles SSJFX,65,NA,2000 Accounts Payable,217,-Split-
+2021-02-08,Bill,7158,107326,Yes,Monk's WIne and Candles SSJFX,65,NA,2000 Accounts Payable,217,4653 Altar & Liturgical Supplies:Candles
+2021-02-08,Bill,7159,2021-1213,Yes,Monk's WIne and Candles SSJFX,65,NA,2000 Accounts Payable,217,-Split-
+2021-02-09,Bill,7160,RR tents,Yes,Tom Grenke,826,NA,2000 Accounts Payable,217,6063 Other Extraordinary Expenses:Other Extraordinary Expenses
+2021-02-09,Bill,7161,68846,Yes,Crescent Cleaning Company,820,NA,2000 Accounts Payable,217,-Split-
+2021-02-09,Bill,7162,404269423,Yes,Terminix SJS,23,NA,2000 Accounts Payable,217,4155 Administrative Expenses:Professional Service Fees
+2021-02-09,Bill,7163,404296527,Yes,Terminix SJC,179,NA,2000 Accounts Payable,217,4155 Administrative Expenses:Professional Service Fees
+2021-02-09,Bill,7164,Dec - Jan statement,Yes,Nicor SJ Convent,12,NA,2000 Accounts Payable,217,4410 Heating Fuel
+2021-02-09,Bill,7165,147181608,Yes,Canon Maintanence,563,NA,2000 Accounts Payable,217,4151 Administrative Expenses:Ofc Equipment-Supplies & Maint.
+2021-02-09,Bill,7166,JC13311,Yes,F.J. Kerrigan Plumbing Co. Inc,87,NA,2000 Accounts Payable,217,4455 Maintenance & Building Repairs:Repairs to Buildings
+2021-02-09,Bill,7167,JC13317,Yes,F.J. Kerrigan Plumbing Co. Inc,87,NA,2000 Accounts Payable,217,4455 Maintenance & Building Repairs:Repairs to Buildings
+2021-02-09,Bill,7168,Dec statement,Yes,"S2Verify, LLC",94,NA,2000 Accounts Payable,217,4157 Administrative Expenses:Criminal Background Checks
+2021-02-09,Bill,7169,Dec 2 statement,Yes,"S2Verify, LLC",94,NA,2000 Accounts Payable,217,4157 Administrative Expenses:Criminal Background Checks
+2021-02-09,Bill,7170,March statement,Yes,Pitney Bowes Purchase Power SFXCH 6704,806,NA,2000 Accounts Payable,217,4153 Administrative Expenses:Postage/Courier Services
+2021-02-09,Bill,7171,B134985,Yes,North American,184,NA,2000 Accounts Payable,217,4459 Maintenance & Building Repairs:Janitorial Supplies
+2021-02-09,Bill,7172,4035253231,Yes,Canon Maintanence,563,NA,2000 Accounts Payable,217,4151 Administrative Expenses:Ofc Equipment-Supplies & Maint.
+2021-02-09,Bill,7173,4035253232,Yes,Canon Maintanence,563,NA,2000 Accounts Payable,217,4151 Administrative Expenses:Ofc Equipment-Supplies & Maint.
+2021-02-09,Bill,7174,35392206,Yes,Johnson Controls Security Solutions SJS,588,NA,2000 Accounts Payable,217,4451 Maintenance & Building Repairs:Security
+2021-02-09,Bill,7175,Jan statement,Yes,Comcast SFX Rectory 2307,170,NA,2000 Accounts Payable,217,4433 Other Utilities:Cable/Dish Services
+2021-02-09,Bill,7176,McGrath Jan masses,Yes,Canisius House Jesuit Community,450,NA,2000 Accounts Payable,217,4012 Salaries:Extra Priests
+2021-02-09,Bill,7177,8061011664,Yes,Staples SJ,92,NA,2000 Accounts Payable,217,-Split-
+2021-02-09,Bill,7178,RR Covid expenses,Yes,Joseph D'Arco,45,NA,2000 Accounts Payable,217,-Split-
+2021-02-09,Bill,7179,B049060,Yes,North American,184,NA,2000 Accounts Payable,217,4459 Maintenance & Building Repairs:Janitorial Supplies
+2021-02-09,Bill,7180,RR pkg lot help,Yes,Jonathan Metzinger,438,NA,2000 Accounts Payable,217,3352 Lease and/or Rental Income:Facility Rental
+2021-02-09,Bill,7181,110952101,Yes,Accurate Biometrics,24,NA,2000 Accounts Payable,217,4157 Administrative Expenses:Criminal Background Checks
+2021-02-09,Bill,7182,Chun Jan masses,Yes,Jesuit Community of Loyola University,360,3 Jan masses,2000 Accounts Payable,217,4012 Salaries:Extra Priests
+2021-02-09,Bill,7183,Conf retreat speaker,Yes,James Wallace,560,NA,2000 Accounts Payable,217,4802 Miscellaneous:Meetings & Speakers
+2021-02-09,Bill,8452,RR key/planner,Yes,John Hopkins,101,NA,2000 Accounts Payable,217,-Split-
+2021-02-09,Bill,8453,MA January 2021,Yes,Daniel Mayall,85,NA,2000 Accounts Payable,217,4253 Food Service & Meals:Meal Allowance
+2021-02-09,Bill,8454,RR h2o and more,Yes,Wayne Watts,241,NA,2000 Accounts Payable,217,-Split-
+2021-02-09,Bill,8455,RR bulletins,Yes,Sara Crome,631,NA,2000 Accounts Payable,217,4153 Administrative Expenses:Postage/Courier Services
+2021-02-09,Bill,8456,Lent Mission,Yes,IPS Scripture School,362,NA,2000 Accounts Payable,217,4802 Miscellaneous:Meetings & Speakers
+2021-02-09,Bill,8457,SJ thru 4/22,Yes,Chicago Tribune,222,NA,2000 Accounts Payable,217,4807 Miscellaneous:Dues/Subscriptions
+2021-02-09,Bill,8458,145525,Yes,GO Technology Group Inc.,64,NA,2000 Accounts Payable,217,4155 Administrative Expenses:Professional Service Fees
+2021-02-09,Bill,8459,145481,Yes,GO Technology Group Inc.,64,NA,2000 Accounts Payable,217,4702 Furnishings & Equipment:Instructional Furnishings/Equip
+2021-02-09,Bill,8460,4035274526,Yes,Canon Maintanence,563,NA,2000 Accounts Payable,217,4151 Administrative Expenses:Ofc Equipment-Supplies & Maint.
+2021-02-09,Bill,8461,SM20904-4,Yes,Martin Peterson Company Inc.,353,NA,2000 Accounts Payable,217,4454 Maintenance & Building Repairs:Building Services
+2021-02-09,Bill,8462,reissue 1/8 payroll,Yes,Sean McNamara,363,gross$486/Fed$0.33/Med$7.05/SS$30.13/IL$24.06,2000 Accounts Payable,217,4517 Salaries:Support Staff - School
+2021-02-09,Bill,8463,collections,Yes,Priests' Health and Retirement,324,NA,2000 Accounts Payable,217,6044 Pymt Arch Required Collections:Archdiocesan Priest Retirement
+2021-02-10,Bill Payment (Check),2837,3998,Yes,Accurate Biometrics,24,NA,1101.10 Cash:Saints JFX Oper. Acct. #2264:Checking Available,691,2000 Accounts Payable
+2021-02-10,Bill Payment (Check),2838,3999,Yes,Advanced Disposal SFX Sch,60,NA,1101.10 Cash:Saints JFX Oper. Acct. #2264:Checking Available,691,2000 Accounts Payable
+2021-02-10,Bill Payment (Check),2839,4000,Yes,Advanced Disposal SJ CH,108,NA,1101.10 Cash:Saints JFX Oper. Acct. #2264:Checking Available,691,2000 Accounts Payable
+2021-02-10,Bill Payment (Check),2840,4001,Yes,Anderson Lock,185,NA,1101.10 Cash:Saints JFX Oper. Acct. #2264:Checking Available,691,2000 Accounts Payable
+2021-02-10,Bill Payment (Check),2841,4002,Yes,Canisius House Jesuit Community,450,NA,1101.10 Cash:Saints JFX Oper. Acct. #2264:Checking Available,691,2000 Accounts Payable
+2021-02-10,Bill Payment (Check),2842,4003,Yes,Canon,258,NA,1101.10 Cash:Saints JFX Oper. Acct. #2264:Checking Available,691,2000 Accounts Payable
+2021-02-10,Bill Payment (Check),2843,4004,Yes,Canon Maintanence,563,NA,1101.10 Cash:Saints JFX Oper. Acct. #2264:Checking Available,691,2000 Accounts Payable
+2021-02-10,Bill Payment (Check),2844,4005,Yes,Canon SFX,524,NA,1101.10 Cash:Saints JFX Oper. Acct. #2264:Checking Available,691,2000 Accounts Payable
+2021-02-10,Bill Payment (Check),2845,4006,Yes,Chicago Tribune,222,NA,1101.10 Cash:Saints JFX Oper. Acct. #2264:Checking Available,691,2000 Accounts Payable
+2021-02-10,Bill Payment (Check),2846,4008,Yes,Comcast SFX Rectory 2307,170,NA,1101.10 Cash:Saints JFX Oper. Acct. #2264:Checking Available,691,2000 Accounts Payable
+2021-02-10,Bill Payment (Check),2847,4009,Yes,Constellation BG142404,128,NA,1101.10 Cash:Saints JFX Oper. Acct. #2264:Checking Available,691,2000 Accounts Payable
+2021-02-10,Bill Payment (Check),2848,4010,Yes,Constellation BG91706,130,NA,1101.10 Cash:Saints JFX Oper. Acct. #2264:Checking Available,691,2000 Accounts Payable
+2021-02-10,Bill Payment (Check),2849,4011,Yes,Constellation BG92628,90,NA,1101.10 Cash:Saints JFX Oper. Acct. #2264:Checking Available,691,2000 Accounts Payable
+2021-02-10,Bill Payment (Check),2850,4012,Yes,Constellation BG92634,91,NA,1101.10 Cash:Saints JFX Oper. Acct. #2264:Checking Available,691,2000 Accounts Payable
+2021-02-10,Bill Payment (Check),2851,4013,Yes,Crescent Cleaning Company,820,NA,1101.10 Cash:Saints JFX Oper. Acct. #2264:Checking Available,691,2000 Accounts Payable
+2021-02-10,Bill Payment (Check),2852,4014,Yes,Daniel Mayall,85,NA,1101.10 Cash:Saints JFX Oper. Acct. #2264:Checking Available,691,2000 Accounts Payable
+2021-02-10,Bill Payment (Check),2853,4015,Yes,F.J. Kerrigan Plumbing Co. Inc,87,NA,1101.10 Cash:Saints JFX Oper. Acct. #2264:Checking Available,691,2000 Accounts Payable
+2021-02-10,Bill Payment (Check),2854,4016,Yes,GO Technology Group Inc.,64,NA,1101.10 Cash:Saints JFX Oper. Acct. #2264:Checking Available,691,2000 Accounts Payable
+2021-02-10,Bill Payment (Check),2855,4017,Yes,Home Depot Pro SFX,480,NA,1101.10 Cash:Saints JFX Oper. Acct. #2264:Checking Available,691,2000 Accounts Payable
+2021-02-10,Bill Payment (Check),2856,4018,Yes,Integrity Systems,553,AMP replacement,1101.10 Cash:Saints JFX Oper. Acct. #2264:Checking Available,691,2000 Accounts Payable
+2021-02-10,Bill Payment (Check),2857,4019,Yes,IPS Scripture School,362,NA,1101.10 Cash:Saints JFX Oper. Acct. #2264:Checking Available,691,2000 Accounts Payable
+2021-02-10,Bill Payment (Check),2858,4020,Yes,James Wallace,560,NA,1101.10 Cash:Saints JFX Oper. Acct. #2264:Checking Available,691,2000 Accounts Payable
+2021-02-10,Bill Payment (Check),2859,4021,Yes,Jesuit Community of Loyola University,360,3 Jan masses,1101.10 Cash:Saints JFX Oper. Acct. #2264:Checking Available,691,2000 Accounts Payable
+2021-02-10,Bill Payment (Check),2860,4022,Yes,John Hopkins,101,NA,1101.10 Cash:Saints JFX Oper. Acct. #2264:Checking Available,691,2000 Accounts Payable
+2021-02-10,Bill Payment (Check),2861,4023,Yes,Johnson Controls Security Solutions SJS,588,NA,1101.10 Cash:Saints JFX Oper. Acct. #2264:Checking Available,691,2000 Accounts Payable
+2021-02-10,Bill Payment (Check),2862,4024,Yes,Jonathan Metzinger,438,NA,1101.10 Cash:Saints JFX Oper. Acct. #2264:Checking Available,691,2000 Accounts Payable
+2021-02-10,Bill Payment (Check),2863,4025,Yes,Joseph D'Arco,45,NA,1101.10 Cash:Saints JFX Oper. Acct. #2264:Checking Available,691,2000 Accounts Payable
+2021-02-10,Bill Payment (Check),2864,4026,Yes,Liguori Publications,585,NA,1101.10 Cash:Saints JFX Oper. Acct. #2264:Checking Available,691,2000 Accounts Payable
+2021-02-10,Bill Payment (Check),2865,4027,Yes,Martin Peterson Company Inc.,353,NA,1101.10 Cash:Saints JFX Oper. Acct. #2264:Checking Available,691,2000 Accounts Payable
+2021-02-10,Bill Payment (Check),2866,4028,Yes,Monk's WIne and Candles SSJFX,65,NA,1101.10 Cash:Saints JFX Oper. Acct. #2264:Checking Available,691,2000 Accounts Payable
+2021-02-10,Bill Payment (Check),2867,4029,Yes,Nicor SJ Convent,12,NA,1101.10 Cash:Saints JFX Oper. Acct. #2264:Checking Available,691,2000 Accounts Payable
+2021-02-10,Bill Payment (Check),2868,4030,Yes,North American,184,NA,1101.10 Cash:Saints JFX Oper. Acct. #2264:Checking Available,691,2000 Accounts Payable
+2021-02-10,Bill Payment (Check),2869,4031,Yes,Pitney Bowes Purchase Power SFXCH 6704,806,NA,1101.10 Cash:Saints JFX Oper. Acct. #2264:Checking Available,691,2000 Accounts Payable
+2021-02-10,Bill Payment (Check),2870,4032,Yes,Ron's Artic Snowplowing,304,NA,1101.10 Cash:Saints JFX Oper. Acct. #2264:Checking Available,691,2000 Accounts Payable
+2021-02-10,Bill Payment (Check),2871,4033,Yes,"S2Verify, LLC",94,NA,1101.10 Cash:Saints JFX Oper. Acct. #2264:Checking Available,691,2000 Accounts Payable
+2021-02-10,Bill Payment (Check),2872,4034,Yes,Sara Crome,631,NA,1101.10 Cash:Saints JFX Oper. Acct. #2264:Checking Available,691,2000 Accounts Payable
+2021-02-10,Bill Payment (Check),2873,4035,Yes,Sean McNamara,363,gross$486/Fed$0.33/Med$7.05/SS$30.13/IL$24.06,1101.10 Cash:Saints JFX Oper. Acct. #2264:Checking Available,691,2000 Accounts Payable
+2021-02-10,Bill Payment (Check),2874,4036,Yes,Staples SJ,92,NA,1101.10 Cash:Saints JFX Oper. Acct. #2264:Checking Available,691,2000 Accounts Payable
+2021-02-10,Bill Payment (Check),2875,4037,Yes,Terminix SJC,179,NA,1101.10 Cash:Saints JFX Oper. Acct. #2264:Checking Available,691,2000 Accounts Payable
+2021-02-10,Bill Payment (Check),2876,4038,Yes,Terminix SJS,23,NA,1101.10 Cash:Saints JFX Oper. Acct. #2264:Checking Available,691,2000 Accounts Payable
+2021-02-10,Bill Payment (Check),2877,4039,Yes,Tom Grenke,826,NA,1101.10 Cash:Saints JFX Oper. Acct. #2264:Checking Available,691,2000 Accounts Payable
+2021-02-10,Bill Payment (Check),2878,4040,Yes,Wayne Watts,241,Voided - VOID:,1101.10 Cash:Saints JFX Oper. Acct. #2264:Checking Available,691,2000 Accounts Payable
+2021-02-10,Bill Payment (Check),2879,4046,Yes,Catholic Campaign for Human Development,365,NA,101.24J Cash:Saints JFX Oper. Acct. #2264:Checking Restricted:AOC A/P Restricted:CCHD,605,2000 Accounts Payable
+2021-02-10,Bill Payment (Check),2880,4042,Yes,Catholic Charities,35,NA,101.24E Cash:Saints JFX Oper. Acct. #2264:Checking Restricted:AOC A/P Restricted:Catholic Charities,652,2000 Accounts Payable
+2021-02-10,Bill Payment (Check),2881,4041,Yes,Department of Stewardship and Development,323,NA,101.24C Cash:Saints JFX Oper. Acct. #2264:Checking Restricted:AOC A/P Restricted:Aid Cent. and East. Europe,679,2000 Accounts Payable
+2021-02-10,Bill Payment (Check),2882,4043,Yes,Priests' Health and Retirement,324,NA,101.24F Cash:Saints JFX Oper. Acct. #2264:Checking Restricted:AOC A/P Restricted:Retired Priests,603,2000 Accounts Payable
+2021-02-10,Bill Payment (Check),2883,4047,Yes,Retirement Fund for Religious,364,NA,101.24K Cash:Saints JFX Oper. Acct. #2264:Checking Restricted:AOC A/P Restricted:Retirement Fund for Religious,680,2000 Accounts Payable
+2021-02-10,Bill Payment (Check),2884,4044,Yes,Seminarian Collection,592,NA,101.24H Cash:Saints JFX Oper. Acct. #2264:Checking Restricted:AOC A/P Restricted:Seminarian Edu.,604,2000 Accounts Payable
+2021-02-10,Bill Payment (Check),2885,4045,Yes,Society of Propagation of Faith,593,NA,101.24I Cash:Saints JFX Oper. Acct. #2264:Checking Restricted:AOC A/P Restricted:World MIssion Sunday,653,2000 Accounts Payable
+2021-02-10,Bill Payment (Check),2886,4007,Yes,Wayne Watts,241,Voided - VOID:,1101.10 Cash:Saints JFX Oper. Acct. #2264:Checking Available,691,2000 Accounts Payable
+2021-02-10,Bill Payment (Check),2887,4048,Yes,Warehouse Direct SJ,82,NA,1101.10 Cash:Saints JFX Oper. Acct. #2264:Checking Available,691,2000 Accounts Payable
+2021-02-10,Bill Payment (Check),2888,4049,Yes,Altorfer Industries Inc,867,NA,1101.10 Cash:Saints JFX Oper. Acct. #2264:Checking Available,691,2000 Accounts Payable
+2021-02-10,Bill Payment (Check),2889,4050,Yes,"Kranz, Inc",415,NA,1101.10 Cash:Saints JFX Oper. Acct. #2264:Checking Available,691,2000 Accounts Payable
+2021-02-10,Bill Payment (Check),2890,4051,Yes,Millen Hardware,155,NA,1101.10 Cash:Saints JFX Oper. Acct. #2264:Checking Available,691,2000 Accounts Payable
+2021-02-10,Bill Payment (Check),2891,4052,Yes,Village of Wilmette SFX CH 992100,225,NA,1101.10 Cash:Saints JFX Oper. Acct. #2264:Checking Available,691,2000 Accounts Payable
+2021-02-10,Bill Payment (Check),2892,4053,Yes,Village of Wilmette SFX Conv 190780,227,NA,1101.10 Cash:Saints JFX Oper. Acct. #2264:Checking Available,691,2000 Accounts Payable
+2021-02-10,Bill Payment (Check),2893,4054,Yes,Village of Wilmette SFX Rectory 201110,226,NA,1101.10 Cash:Saints JFX Oper. Acct. #2264:Checking Available,691,2000 Accounts Payable
+2021-02-10,Bill Payment (Check),2894,4055,Yes,Wilshore Electric LLC,872,NA,1101.10 Cash:Saints JFX Oper. Acct. #2264:Checking Available,691,2000 Accounts Payable
+2021-02-10,Bill Payment (Check),2895,4056,Yes,AT&T Messaging SFX CH,71,NA,1101.10 Cash:Saints JFX Oper. Acct. #2264:Checking Available,691,2000 Accounts Payable
+2021-02-10,Deposit,4454,NA,Yes,NA,NA,Smart 210210 SJS,1101.10 Cash:Saints JFX Oper. Acct. #2264:Checking Available,691,-Split-
+2021-02-10,Deposit,4456,NA,Yes,NA,NA,Smart 210210 SFX,1101.10 Cash:Saints JFX Oper. Acct. #2264:Checking Available,691,-Split-
+2021-02-10,Bill,8464,collections,Yes,Catholic Campaign for Human Development,365,NA,2000 Accounts Payable,217,6040 Pymt Arch Required Collections:Cath Campaign for Human Develop
+2021-02-10,Bill,8465,collections,Yes,Seminarian Collection,592,NA,2000 Accounts Payable,217,6032 Pymt Arch Required Collections:Seminaries
+2021-02-10,Bill,8466,collections,Yes,Catholic Charities,35,NA,2000 Accounts Payable,217,6036 Pymt Arch Required Collections:Catholic Charities
+2021-02-10,Bill,8467,collections,Yes,Department of Stewardship and Development,323,NA,2000 Accounts Payable,217,6035 Pymt Arch Required Collections:Aid Churches Centl/East Europe
+2021-02-10,Bill,8468,collections,Yes,Society of Propagation of Faith,593,NA,2000 Accounts Payable,217,6039 Pymt Arch Required Collections:World Mission Sunday
+2021-02-10,Bill,8469,collections,Yes,Retirement Fund for Religious,364,NA,2000 Accounts Payable,217,6041 Pymt Arch Required Collections:Religious Retirement
+2021-02-10,Bill,8470,4846960-0,Yes,Warehouse Direct SJ,82,NA,2000 Accounts Payable,217,4459 Maintenance & Building Repairs:Janitorial Supplies
+2021-02-10,Bill,8471,C2440401,Yes,Altorfer Industries Inc,867,NA,2000 Accounts Payable,217,6063 Other Extraordinary Expenses:Other Extraordinary Expenses
+2021-02-10,Bill,8472,1742892-00,Yes,"Kranz, Inc",415,NA,2000 Accounts Payable,217,4459 Maintenance & Building Repairs:Janitorial Supplies
+2021-02-10,Bill,8473,1738171-04,Yes,"Kranz, Inc",415,NA,2000 Accounts Payable,217,4459 Maintenance & Building Repairs:Janitorial Supplies
+2021-02-10,Bill,8474,C2429302,Yes,Altorfer Industries Inc,867,NA,2000 Accounts Payable,217,6063 Other Extraordinary Expenses:Other Extraordinary Expenses
+2021-02-10,Bill,8475,642076,Yes,Village of Wilmette SFX CH 992100,225,NA,2000 Accounts Payable,217,4431 Other Utilities:Water/Sewer
+2021-02-10,Bill,8476,641465,Yes,Village of Wilmette SFX Rectory 201110,226,NA,2000 Accounts Payable,217,4431 Other Utilities:Water/Sewer
+2021-02-10,Bill,8477,641264,Yes,Village of Wilmette SFX Conv 190780,227,NA,2000 Accounts Payable,217,4431 Other Utilities:Water/Sewer
+2021-02-10,Bill,8478,feb acct balance,Yes,Millen Hardware,155,NA,2000 Accounts Payable,217,4459 Maintenance & Building Repairs:Janitorial Supplies
+2021-02-10,Bill,8479,9540,Yes,Wilshore Electric LLC,872,NA,2000 Accounts Payable,217,4455 Maintenance & Building Repairs:Repairs to Buildings
+2021-02-10,Bill,8480,7577950,Yes,AT&T Messaging SFX CH,71,NA,2000 Accounts Payable,217,4400 Telephone
+2021-02-11,Bill Payment (Check),2896,4057,Yes,Wayne Watts,241,NA,1101.10 Cash:Saints JFX Oper. Acct. #2264:Checking Available,691,2000 Accounts Payable
+2021-02-11,Bill Payment (Check),2897,4058,Yes,Comcast Business (Internet) SJS 5239,851,NA,1101.10 Cash:Saints JFX Oper. Acct. #2264:Checking Available,691,2000 Accounts Payable
+2021-02-11,Bill Payment (Check),2898,4059,Yes,Johnson Controls Security Solutions SJC,589,NA,1101.10 Cash:Saints JFX Oper. Acct. #2264:Checking Available,691,2000 Accounts Payable
+2021-02-11,Bill Payment (Check),2899,4060,Yes,Johnson Controls Security Solutions SJS,588,NA,1101.10 Cash:Saints JFX Oper. Acct. #2264:Checking Available,691,2000 Accounts Payable
+2021-02-11,Bill Payment (Check),2900,4061,Yes,Johnson Controls SJconvent 2639AD,460,NA,1101.10 Cash:Saints JFX Oper. Acct. #2264:Checking Available,691,2000 Accounts Payable
+2021-02-11,Bill,8481,115620077,Yes,Comcast Business (Internet) SJS 5239,851,NA,2000 Accounts Payable,217,4434 Other Utilities:Internet/Computer Telecom Costs
+2021-02-11,Bill,8482,35476952,Yes,Johnson Controls SJconvent 2639AD,460,NA,2000 Accounts Payable,217,4451 Maintenance & Building Repairs:Security
+2021-02-11,Bill,8483,35476959,Yes,Johnson Controls Security Solutions SJC,589,NA,2000 Accounts Payable,217,4451 Maintenance & Building Repairs:Security
+2021-02-11,Bill,8484,35476951,Yes,Johnson Controls Security Solutions SJS,588,NA,2000 Accounts Payable,217,4451 Maintenance & Building Repairs:Security
+2021-02-11,Journal Entry,10796,SCH210211,Yes,NA,NA,General Journal,NA,NA,-Split-
+2021-02-11,Journal Entry,11024,md210211,Yes,NA,NA,General Journal,NA,NA,-Split-
+2021-02-12,Deposit,4464,NA,Yes,NA,NA,Smart 210212 SJS,1101.10 Cash:Saints JFX Oper. Acct. #2264:Checking Available,691,-Split-
+2021-02-12,Deposit,4467,NA,Yes,NA,NA,Smart 210212 SFXS,1101.10 Cash:Saints JFX Oper. Acct. #2264:Checking Available,691,-Split-
+2021-02-14,Journal Entry,10799,SUN210214,Yes,NA,NA,General Journal,NA,NA,-Split-
+2021-02-16,Deposit,4468,NA,Yes,NA,NA,UW Metro,1101.10 Cash:Saints JFX Oper. Acct. #2264:Checking Available,691,3706 Miscellaneous Income:Donations
+2021-02-17,Deposit,4453,NA,Yes,NA,NA,ASH WED,101.25J Cash:Saints JFX Oper. Acct. #2264:Checking Restricted:Church Restricted:Alms Giving,683,3045 Other Collections:Almsgiving
+2021-02-17,Bill,8566,AF00033858,Yes,Catholic Bishop of Chicago (BillingSSJFX),359,NA,2000 Accounts Payable,217,4803 Miscellaneous:Ministry Formation & Education
+2021-02-17,Bill,8567,AF00033873,Yes,Catholic Bishop of Chicago (BillingSSJFX),359,NA,2000 Accounts Payable,217,4803 Miscellaneous:Ministry Formation & Education
+2021-02-19,Deposit,4457,NA,Yes,NA,NA,Smart 210219 SFXS,1101.10 Cash:Saints JFX Oper. Acct. #2264:Checking Available,691,-Split-
+2021-02-19,Deposit,4458,NA,Yes,NA,NA,Smart 210219 SJS,1101.10 Cash:Saints JFX Oper. Acct. #2264:Checking Available,691,-Split-
+2021-02-19,Check,8982,ACH,Yes,Analysis activity,824,NA,1101.10 Cash:Saints JFX Oper. Acct. #2264:Checking Available,691,4158 Administrative Expenses:Bank Fees
+2021-02-19,Journal Entry,10588,PP02192021,Yes,NA,NA,General Journal,NA,NA,-Split-
+2021-02-19,Journal Entry,10590,PP02192021,Yes,NA,NA,General Journal,NA,NA,-Split-
+2021-02-19,Journal Entry,11025,MD210219,Yes,NA,NA,General Journal,NA,NA,-Split-
+2021-02-21,Journal Entry,10800,SUN210221,Yes,NA,NA,General Journal,NA,NA,-Split-
+2021-02-22,Bill,8485,3105662,Yes,Constellation BG91705,129,NA,2000 Accounts Payable,217,4410 Heating Fuel
+2021-02-22,Bill,8486,3105663,Yes,Constellation BG91706,130,NA,2000 Accounts Payable,217,4410 Heating Fuel
+2021-02-22,Bill,8487,3105847,Yes,Constellation BG142404,128,NA,2000 Accounts Payable,217,4410 Heating Fuel
+2021-02-22,Bill,8488,RR registration,Yes,Hillary Richards,741,NA,2000 Accounts Payable,217,"4109 Books & Supplies,Non-Liturgical:Instructional Materials"
+2021-02-22,Bill,8489,115620007,Yes,Comcast Business (Internet) SFXS 5692,850,NA,2000 Accounts Payable,217,-Split-
+2021-02-22,Bill,8490,RR prof dev,Yes,Mary Kate Georgalas,47,NA,2000 Accounts Payable,217,4061 Prof. Growth/Minist./Other:Professional Growth
+2021-02-22,Bill,8491,backround checks,Yes,"S2Verify, LLC",94,NA,2000 Accounts Payable,217,4157 Administrative Expenses:Criminal Background Checks
+2021-02-22,Bill,8492,February statement,Yes,Comcast Business (TV) SFXS 1576,57,NA,2000 Accounts Payable,217,4433 Other Utilities:Cable/Dish Services
+2021-02-22,Bill,8493,3104370,Yes,Constellation BG91704,127,NA,2000 Accounts Payable,217,4410 Heating Fuel
+2021-02-22,Bill,8494,642075,Yes,Village of Wilmette SFX SCH 992090,228,NA,2000 Accounts Payable,217,4431 Other Utilities:Water/Sewer
+2021-02-22,Bill,8495,641466,Yes,Village of Wilmette SFX SCH 201120,476,NA,2000 Accounts Payable,217,4431 Other Utilities:Water/Sewer
+2021-02-22,Bill,8496,7027411209,Yes,"Savvas Learning Company, LLC",832,NA,2000 Accounts Payable,217,"4109 Books & Supplies,Non-Liturgical:Instructional Materials"
+2021-02-22,Bill,8497,7385144,Yes,Anderson Pest Solutions SFX,66,NA,2000 Accounts Payable,217,4155 Administrative Expenses:Professional Service Fees
+2021-02-22,Bill,8498,3105661,Yes,Constellation BG91704,127,NA,2000 Accounts Payable,217,4410 Heating Fuel
+2021-02-22,Bill,8499,28525,Yes,Bye-Mor Inc.,284,NA,2000 Accounts Payable,217,4154 Administrative Expenses:Office Supplies
+2021-02-22,Bill,8500,SFX1042021,Yes,Worthington Direct,382,NA,2000 Accounts Payable,217,4702 Furnishings & Equipment:Instructional Furnishings/Equip
+2021-02-22,Bill,8501,RR Books,Yes,Linda Sawyer,243,NA,2000 Accounts Payable,217,"4107 Books & Supplies,Non-Liturgical:Library Materials"
+2021-02-22,Bill,8502,PINV2030285,Yes,Garvey's Office Products,134,NA,2000 Accounts Payable,217,"4109 Books & Supplies,Non-Liturgical:Instructional Materials"
+2021-02-22,Bill,8503,PINV2029595,Yes,Garvey's Office Products,134,NA,2000 Accounts Payable,217,4154 Administrative Expenses:Office Supplies
+2021-02-22,Bill,8504,PINV2028689,Yes,Garvey's Office Products,134,NA,2000 Accounts Payable,217,4154 Administrative Expenses:Office Supplies
+2021-02-22,Bill,8505,PINV2029174,Yes,Garvey's Office Products,134,NA,2000 Accounts Payable,217,4151 Administrative Expenses:Ofc Equipment-Supplies & Maint.
+2021-02-22,Bill,8506,PINV2028178,Yes,Garvey's Office Products,134,NA,2000 Accounts Payable,217,4154 Administrative Expenses:Office Supplies
+2021-02-22,Bill,8507,12/29 - 2/9,Yes,Nicor SFX Sch,168,NA,2000 Accounts Payable,217,4410 Heating Fuel
+2021-02-22,Bill,8508,annual dues,Yes,New Trier Multi-Faith Alliance,368,NA,2000 Accounts Payable,217,4807 Miscellaneous:Dues/Subscriptions
+2021-02-22,Bill,8509,0308012-IN,Yes,Benedictine Sisters Altar Bread,61,NA,2000 Accounts Payable,217,4651 Altar & Liturgical Supplies:Hosts and Wine
+2021-02-22,Bill,8510,S396700,Yes,1XL Learning,582,NA,2000 Accounts Payable,217,"4110 Books & Supplies,Non-Liturgical:Instructional Software"
+2021-02-22,Bill,8511,RR PD,Yes,Collin McShane,568,NA,2000 Accounts Payable,217,4061 Prof. Growth/Minist./Other:Professional Growth
+2021-02-22,Bill,8512,RR Winter book club,Yes,Nicole Collins,272,NA,2000 Accounts Payable,217,"4109 Books & Supplies,Non-Liturgical:Instructional Materials"
+2021-02-22,Bill,8513,paycheck 4 days sub,Yes,Bridget Clancy,369,"Gross$440,Fed$4.40,SS$27.28,Med$6.38",2000 Accounts Payable,217,4516 Salaries:Substitute Teachers
+2021-02-22,Bill,8514,110952011,Yes,Accurate Biometrics,24,NA,2000 Accounts Payable,217,4157 Administrative Expenses:Criminal Background Checks
+2021-02-22,Bill,8515,10573050-01,Yes,"Active Electrical Supply Co., Inc",107,NA,2000 Accounts Payable,217,4459 Maintenance & Building Repairs:Janitorial Supplies
+2021-02-22,Bill,8516,404611312,Yes,Terminix SJC,179,NA,2000 Accounts Payable,217,4155 Administrative Expenses:Professional Service Fees
+2021-02-22,Bill,8517,404612529,Yes,Terminix SJS,23,NA,2000 Accounts Payable,217,4155 Administrative Expenses:Professional Service Fees
+2021-02-22,Bill,8518,68990,Yes,Crescent Cleaning Company,820,NA,2000 Accounts Payable,217,6063 Other Extraordinary Expenses:Other Extraordinary Expenses
+2021-02-22,Bill,8519,69164,Yes,Crescent Cleaning Company,820,NA,2000 Accounts Payable,217,6063 Other Extraordinary Expenses:Other Extraordinary Expenses
+2021-02-22,Bill,8520,Feb 11 tuning,Yes,"Robert Portle, M.M.",718,NA,2000 Accounts Payable,217,4155 Administrative Expenses:Professional Service Fees
+2021-02-22,Bill,8521,Lenten retreat speak,Yes,Soul Play,370,NA,2000 Accounts Payable,217,4802 Miscellaneous:Meetings & Speakers
+2021-02-22,Bill,8522,RR PD,Yes,Caroline Head,706,NA,2000 Accounts Payable,217,4061 Prof. Growth/Minist./Other:Professional Growth
+2021-02-22,Bill,8523,151978869001,Yes,Office Depot Business Credit,139,NA,2000 Accounts Payable,217,6063 Other Extraordinary Expenses:Other Extraordinary Expenses
+2021-02-22,Bill,8524,mult invoices,Yes,Garvey's Office Products,134,NA,2000 Accounts Payable,217,"4109 Books & Supplies,Non-Liturgical:Instructional Materials"
+2021-02-22,Bill,8525,807,Yes,Meco Electric Company Inc.,147,NA,2000 Accounts Payable,217,6063 Other Extraordinary Expenses:Other Extraordinary Expenses
+2021-02-22,Bill,8526,13804,Yes,Meco Electric Company Inc.,147,NA,2000 Accounts Payable,217,6063 Other Extraordinary Expenses:Other Extraordinary Expenses
+2021-02-22,Bill,8527,13803,Yes,Meco Electric Company Inc.,147,NA,2000 Accounts Payable,217,6063 Other Extraordinary Expenses:Other Extraordinary Expenses
+2021-02-22,Bill,8528,13805,Yes,Meco Electric Company Inc.,147,NA,2000 Accounts Payable,217,4454 Maintenance & Building Repairs:Building Services
+2021-02-22,Bill,8529,13806,Yes,Meco Electric Company Inc.,147,NA,2000 Accounts Payable,217,4820 Miscellaneous:Other Miscellaneous Expense
+2021-02-22,Bill,8556,AF00033940,Yes,Catholic Bishop of Chicago (BillingSFXS),548,NA,2000 Accounts Payable,217,3117 Fees:Graduation Fee
+2021-02-23,Bill Payment (Check),2901,4062,Yes,1XL Learning,582,NA,1101.10 Cash:Saints JFX Oper. Acct. #2264:Checking Available,691,2000 Accounts Payable
+2021-02-23,Bill Payment (Check),2902,4063,Yes,Accurate Biometrics,24,NA,1101.10 Cash:Saints JFX Oper. Acct. #2264:Checking Available,691,2000 Accounts Payable
+2021-02-23,Bill Payment (Check),2903,4064,Yes,"Active Electrical Supply Co., Inc",107,NA,1101.10 Cash:Saints JFX Oper. Acct. #2264:Checking Available,691,2000 Accounts Payable
+2021-02-23,Bill Payment (Check),2904,4065,Yes,Albertsons/Safeway,156,NA,1101.10 Cash:Saints JFX Oper. Acct. #2264:Checking Available,691,2000 Accounts Payable
+2021-02-23,Bill Payment (Check),2905,4066,Yes,Anderson Pest Solutions SFX,66,NA,1101.10 Cash:Saints JFX Oper. Acct. #2264:Checking Available,691,2000 Accounts Payable
+2021-02-23,Bill Payment (Check),2906,4067,Yes,AT&T SFX ALL 5570 631,169,NA,1101.10 Cash:Saints JFX Oper. Acct. #2264:Checking Available,691,2000 Accounts Payable
+2021-02-23,Bill Payment (Check),2907,4068,Yes,AT&T SJC 395,25,NA,1101.10 Cash:Saints JFX Oper. Acct. #2264:Checking Available,691,2000 Accounts Payable
+2021-02-23,Bill Payment (Check),2908,4069,Yes,AT&T SJS,235,NA,1101.10 Cash:Saints JFX Oper. Acct. #2264:Checking Available,691,2000 Accounts Payable
+2021-02-23,Bill Payment (Check),2909,4070,Yes,Benedictine Sisters Altar Bread,61,NA,1101.10 Cash:Saints JFX Oper. Acct. #2264:Checking Available,691,2000 Accounts Payable
+2021-02-23,Bill Payment (Check),2910,4071,Yes,Bridget Clancy,369,"Gross$440,Fed$4.40,SS$27.28,Med$6.38",1101.10 Cash:Saints JFX Oper. Acct. #2264:Checking Available,691,2000 Accounts Payable
+2021-02-23,Bill Payment (Check),2911,4072,Yes,Bye-Mor Inc.,284,NA,1101.10 Cash:Saints JFX Oper. Acct. #2264:Checking Available,691,2000 Accounts Payable
+2021-02-23,Bill Payment (Check),2912,4073,Yes,Caroline Head,706,NA,1101.10 Cash:Saints JFX Oper. Acct. #2264:Checking Available,691,2000 Accounts Payable
+2021-02-23,Bill Payment (Check),2913,4074,Yes,Collin McShane,568,NA,1101.10 Cash:Saints JFX Oper. Acct. #2264:Checking Available,691,2000 Accounts Payable
+2021-02-23,Bill Payment (Check),2914,4075,Yes,Comcast Business (Internet) SFXS 5692,850,NA,1101.10 Cash:Saints JFX Oper. Acct. #2264:Checking Available,691,2000 Accounts Payable
+2021-02-23,Bill Payment (Check),2915,4076,Yes,Comcast Business (TV) SFXS 1576,57,NA,1101.10 Cash:Saints JFX Oper. Acct. #2264:Checking Available,691,2000 Accounts Payable
+2021-02-23,Bill Payment (Check),2916,4077,Yes,Constellation BG142404,128,NA,1101.10 Cash:Saints JFX Oper. Acct. #2264:Checking Available,691,2000 Accounts Payable
+2021-02-23,Bill Payment (Check),2917,4078,Yes,Constellation BG91704,127,NA,1101.10 Cash:Saints JFX Oper. Acct. #2264:Checking Available,691,2000 Accounts Payable
+2021-02-23,Bill Payment (Check),2918,4079,Yes,Constellation BG91705,129,NA,1101.10 Cash:Saints JFX Oper. Acct. #2264:Checking Available,691,2000 Accounts Payable
+2021-02-23,Bill Payment (Check),2919,4080,Yes,Constellation BG91706,130,NA,1101.10 Cash:Saints JFX Oper. Acct. #2264:Checking Available,691,2000 Accounts Payable
+2021-02-23,Bill Payment (Check),2920,4081,Yes,Crescent Cleaning Company,820,NA,1101.10 Cash:Saints JFX Oper. Acct. #2264:Checking Available,691,2000 Accounts Payable
+2021-02-23,Bill Payment (Check),2921,4082,Yes,"Fun Fluency, Inc",509,NA,1101.10 Cash:Saints JFX Oper. Acct. #2264:Checking Available,691,2000 Accounts Payable
+2021-02-23,Bill Payment (Check),2922,4083,Yes,Garvey's Office Products,134,NA,1101.10 Cash:Saints JFX Oper. Acct. #2264:Checking Available,691,2000 Accounts Payable
+2021-02-23,Bill Payment (Check),2923,4084,Yes,"Grage Management, LLC",487,NA,1101.10 Cash:Saints JFX Oper. Acct. #2264:Checking Available,691,2000 Accounts Payable
+2021-02-23,Bill Payment (Check),2924,4085,Yes,Hillary Richards,741,NA,1101.10 Cash:Saints JFX Oper. Acct. #2264:Checking Available,691,2000 Accounts Payable
+2021-02-23,Bill Payment (Check),2925,4086,Yes,John Hopkins,101,NA,1101.10 Cash:Saints JFX Oper. Acct. #2264:Checking Available,691,2000 Accounts Payable
+2021-02-23,Bill Payment (Check),2926,4087,Yes,Joseph D'Arco,45,NA,1101.10 Cash:Saints JFX Oper. Acct. #2264:Checking Available,691,2000 Accounts Payable
+2021-02-23,Bill Payment (Check),2927,4089,Yes,Junior Library Guild,245,NA,1101.10 Cash:Saints JFX Oper. Acct. #2264:Checking Available,691,2000 Accounts Payable
+2021-02-23,Bill Payment (Check),2928,4090,Yes,Leo Agustina,373,NA,1101.10 Cash:Saints JFX Oper. Acct. #2264:Checking Available,691,2000 Accounts Payable
+2021-02-23,Bill Payment (Check),2929,4091,Yes,Linda Sawyer,243,NA,1101.10 Cash:Saints JFX Oper. Acct. #2264:Checking Available,691,2000 Accounts Payable
+2021-02-23,Bill Payment (Check),2930,4092,Yes,Mary Kate Georgalas,47,NA,1101.10 Cash:Saints JFX Oper. Acct. #2264:Checking Available,691,2000 Accounts Payable
+2021-02-23,Bill Payment (Check),2931,4093,Yes,Meco Electric Company Inc.,147,NA,1101.10 Cash:Saints JFX Oper. Acct. #2264:Checking Available,691,2000 Accounts Payable
+2021-02-23,Bill Payment (Check),2932,4094,Yes,New Trier Multi-Faith Alliance,368,NA,1101.10 Cash:Saints JFX Oper. Acct. #2264:Checking Available,691,2000 Accounts Payable
+2021-02-23,Bill Payment (Check),2933,4095,Yes,Nicole Collins,272,NA,1101.10 Cash:Saints JFX Oper. Acct. #2264:Checking Available,691,2000 Accounts Payable
+2021-02-23,Bill Payment (Check),2934,4096,Yes,Nicor SFX Sch,168,NA,1101.10 Cash:Saints JFX Oper. Acct. #2264:Checking Available,691,2000 Accounts Payable
+2021-02-23,Bill Payment (Check),2935,4097,Yes,Office Depot Business Credit,139,NA,1101.10 Cash:Saints JFX Oper. Acct. #2264:Checking Available,691,2000 Accounts Payable
+2021-02-23,Bill Payment (Check),2936,4098,Yes,Rich Jakubik,374,NA,1101.10 Cash:Saints JFX Oper. Acct. #2264:Checking Available,691,2000 Accounts Payable
+2021-02-23,Bill Payment (Check),2937,4099,Yes,"Robert Portle, M.M.",718,NA,1101.10 Cash:Saints JFX Oper. Acct. #2264:Checking Available,691,2000 Accounts Payable
+2021-02-23,Bill Payment (Check),2938,4100,Yes,"S2Verify, LLC",94,NA,1101.10 Cash:Saints JFX Oper. Acct. #2264:Checking Available,691,2000 Accounts Payable
+2021-02-23,Bill Payment (Check),2939,4101,Yes,Sarah Doran,700,NA,1101.10 Cash:Saints JFX Oper. Acct. #2264:Checking Available,691,2000 Accounts Payable
+2021-02-23,Bill Payment (Check),2940,4102,Yes,"Savvas Learning Company, LLC",832,NA,1101.10 Cash:Saints JFX Oper. Acct. #2264:Checking Available,691,2000 Accounts Payable
+2021-02-23,Bill Payment (Check),2941,4103,Yes,Shephard Plumbing,154,NA,1101.10 Cash:Saints JFX Oper. Acct. #2264:Checking Available,691,2000 Accounts Payable
+2021-02-23,Bill Payment (Check),2942,4104,Yes,Soul Play,370,NA,1101.10 Cash:Saints JFX Oper. Acct. #2264:Checking Available,691,2000 Accounts Payable
+2021-02-23,Bill Payment (Check),2943,4105,Yes,TelAssist,137,NA,1101.10 Cash:Saints JFX Oper. Acct. #2264:Checking Available,691,2000 Accounts Payable
+2021-02-23,Bill Payment (Check),2944,4106,Yes,Terminix SJC,179,NA,1101.10 Cash:Saints JFX Oper. Acct. #2264:Checking Available,691,2000 Accounts Payable
+2021-02-23,Bill Payment (Check),2945,4107,Yes,Terminix SJS,23,NA,1101.10 Cash:Saints JFX Oper. Acct. #2264:Checking Available,691,2000 Accounts Payable
+2021-02-23,Bill Payment (Check),2946,4108,Yes,Village of Wilmette SFX SCH 201120,476,NA,1101.10 Cash:Saints JFX Oper. Acct. #2264:Checking Available,691,2000 Accounts Payable
+2021-02-23,Bill Payment (Check),2947,4109,Yes,Village of Wilmette SFX SCH 992090,228,NA,1101.10 Cash:Saints JFX Oper. Acct. #2264:Checking Available,691,2000 Accounts Payable
+2021-02-23,Bill Payment (Check),2948,4110,Yes,Worthington Direct,382,NA,1101.10 Cash:Saints JFX Oper. Acct. #2264:Checking Available,691,2000 Accounts Payable
+2021-02-23,Bill Payment (Check),2949,4111,Yes,"Bruno Construction Masonry, Inc",372,Voided - VOID:,1101.22 Cash:Saints JFX Oper. Acct. #2264:Checking Restricted:Building Restricted,587,2000 Accounts Payable
+2021-02-23,Bill Payment (Check),2950,4112,Yes,"Holton Brothers, Inc",643,NA,1101.22 Cash:Saints JFX Oper. Acct. #2264:Checking Restricted:Building Restricted,587,2000 Accounts Payable
+2021-02-23,Bill Payment (Check),2951,4113,Yes,"Tile Decor, Inc",371,Voided - VOID:,1101.22 Cash:Saints JFX Oper. Acct. #2264:Checking Restricted:Building Restricted,587,2000 Accounts Payable
+2021-02-23,Bill,8530,13808,Yes,Meco Electric Company Inc.,147,NA,2000 Accounts Payable,217,6063 Other Extraordinary Expenses:Other Extraordinary Expenses
+2021-02-23,Bill,8531,10359,Yes,"Holton Brothers, Inc",643,NA,2000 Accounts Payable,217,6112.08 Capital Improvements:St Joseph Campus Cap Improvemnt:Church Masonry
+2021-02-23,Bill,8532,10367,Yes,"Holton Brothers, Inc",643,NA,2000 Accounts Payable,217,6113.05 Capital Improvements:SFX Campus Cap Improvement:Church Masonry
+2021-02-23,Bill,8533,Marble,Yes,"Tile Decor, Inc",371,NA,2000 Accounts Payable,217,6113.02 Capital Improvements:SFX Campus Cap Improvement:SFX Church Improvements
+2021-02-23,Bill,8534,caulking,Yes,"Bruno Construction Masonry, Inc",372,NA,2000 Accounts Payable,217,6113.02 Capital Improvements:SFX Campus Cap Improvement:SFX Church Improvements
+2021-02-23,Bill,8535,5994801605,Yes,AT&T SJS,235,NA,2000 Accounts Payable,217,4400 Telephone
+2021-02-23,Bill,8536,1014,Yes,"Grage Management, LLC",487,NA,2000 Accounts Payable,217,-Split-
+2021-02-23,Bill,8537,2021-STFX-6,Yes,"Fun Fluency, Inc",509,NA,2000 Accounts Payable,217,-Split-
+2021-02-23,Bill,8538,5834,Yes,Shephard Plumbing,154,NA,2000 Accounts Payable,217,4455 Maintenance & Building Repairs:Repairs to Buildings
+2021-02-23,Bill,8539,Feb statement,Yes,Albertsons/Safeway,156,NA,2000 Accounts Payable,217,4252 Food Service & Meals:Food/Groceries
+2021-02-23,Bill,8540,Action Mass 2/28,Yes,Leo Agustina,373,NA,2000 Accounts Payable,217,4012 Salaries:Extra Priests
+2021-02-23,Vendor Credit,8541,1743151-00,Yes,"Kranz, Inc",415,NA,2000 Accounts Payable,217,4459 Maintenance & Building Repairs:Janitorial Supplies
+2021-02-23,Bill,8542,RR repair,Yes,Joseph D'Arco,45,NA,2000 Accounts Payable,217,4456 Maintenance & Building Repairs:Equipment Services
+2021-02-23,Bill,8543,RR ty gifts,Yes,Sarah Doran,700,NA,2000 Accounts Payable,217,4806 Miscellaneous:Gifts & Donations
+2021-02-23,Bill,8544,549615,Yes,Junior Library Guild,245,NA,2000 Accounts Payable,217,"4107 Books & Supplies,Non-Liturgical:Library Materials"
+2021-02-23,Bill,8545,549718,Yes,Junior Library Guild,245,NA,2000 Accounts Payable,217,"4107 Books & Supplies,Non-Liturgical:Library Materials"
+2021-02-23,Bill,8546,5989801602,Yes,AT&T SFX ALL 5570 631,169,NA,2000 Accounts Payable,217,-Split-
+2021-02-23,Bill,8547,RR gc and music,Yes,John Hopkins,101,NA,2000 Accounts Payable,217,-Split-
+2021-02-23,Bill,8548,help w 1st Recon,Yes,Rich Jakubik,374,NA,2000 Accounts Payable,217,4012 Salaries:Extra Priests
+2021-02-23,Bill,8549,19-988-331,Yes,TelAssist,137,NA,2000 Accounts Payable,217,4434 Other Utilities:Internet/Computer Telecom Costs
+2021-02-23,Bill,8550,5972901609,Yes,AT&T SJC 395,25,NA,2000 Accounts Payable,217,4400 Telephone
+2021-02-23,Journal Entry,11026,MD210223,Yes,NA,NA,General Journal,NA,NA,-Split-
+2021-02-24,Bill Payment (Check),2952,4114,Yes,"Bruno Construction Masonry, Inc",372,NA,1101.22 Cash:Saints JFX Oper. Acct. #2264:Checking Restricted:Building Restricted,587,2000 Accounts Payable
+2021-02-24,Bill Payment (Check),2953,4115,Yes,"Tile Decor, Inc",371,NA,1101.22 Cash:Saints JFX Oper. Acct. #2264:Checking Restricted:Building Restricted,587,2000 Accounts Payable
+2021-02-24,Journal Entry,11027,MD210224,Yes,NA,NA,General Journal,NA,NA,-Split-
+2021-02-25,Bill Payment (Check),2954,4088,Yes,Cecil Painting,164,NA,1101.10 Cash:Saints JFX Oper. Acct. #2264:Checking Available,691,2000 Accounts Payable
+2021-02-25,Deposit,4459,NA,Yes,NA,NA,Smart 210225 SFXS,1101.10 Cash:Saints JFX Oper. Acct. #2264:Checking Available,691,-Split-
+2021-02-25,Deposit,4460,NA,Yes,NA,NA,Smart 210225,1101.10 Cash:Saints JFX Oper. Acct. #2264:Checking Available,691,-Split-
+2021-02-25,Bill,8551,1401808,Yes,Cecil Painting,164,NA,2000 Accounts Payable,217,4455 Maintenance & Building Repairs:Repairs to Buildings
+2021-02-26,Deposit,4461,NA,Yes,NA,NA,Smart 210226 SJS,1101.10 Cash:Saints JFX Oper. Acct. #2264:Checking Available,691,-Split-
+2021-02-26,Deposit,4462,NA,Yes,NA,NA,Smart 210226 SFXS,1101.10 Cash:Saints JFX Oper. Acct. #2264:Checking Available,691,-Split-
+2021-02-26,Bill,8592,FC-0018193,Yes,Catholic Bishop of Chicago (BillingSJInt),549,NA,2000 Accounts Payable,217,4601 Interest Expense:Interest Expense Oper. Loans
+2021-02-26,Bill,8594,FC-0018067,Yes,Catholic Bishop of Chicago (BillingSJInt),549,NA,2000 Accounts Payable,217,4601 Interest Expense:Interest Expense Oper. Loans
+2021-02-28,Deposit,4051,NA,Yes,NA,NA,Interest,1107.02 Cash:Old St. Francis Xavier Accounts:St Francis Xavier EGiving #0640,333,3507 Interest & Investment Income:Other Interest Account
+2021-02-28,Journal Entry,10802,SUN210228,Yes,NA,NA,General Journal,NA,NA,-Split-
+2021-03-01,Bill,8559,IB00182471,Yes,Catholic Bishop of Chicago (BillingSFXS),548,NA,2000 Accounts Payable,217,4030 Health Insurance-Employer Paid
+2021-03-01,Bill,8561,IR00149034,Yes,Catholic Bishop of Chicago (BillingSFXS),548,NA,2000 Accounts Payable,217,4052 Fringe Benefits:Fringe Benefits - Lay
+2021-03-01,Bill,8564,MR00158636,Yes,Catholic Bishop of Chicago (BillingSFXS),548,NA,2000 Accounts Payable,217,4780 Property/Casualty Insurance
+2021-03-01,Bill,8571,AR00176601,Yes,Catholic Bishop of Chicago (BillingSSJFX),359,NA,2000 Accounts Payable,217,4751 Archdiocesan Assessment:Archhdiocesean Assesment
+2021-03-01,Bill,8572,AR00176857,Yes,Catholic Bishop of Chicago (BillingSSJFX),359,NA,2000 Accounts Payable,217,"4752 Archdiocesan Assessment:Lease, Lic & Rental Arch Assess"
+2021-03-01,Bill,8573,AR00177098,Yes,Catholic Bishop of Chicago (BillingSSJFX),359,NA,2000 Accounts Payable,217,4760 PRMAA Assessment
+2021-03-01,Bill,8575,IB00182785,Yes,Catholic Bishop of Chicago (BillingSSJFX),359,NA,2000 Accounts Payable,217,4030 Health Insurance-Employer Paid
+2021-03-01,Bill,8577,IR00149220,Yes,Catholic Bishop of Chicago (BillingSSJFX),359,NA,2000 Accounts Payable,217,4052 Fringe Benefits:Fringe Benefits - Lay
+2021-03-01,Bill,8580,MR00158818,Yes,Catholic Bishop of Chicago (BillingSSJFX),359,NA,2000 Accounts Payable,217,4780 Property/Casualty Insurance
+2021-03-01,Bill,8584,IB00182503,Yes,Catholic Bishop of Chicago (BillingSJS),547,NA,2000 Accounts Payable,217,4030 Health Insurance-Employer Paid
+2021-03-01,Bill,8586,IR00149065,Yes,Catholic Bishop of Chicago (BillingSJS),547,NA,2000 Accounts Payable,217,4052 Fringe Benefits:Fringe Benefits - Lay
+2021-03-01,Bill,8589,MR00158664,Yes,Catholic Bishop of Chicago (BillingSJS),547,NA,2000 Accounts Payable,217,4780 Property/Casualty Insurance
+2021-03-02,Bill Payment (Check),2955,4116,Yes,Cecil Painting,164,NA,1101.10 Cash:Saints JFX Oper. Acct. #2264:Checking Available,691,2000 Accounts Payable
+2021-03-02,Bill,8552,1401811,Yes,Cecil Painting,164,NA,2000 Accounts Payable,217,4455 Maintenance & Building Repairs:Repairs to Buildings
+2021-03-05,Journal Entry,11029,PP20210305,Yes,NA,NA,General Journal,NA,NA,-Split-
+2021-03-05,Journal Entry,11030,PP20210305,Yes,NA,NA,General Journal,NA,NA,-Split-
+2021-03-08,Bill,8595,RR PD,Yes,Annie Buxton,623,NA,2000 Accounts Payable,217,4061 Prof. Growth/Minist./Other:Professional Growth
+2021-03-08,Bill,8596,RR Supplies/Snacks,Yes,Jennifer Miller,262,NA,2000 Accounts Payable,217,-Split-
+2021-03-08,Bill,8597,RR background check,Yes,Amy Butterworth,119,NA,2000 Accounts Payable,217,4157 Administrative Expenses:Criminal Background Checks
+2021-03-08,Bill,8598,RR supplies,Yes,Janina Jakucewicz,138,NA,2000 Accounts Payable,217,4459 Maintenance & Building Repairs:Janitorial Supplies
+2021-03-08,Bill,8599,3122204,Yes,Constellation BG91704,127,NA,2000 Accounts Payable,217,4410 Heating Fuel
+2021-03-08,Bill,8600,Mar - Apr,Yes,Comcast Business (TV) SFXS 1576,57,NA,2000 Accounts Payable,217,4433 Other Utilities:Cable/Dish Services
+2021-03-08,Bill,8601,56106,Yes,Printwell,418,NA,2000 Accounts Payable,217,4152 Administrative Expenses:Outside Printing Cost
+2021-03-08,Bill,8602,4026292062,Yes,"Savvas Learning Company, LLC",832,NA,2000 Accounts Payable,217,-Split-
+2021-03-08,Bill,8603,1017530500,Yes,Pitney Bowes SFXS 0015503825,488,NA,2000 Accounts Payable,217,4151 Administrative Expenses:Ofc Equipment-Supplies & Maint.
+2021-03-08,Bill,8604,Jan 20- Feb 19,Yes,AT&T SJC YFF 2253,448,NA,2000 Accounts Payable,217,4400 Telephone
+2021-03-08,Bill,8605,9873632673,Yes,Verizon Wireless,118,NA,2000 Accounts Payable,217,-Split-
+2021-03-08,Bill,8606,March dues,Yes,Chicago Tribune,222,NA,2000 Accounts Payable,217,4807 Miscellaneous:Dues/Subscriptions
+2021-03-08,Bill,8607,1/28 - 2/25,Yes,Nicor SJ Convent,12,NA,2000 Accounts Payable,217,4410 Heating Fuel
+2021-03-08,Bill,8608,69167,Yes,Crescent Cleaning Company,820,NA,2000 Accounts Payable,217,-Split-
+2021-03-08,Bill,8609,69073,Yes,Crescent Cleaning Company,820,NA,2000 Accounts Payable,217,-Split-
+2021-03-08,Bill,8610,3122257,Yes,Constellation BG92634,91,NA,2000 Accounts Payable,217,4410 Heating Fuel
+2021-03-08,Bill,8611,7017987,Yes,Loyola Press SFX SCH,400,NA,2000 Accounts Payable,217,"4106 Books & Supplies,Non-Liturgical:Workbooks"
+2021-03-08,Bill,8612,11/25-12/29,Yes,Nicor SFX Sch,168,NA,2000 Accounts Payable,217,4410 Heating Fuel
+2021-03-08,Bill,8613,1966149-00,Yes,Barton Cotton,895,NA,2000 Accounts Payable,217,4151 Administrative Expenses:Ofc Equipment-Supplies & Maint.
+2021-03-08,Bill,8614,Feb health insurance,Yes,Catholic Bishop of Chicago,4,NA,2000 Accounts Payable,217,4030 Health Insurance-Employer Paid
+2021-03-08,Bill,8615,Feb 20 - Mar 19,Yes,Comcast SFX Office 2331,142,NA,2000 Accounts Payable,217,4434 Other Utilities:Internet/Computer Telecom Costs
+2021-03-08,Bill,8616,3122253,Yes,Constellation BG92628,90,NA,2000 Accounts Payable,217,4410 Heating Fuel
+2021-03-08,Bill,8617,35476961,Yes,Johnson Controls SFX SCH 7898,473,NA,2000 Accounts Payable,217,4451 Maintenance & Building Repairs:Security
+2021-03-08,Bill,8618,35476946,Yes,Johnson Controls SFX CH 7578,474,NA,2000 Accounts Payable,217,4451 Maintenance & Building Repairs:Security
+2021-03-08,Bill,8619,MA Feb 2021,Yes,Daniel Mayall,85,NA,2000 Accounts Payable,217,4253 Food Service & Meals:Meal Allowance
+2021-03-08,Bill,8620,1060078,Yes,Anderson Lock,185,NA,2000 Accounts Payable,217,4451 Maintenance & Building Repairs:Security
+2021-03-08,Bill,8621,RI104799347,Yes,FP Mailing Solutions SJS,381,NA,2000 Accounts Payable,217,4701 Furnishings & Equipment:Admin Furnishings/Equip
+2021-03-08,Bill,8622,C2440402,Yes,Altorfer Industries Inc,867,NA,2000 Accounts Payable,217,6063 Other Extraordinary Expenses:Other Extraordinary Expenses
+2021-03-08,Bill,8623,C2429303,Yes,Altorfer Industries Inc,867,NA,2000 Accounts Payable,217,6063 Other Extraordinary Expenses:Other Extraordinary Expenses
+2021-03-08,Bill,8624,2/14-3/13,Yes,The New York Times,140,NA,2000 Accounts Payable,217,4807 Miscellaneous:Dues/Subscriptions
+2021-03-08,Bill,8625,3122391,Yes,Constellation BG142404,128,NA,2000 Accounts Payable,217,4410 Heating Fuel
+2021-03-08,Bill,8626,3122205,Yes,Constellation BG91705,129,NA,2000 Accounts Payable,217,4410 Heating Fuel
+2021-03-08,Bill,8627,3122206,Yes,Constellation BG91706,130,NA,2000 Accounts Payable,217,4410 Heating Fuel
+2021-03-08,Bill,8628,March,Yes,Comcast SFX Rectory 2307,170,NA,2000 Accounts Payable,217,4433 Other Utilities:Cable/Dish Services
+2021-03-08,Bill,8629,9641781,Yes,Illinois Office of the State Fire Marshal,508,NA,2000 Accounts Payable,217,4456 Maintenance & Building Repairs:Equipment Services
+2021-03-08,Bill,8630,26344154,Yes,Canon SFX,524,NA,2000 Accounts Payable,217,4701 Furnishings & Equipment:Admin Furnishings/Equip
+2021-03-08,Bill,8631,5879,Yes,Shephard Plumbing,154,NA,2000 Accounts Payable,217,4455 Maintenance & Building Repairs:Repairs to Buildings
+2021-03-10,Bill Payment (Check),2956,4117,Yes,Advanced Disposal SFX Sch,60,NA,1101.10 Cash:Saints JFX Oper. Acct. #2264:Checking Available,691,2000 Accounts Payable
+2021-03-10,Bill Payment (Check),2957,4118,Yes,Advanced Disposal SJ CH,108,NA,1101.10 Cash:Saints JFX Oper. Acct. #2264:Checking Available,691,2000 Accounts Payable
+2021-03-10,Bill Payment (Check),2958,4119,Yes,Altorfer Industries Inc,867,NA,1101.10 Cash:Saints JFX Oper. Acct. #2264:Checking Available,691,2000 Accounts Payable
+2021-03-10,Bill Payment (Check),2959,4120,Yes,Amy Butterworth,119,NA,1101.10 Cash:Saints JFX Oper. Acct. #2264:Checking Available,691,2000 Accounts Payable
+2021-03-10,Bill Payment (Check),2960,4121,Yes,Anderson Lock,185,NA,1101.10 Cash:Saints JFX Oper. Acct. #2264:Checking Available,691,2000 Accounts Payable
+2021-03-10,Bill Payment (Check),2961,4122,Yes,Annie Buxton,623,NA,1101.10 Cash:Saints JFX Oper. Acct. #2264:Checking Available,691,2000 Accounts Payable
+2021-03-10,Bill Payment (Check),2962,4123,Yes,Archdiocese of Chicago,96,NA,1101.10 Cash:Saints JFX Oper. Acct. #2264:Checking Available,691,2000 Accounts Payable
+2021-03-10,Bill Payment (Check),2963,4124,Yes,AT&T SJC YFF 2253,448,NA,1101.10 Cash:Saints JFX Oper. Acct. #2264:Checking Available,691,2000 Accounts Payable
+2021-03-10,Bill Payment (Check),2964,4125,Yes,Barton Cotton,895,NA,1101.10 Cash:Saints JFX Oper. Acct. #2264:Checking Available,691,2000 Accounts Payable
+2021-03-10,Bill Payment (Check),2965,4126,Yes,Brian Roselle,885,NA,1101.10 Cash:Saints JFX Oper. Acct. #2264:Checking Available,691,2000 Accounts Payable
+2021-03-10,Bill Payment (Check),2966,4127,Yes,Canisius House Jesuit Community,450,NA,1101.10 Cash:Saints JFX Oper. Acct. #2264:Checking Available,691,2000 Accounts Payable
+2021-03-10,Bill Payment (Check),2967,4128,Yes,Canon,258,NA,1101.10 Cash:Saints JFX Oper. Acct. #2264:Checking Available,691,2000 Accounts Payable
+2021-03-10,Bill Payment (Check),2968,4129,Yes,Canon Maintanence,563,NA,1101.10 Cash:Saints JFX Oper. Acct. #2264:Checking Available,691,2000 Accounts Payable
+2021-03-10,Bill Payment (Check),2969,4130,Yes,Canon SFX,524,NA,1101.10 Cash:Saints JFX Oper. Acct. #2264:Checking Available,691,2000 Accounts Payable
+2021-03-10,Bill Payment (Check),2970,4131,Yes,Catholic Bishop of Chicago,4,NA,1101.10 Cash:Saints JFX Oper. Acct. #2264:Checking Available,691,2000 Accounts Payable
+2021-03-10,Bill Payment (Check),2971,4132,Yes,Chicago Tribune,222,NA,1101.10 Cash:Saints JFX Oper. Acct. #2264:Checking Available,691,2000 Accounts Payable
+2021-03-10,Bill Payment (Check),2972,4133,Yes,Chris Farr,884,NA,1101.10 Cash:Saints JFX Oper. Acct. #2264:Checking Available,691,2000 Accounts Payable
+2021-03-10,Bill Payment (Check),2973,4134,Yes,Comcast Business (TV) SFXS 1576,57,NA,1101.10 Cash:Saints JFX Oper. Acct. #2264:Checking Available,691,2000 Accounts Payable
+2021-03-10,Bill Payment (Check),2974,4135,Yes,Comcast SFX Office 2331,142,NA,1101.10 Cash:Saints JFX Oper. Acct. #2264:Checking Available,691,2000 Accounts Payable
+2021-03-10,Bill Payment (Check),2975,4136,Yes,Comcast SFX Rectory 2307,170,NA,1101.10 Cash:Saints JFX Oper. Acct. #2264:Checking Available,691,2000 Accounts Payable
+2021-03-10,Bill Payment (Check),2976,4137,Yes,Constellation BG142404,128,NA,1101.10 Cash:Saints JFX Oper. Acct. #2264:Checking Available,691,2000 Accounts Payable
+2021-03-10,Bill Payment (Check),2977,4138,Yes,Constellation BG91704,127,NA,1101.10 Cash:Saints JFX Oper. Acct. #2264:Checking Available,691,2000 Accounts Payable
+2021-03-10,Bill Payment (Check),2978,4139,Yes,Constellation BG91705,129,NA,1101.10 Cash:Saints JFX Oper. Acct. #2264:Checking Available,691,2000 Accounts Payable
+2021-03-10,Bill Payment (Check),2979,4140,Yes,Constellation BG91706,130,NA,1101.10 Cash:Saints JFX Oper. Acct. #2264:Checking Available,691,2000 Accounts Payable
+2021-03-10,Bill Payment (Check),2980,4141,Yes,Constellation BG92628,90,NA,1101.10 Cash:Saints JFX Oper. Acct. #2264:Checking Available,691,2000 Accounts Payable
+2021-03-10,Bill Payment (Check),2981,4142,Yes,Constellation BG92634,91,NA,1101.10 Cash:Saints JFX Oper. Acct. #2264:Checking Available,691,2000 Accounts Payable
+2021-03-10,Bill Payment (Check),2982,4143,Yes,Crescent Cleaning Company,820,NA,1101.10 Cash:Saints JFX Oper. Acct. #2264:Checking Available,691,2000 Accounts Payable
+2021-03-10,Bill Payment (Check),2983,4144,Yes,Daniel Mayall,85,NA,1101.10 Cash:Saints JFX Oper. Acct. #2264:Checking Available,691,2000 Accounts Payable
+2021-03-10,Bill Payment (Check),2984,4145,Yes,Edward Harnett,121,NA,1101.10 Cash:Saints JFX Oper. Acct. #2264:Checking Available,691,2000 Accounts Payable
+2021-03-10,Bill Payment (Check),2985,4146,Yes,Engie Resources Convent SJ,112,NA,1101.10 Cash:Saints JFX Oper. Acct. #2264:Checking Available,691,2000 Accounts Payable
+2021-03-10,Bill Payment (Check),2986,4147,Yes,Engie Resources SJ Campus,111,NA,1101.10 Cash:Saints JFX Oper. Acct. #2264:Checking Available,691,2000 Accounts Payable
+2021-03-10,Bill Payment (Check),2987,4148,Yes,Engie SFX,253,NA,1101.10 Cash:Saints JFX Oper. Acct. #2264:Checking Available,691,2000 Accounts Payable
+2021-03-10,Bill Payment (Check),2988,4149,Yes,F.J. Kerrigan Plumbing Co. Inc,87,NA,1101.10 Cash:Saints JFX Oper. Acct. #2264:Checking Available,691,2000 Accounts Payable
+2021-03-10,Bill Payment (Check),2989,4150,Yes,FP Mailing Solutions,114,NA,1101.10 Cash:Saints JFX Oper. Acct. #2264:Checking Available,691,2000 Accounts Payable
+2021-03-10,Bill Payment (Check),2990,4151,Yes,FP Mailing Solutions SJS,381,NA,1101.10 Cash:Saints JFX Oper. Acct. #2264:Checking Available,691,2000 Accounts Payable
+2021-03-10,Bill Payment (Check),2991,4152,Yes,Garvey's Office Products,134,NA,1101.10 Cash:Saints JFX Oper. Acct. #2264:Checking Available,691,2000 Accounts Payable
+2021-03-10,Bill Payment (Check),2992,4153,Yes,George Weschler,291,NA,1101.10 Cash:Saints JFX Oper. Acct. #2264:Checking Available,691,2000 Accounts Payable
+2021-03-10,Bill Payment (Check),2993,4154,Yes,Gil Calderon,883,NA,1101.10 Cash:Saints JFX Oper. Acct. #2264:Checking Available,691,2000 Accounts Payable
+2021-03-10,Bill Payment (Check),2994,4155,Yes,GO Technology Group Inc.,64,NA,1101.10 Cash:Saints JFX Oper. Acct. #2264:Checking Available,691,2000 Accounts Payable
+2021-03-10,Bill Payment (Check),2995,4156,Yes,"Grage Management, LLC",487,NA,1101.10 Cash:Saints JFX Oper. Acct. #2264:Checking Available,691,2000 Accounts Payable
+2021-03-10,Bill Payment (Check),2996,4157,Yes,Illinois Office of the State Fire Marshal,508,NA,1101.10 Cash:Saints JFX Oper. Acct. #2264:Checking Available,691,2000 Accounts Payable
+2021-03-10,Bill Payment (Check),2997,4158,Yes,Jaime Vehovsky,48,NA,1101.10 Cash:Saints JFX Oper. Acct. #2264:Checking Available,691,2000 Accounts Payable
+2021-03-10,Bill Payment (Check),2998,4159,Yes,James Slater,882,NA,1101.10 Cash:Saints JFX Oper. Acct. #2264:Checking Available,691,2000 Accounts Payable
+2021-03-10,Bill Payment (Check),2999,4160,Yes,Janina Jakucewicz,138,NA,1101.10 Cash:Saints JFX Oper. Acct. #2264:Checking Available,691,2000 Accounts Payable
+2021-03-10,Bill Payment (Check),3000,4161,Yes,Jennifer Miller,262,NA,1101.10 Cash:Saints JFX Oper. Acct. #2264:Checking Available,691,2000 Accounts Payable
+2021-03-10,Bill Payment (Check),3001,4162,Yes,Jesuit Community of Loyola University,360,NA,1101.10 Cash:Saints JFX Oper. Acct. #2264:Checking Available,691,2000 Accounts Payable
+2021-03-10,Bill Payment (Check),3002,4163,Yes,Joanne Brinceanu,389,NA,1101.10 Cash:Saints JFX Oper. Acct. #2264:Checking Available,691,2000 Accounts Payable
+2021-03-10,Bill Payment (Check),3003,4164,Yes,Johnson Controls SFX CH 7578,474,NA,1101.10 Cash:Saints JFX Oper. Acct. #2264:Checking Available,691,2000 Accounts Payable
+2021-03-10,Bill Payment (Check),3004,4165,Yes,Johnson Controls SFX SCH 7898,473,NA,1101.10 Cash:Saints JFX Oper. Acct. #2264:Checking Available,691,2000 Accounts Payable
+2021-03-10,Bill Payment (Check),3005,4166,Yes,Junior Library Guild,245,NA,1101.10 Cash:Saints JFX Oper. Acct. #2264:Checking Available,691,2000 Accounts Payable
+2021-03-10,Bill Payment (Check),3006,4167,Yes,Kieran Stack,380,NA,1101.10 Cash:Saints JFX Oper. Acct. #2264:Checking Available,691,2000 Accounts Payable
+2021-03-10,Bill Payment (Check),3007,4168,Yes,Loyola Press SFX SCH,400,NA,1101.10 Cash:Saints JFX Oper. Acct. #2264:Checking Available,691,2000 Accounts Payable
+2021-03-10,Bill Payment (Check),3008,4169,Yes,Loyola Press YFF,833,NA,1101.10 Cash:Saints JFX Oper. Acct. #2264:Checking Available,691,2000 Accounts Payable
+2021-03-10,Bill Payment (Check),3009,4170,Yes,Matt Hayes,379,NA,1101.10 Cash:Saints JFX Oper. Acct. #2264:Checking Available,691,2000 Accounts Payable
+2021-03-10,Bill Payment (Check),3010,4171,Yes,Matt Lafontaine,378,NA,1101.10 Cash:Saints JFX Oper. Acct. #2264:Checking Available,691,2000 Accounts Payable
+2021-03-10,Bill Payment (Check),3011,4172,Yes,Max Gunnill,377,NA,1101.10 Cash:Saints JFX Oper. Acct. #2264:Checking Available,691,2000 Accounts Payable
+2021-03-10,Bill Payment (Check),3012,4173,Yes,Millen Hardware,155,NA,1101.10 Cash:Saints JFX Oper. Acct. #2264:Checking Available,691,2000 Accounts Payable
+2021-03-10,Bill Payment (Check),3013,4174,Yes,Nicor SFX Sch,168,NA,1101.10 Cash:Saints JFX Oper. Acct. #2264:Checking Available,691,2000 Accounts Payable
+2021-03-10,Bill Payment (Check),3014,4175,Yes,Nicor SJ Convent,12,NA,1101.10 Cash:Saints JFX Oper. Acct. #2264:Checking Available,691,2000 Accounts Payable
+2021-03-10,Bill Payment (Check),3015,4176,Yes,Patti Tsuru,886,NA,1101.10 Cash:Saints JFX Oper. Acct. #2264:Checking Available,691,2000 Accounts Payable
+2021-03-10,Bill Payment (Check),3016,4177,Yes,Pitney Bowes SFXS 0015503825,488,NA,1101.10 Cash:Saints JFX Oper. Acct. #2264:Checking Available,691,2000 Accounts Payable
+2021-03-10,Bill Payment (Check),3017,4178,Yes,Printwell,418,NA,1101.10 Cash:Saints JFX Oper. Acct. #2264:Checking Available,691,2000 Accounts Payable
+2021-03-10,Bill Payment (Check),3018,4179,Yes,"Savvas Learning Company, LLC",832,NA,1101.10 Cash:Saints JFX Oper. Acct. #2264:Checking Available,691,2000 Accounts Payable
+2021-03-10,Bill Payment (Check),3019,4180,Yes,"Schaefer's Wines, Foods & Spirits",56,NA,1101.10 Cash:Saints JFX Oper. Acct. #2264:Checking Available,691,2000 Accounts Payable
+2021-03-10,Bill Payment (Check),3020,4181,Yes,Scott Dolan,376,NA,1101.10 Cash:Saints JFX Oper. Acct. #2264:Checking Available,691,2000 Accounts Payable
+2021-03-10,Bill Payment (Check),3021,4182,Yes,Scott Girard,375,NA,1101.10 Cash:Saints JFX Oper. Acct. #2264:Checking Available,691,2000 Accounts Payable
+2021-03-10,Bill Payment (Check),3022,4183,Yes,Shephard Plumbing,154,NA,1101.10 Cash:Saints JFX Oper. Acct. #2264:Checking Available,691,2000 Accounts Payable
+2021-03-10,Bill Payment (Check),3023,4184,Yes,Staples SJ,92,NA,1101.10 Cash:Saints JFX Oper. Acct. #2264:Checking Available,691,2000 Accounts Payable
+2021-03-10,Bill Payment (Check),3024,4185,Yes,The New York Times,140,NA,1101.10 Cash:Saints JFX Oper. Acct. #2264:Checking Available,691,2000 Accounts Payable
+2021-03-10,Bill Payment (Check),3025,4186,Yes,Verizon Wireless,118,NA,1101.10 Cash:Saints JFX Oper. Acct. #2264:Checking Available,691,2000 Accounts Payable
+2021-03-10,Bill Payment (Check),3026,4195,Yes,Wayne Watts,241,NA,1101.10 Cash:Saints JFX Oper. Acct. #2264:Checking Available,691,2000 Accounts Payable
+2021-03-10,Bill Payment (Check),3027,4192,Yes,St. Thomas of Canterbury School,338,NA,101.25B Cash:Saints JFX Oper. Acct. #2264:Checking Restricted:Church Restricted:Sharing - St. Thomas School,657,2000 Accounts Payable
+2021-03-10,Bill Payment (Check),3028,4193,Yes,St. Vincent De Paul,249,NA,101.25E Cash:Saints JFX Oper. Acct. #2264:Checking Restricted:Church Restricted:SVDP,659,2000 Accounts Payable
+2021-03-10,Bill Payment (Check),3029,4191,Yes,"Virgil James, Inc",320,NA,1101.22 Cash:Saints JFX Oper. Acct. #2264:Checking Restricted:Building Restricted,587,2000 Accounts Payable
+2021-03-10,Bill Payment (Check),3030,NA,Yes,Catholic Bishop of Chicago (BillingSFXS),548,QuickBooks generated zero amount transaction for bill payment stub,1101.10 Cash:Saints JFX Oper. Acct. #2264:Checking Available,691,2000 Accounts Payable
+2021-03-10,Bill Payment (Check),3031,4196,Yes,Catholic Bishop of Chicago (BillingSFXS),548,NA,1101.10 Cash:Saints JFX Oper. Acct. #2264:Checking Available,691,2000 Accounts Payable
+2021-03-10,Bill Payment (Check),3032,4197,Yes,Catholic Bishop of Chicago (BillingSJS),547,NA,1101.10 Cash:Saints JFX Oper. Acct. #2264:Checking Available,691,2000 Accounts Payable
+2021-03-10,Bill Payment (Check),3033,4198,Yes,Catholic Bishop of Chicago (BillingSSJFX),359,NA,1101.10 Cash:Saints JFX Oper. Acct. #2264:Checking Available,691,2000 Accounts Payable
+2021-03-10,Bill,7184,SFX doors final,Yes,"Virgil James, Inc",320,NA,2000 Accounts Payable,217,6113.02 Capital Improvements:SFX Campus Cap Improvement:SFX Church Improvements
+2021-03-10,Bill,7185,7018395,Yes,Loyola Press YFF,833,NA,2000 Accounts Payable,217,"4106 Books & Supplies,Non-Liturgical:Workbooks"
+2021-03-10,Bill,7186,RI104808702,Yes,FP Mailing Solutions,114,NA,2000 Accounts Payable,217,4701 Furnishings & Equipment:Admin Furnishings/Equip
+2021-03-10,Bill,7187,4035561858,Yes,Canon Maintanence,563,NA,2000 Accounts Payable,217,4151 Administrative Expenses:Ofc Equipment-Supplies & Maint.
+2021-03-10,Bill,7188,4035561859,Yes,Canon Maintanence,563,NA,2000 Accounts Payable,217,4151 Administrative Expenses:Ofc Equipment-Supplies & Maint.
+2021-03-10,Bill,7189,4035561857,Yes,Canon Maintanence,563,NA,2000 Accounts Payable,217,4151 Administrative Expenses:Ofc Equipment-Supplies & Maint.
+2021-03-10,Bill,7190,4035560484,Yes,Canon Maintanence,563,NA,2000 Accounts Payable,217,4151 Administrative Expenses:Ofc Equipment-Supplies & Maint.
+2021-03-10,Bill,7191,3982813,Yes,Engie Resources Convent SJ,112,NA,2000 Accounts Payable,217,4420 Electricity
+2021-03-10,Bill,7192,3982838,Yes,Engie Resources SJ Campus,111,NA,2000 Accounts Payable,217,-Split-
+2021-03-10,Bill,7193,3982794,Yes,Engie SFX,253,NA,2000 Accounts Payable,217,-Split-
+2021-03-10,Bill,7194,FB squares,Yes,Scott Girard,375,NA,2000 Accounts Payable,217,4820 Miscellaneous:Other Miscellaneous Expense
+2021-03-10,Bill,7195,FB squares,Yes,Scott Dolan,376,NA,2000 Accounts Payable,217,4820 Miscellaneous:Other Miscellaneous Expense
+2021-03-10,Bill,7196,FB Squares,Yes,Max Gunnill,377,NA,2000 Accounts Payable,217,4820 Miscellaneous:Other Miscellaneous Expense
+2021-03-10,Bill,7197,FB Squares,Yes,Matt Lafontaine,378,NA,2000 Accounts Payable,217,4820 Miscellaneous:Other Miscellaneous Expense
+2021-03-10,Bill,7198,FB Squares,Yes,Matt Hayes,379,NA,2000 Accounts Payable,217,4820 Miscellaneous:Other Miscellaneous Expense
+2021-03-10,Bill,7199,FB Squares,Yes,Kieran Stack,380,NA,2000 Accounts Payable,217,4820 Miscellaneous:Other Miscellaneous Expense
+2021-03-10,Bill,7200,FB Squares,Yes,James Slater,882,NA,2000 Accounts Payable,217,4820 Miscellaneous:Other Miscellaneous Expense
+2021-03-10,Bill,7201,FB Squares,Yes,Gil Calderon,883,NA,2000 Accounts Payable,217,4820 Miscellaneous:Other Miscellaneous Expense
+2021-03-10,Bill,7202,FB Squares,Yes,Chris Farr,884,NA,2000 Accounts Payable,217,4820 Miscellaneous:Other Miscellaneous Expense
+2021-03-10,Bill,7203,FB Squares,Yes,Brian Roselle,885,NA,2000 Accounts Payable,217,4820 Miscellaneous:Other Miscellaneous Expense
+2021-03-10,Bill,7204,T40002564360,Yes,Advanced Disposal SFX Sch,60,NA,2000 Accounts Payable,217,4432 Other Utilities:Scavenger Service
+2021-03-10,Bill,7205,T40002564538,Yes,Advanced Disposal SJ CH,108,NA,2000 Accounts Payable,217,-Split-
+2021-03-10,Bill,7206,8061346952,Yes,Staples SJ,92,NA,2000 Accounts Payable,217,-Split-
+2021-03-10,Bill,7207,26344175,Yes,Canon,258,NA,2000 Accounts Payable,217,-Split-
+2021-03-10,Bill,8632,JC13187 adj,Yes,F.J. Kerrigan Plumbing Co. Inc,87,NA,2000 Accounts Payable,217,4455 Maintenance & Building Repairs:Repairs to Buildings
+2021-03-10,Bill,8633,RR,Yes,Wayne Watts,241,NA,2000 Accounts Payable,217,-Split-
+2021-03-10,Bill,8634,2/28 end statement,Yes,Millen Hardware,155,NA,2000 Accounts Payable,217,4459 Maintenance & Building Repairs:Janitorial Supplies
+2021-03-10,Bill,8635,office 365,Yes,Archdiocese of Chicago,96,NA,2000 Accounts Payable,217,4156 Administrative Expenses:Computer Supplies
+2021-03-10,Bill,8636,551793,Yes,Junior Library Guild,245,NA,2000 Accounts Payable,217,"4107 Books & Supplies,Non-Liturgical:Library Materials"
+2021-03-10,Bill,8637,RR PD,Yes,Jaime Vehovsky,48,NA,2000 Accounts Payable,217,4061 Prof. Growth/Minist./Other:Professional Growth
+2021-03-10,Bill,8638,RR apple pencil,Yes,Patti Tsuru,886,NA,2000 Accounts Payable,217,4156 Administrative Expenses:Computer Supplies
+2021-03-10,Bill,8639,CSUM 134782,Yes,Garvey's Office Products,134,NA,2000 Accounts Payable,217,-Split-
+2021-03-10,Bill,8640,RR PD,Yes,Joanne Brinceanu,389,NA,2000 Accounts Payable,217,4061 Prof. Growth/Minist./Other:Professional Growth
+2021-03-10,Bill,8641,RR background check,Yes,George Weschler,291,NA,2000 Accounts Payable,217,4157 Administrative Expenses:Criminal Background Checks
+2021-03-10,Bill,8642,RR PD,Yes,Jennifer Miller,262,NA,2000 Accounts Payable,217,4061 Prof. Growth/Minist./Other:Professional Growth
+2021-03-10,Bill,8643,1015,Yes,"Grage Management, LLC",487,NA,2000 Accounts Payable,217,4514 Salaries:Special Program Teachers
+2021-03-10,Bill,8644,2048127/2049612,Yes,"Schaefer's Wines, Foods & Spirits",56,NA,2000 Accounts Payable,217,4252 Food Service & Meals:Food/Groceries
+2021-03-10,Bill,8645,Feb Mass stipend,Yes,Canisius House Jesuit Community,450,NA,2000 Accounts Payable,217,4012 Salaries:Extra Priests
+2021-03-10,Bill,8646,Feb Mass stipend,Yes,Jesuit Community of Loyola University,360,NA,2000 Accounts Payable,217,4012 Salaries:Extra Priests
+2021-03-10,Bill,8647,Jan & Feb MA,Yes,Edward Harnett,121,NA,2000 Accounts Payable,217,4253 Food Service & Meals:Meal Allowance
+2021-03-10,Bill,8648,collections,Yes,St. Vincent De Paul,249,NA,2000 Accounts Payable,217,6011.01 Share Collect Pay to Oth Parish:SS Joseph/Francis Xavier Sharin:St. Vincent de Paul
+2021-03-10,Bill,8649,collections,Yes,St. Thomas of Canterbury School,338,NA,2000 Accounts Payable,217,6013.01 Share Collect Pay to Oth Parish:St Francis Xavier Sharing:St. Thomas of Canterbury
+2021-03-10,Bill,8650,145561,Yes,GO Technology Group Inc.,64,NA,2000 Accounts Payable,217,4701 Furnishings & Equipment:Admin Furnishings/Equip
+2021-03-10,Bill,8651,145604,Yes,GO Technology Group Inc.,64,NA,2000 Accounts Payable,217,4151 Administrative Expenses:Ofc Equipment-Supplies & Maint.
+2021-04-16,Transfer,11032,NA,Yes,NA,NA,Unmatched account balances upon import from Desktop,1107.01 Cash:Old St. Francis Xavier Accounts:St. Francis Xavier Ckg #0396,332,1107.02 Cash:Old St. Francis Xavier Accounts:St Francis Xavier EGiving #0640

@@ -1,0 +1,549 @@
+{
+    "Header": {
+        "Time": "2021-07-13T13:59:21-07:00",
+        "ReportName": "ProfitAndLoss",
+        "ReportBasis": "Accrual",
+        "StartPeriod": "2021-06-28",
+        "EndPeriod": "2021-07-05",
+        "SummarizeColumnsBy": "Total",
+        "Currency": "USD",
+        "Option": [
+            {
+                "Name": "AccountingStandard",
+                "Value": "GAAP"
+            },
+            {
+                "Name": "NoReportData",
+                "Value": "false"
+            }
+        ]
+    },
+    "Columns": {
+        "Column": [
+            {
+                "ColTitle": "",
+                "ColType": "Account",
+                "MetaData": [
+                    {
+                        "Name": "ColKey",
+                        "Value": "account"
+                    }
+                ]
+            },
+            {
+                "ColTitle": "Total",
+                "ColType": "Money",
+                "MetaData": [
+                    {
+                        "Name": "ColKey",
+                        "Value": "total"
+                    }
+                ]
+            }
+        ]
+    },
+    "Rows": {
+        "Row": [
+            {
+                "Header": {
+                    "ColData": [
+                        {
+                            "value": "Income"
+                        },
+                        {
+                            "value": ""
+                        }
+                    ]
+                },
+                "Rows": {
+                    "Row": [
+                        {
+                            "Header": {
+                                "ColData": [
+                                    {
+                                        "value": "3000 Sunday and Holy Day Collections",
+                                        "id": "20"
+                                    },
+                                    {
+                                        "value": ""
+                                    }
+                                ]
+                            },
+                            "Rows": {
+                                "Row": [
+                                    {
+                                        "Header": {
+                                            "ColData": [
+                                                {
+                                                    "value": "3011 Sunday Collection",
+                                                    "id": "21"
+                                                },
+                                                {
+                                                    "value": ""
+                                                }
+                                            ]
+                                        },
+                                        "Rows": {
+                                            "Row": [
+                                                {
+                                                    "ColData": [
+                                                        {
+                                                            "value": "3012 Sunday Collection Envelopes",
+                                                            "id": "194"
+                                                        },
+                                                        {
+                                                            "value": "5835.00"
+                                                        }
+                                                    ],
+                                                    "type": "Data"
+                                                }
+                                            ]
+                                        },
+                                        "Summary": {
+                                            "ColData": [
+                                                {
+                                                    "value": "Total 3011 Sunday Collection"
+                                                },
+                                                {
+                                                    "value": "5835.00"
+                                                }
+                                            ]
+                                        },
+                                        "type": "Section"
+                                    },
+                                    {
+                                        "Header": {
+                                            "ColData": [
+                                                {
+                                                    "value": "3015 Holy Day Collection",
+                                                    "id": "22"
+                                                },
+                                                {
+                                                    "value": ""
+                                                }
+                                            ]
+                                        },
+                                        "Rows": {
+                                            "Row": [
+                                                {
+                                                    "ColData": [
+                                                        {
+                                                            "value": "3016 Holy Day Collection Envelopes",
+                                                            "id": "197"
+                                                        },
+                                                        {
+                                                            "value": "17.00"
+                                                        }
+                                                    ],
+                                                    "type": "Data"
+                                                }
+                                            ]
+                                        },
+                                        "Summary": {
+                                            "ColData": [
+                                                {
+                                                    "value": "Total 3015 Holy Day Collection"
+                                                },
+                                                {
+                                                    "value": "17.00"
+                                                }
+                                            ]
+                                        },
+                                        "type": "Section"
+                                    }
+                                ]
+                            },
+                            "Summary": {
+                                "ColData": [
+                                    {
+                                        "value": "Total 3000 Sunday and Holy Day Collections"
+                                    },
+                                    {
+                                        "value": "5852.00"
+                                    }
+                                ]
+                            },
+                            "type": "Section"
+                        },
+                        {
+                            "Header": {
+                                "ColData": [
+                                    {
+                                        "value": "3040 Other Collections",
+                                        "id": "25"
+                                    },
+                                    {
+                                        "value": ""
+                                    }
+                                ]
+                            },
+                            "Rows": {
+                                "Row": [
+                                    {
+                                        "ColData": [
+                                            {
+                                                "value": "3041 Fuel Collection",
+                                                "id": "26"
+                                            },
+                                            {
+                                                "value": "51.00"
+                                            }
+                                        ],
+                                        "type": "Data"
+                                    },
+                                    {
+                                        "ColData": [
+                                            {
+                                                "value": "3043 School Support Collection",
+                                                "id": "198"
+                                            },
+                                            {
+                                                "value": "17.00"
+                                            }
+                                        ],
+                                        "type": "Data"
+                                    }
+                                ]
+                            },
+                            "Summary": {
+                                "ColData": [
+                                    {
+                                        "value": "Total 3040 Other Collections"
+                                    },
+                                    {
+                                        "value": "68.00"
+                                    }
+                                ]
+                            },
+                            "type": "Section"
+                        },
+                        {
+                            "Header": {
+                                "ColData": [
+                                    {
+                                        "value": "3700 Miscellaneous Income",
+                                        "id": "46"
+                                    },
+                                    {
+                                        "value": ""
+                                    }
+                                ]
+                            },
+                            "Rows": {
+                                "Row": [
+                                    {
+                                        "ColData": [
+                                            {
+                                                "value": "3706 Donations",
+                                                "id": "50"
+                                            },
+                                            {
+                                                "value": "40.00"
+                                            }
+                                        ],
+                                        "type": "Data"
+                                    }
+                                ]
+                            },
+                            "Summary": {
+                                "ColData": [
+                                    {
+                                        "value": "Total 3700 Miscellaneous Income"
+                                    },
+                                    {
+                                        "value": "40.00"
+                                    }
+                                ]
+                            },
+                            "type": "Section"
+                        }
+                    ]
+                },
+                "Summary": {
+                    "ColData": [
+                        {
+                            "value": "Total Income"
+                        },
+                        {
+                            "value": "5960.00"
+                        }
+                    ]
+                },
+                "type": "Section",
+                "group": "Income"
+            },
+            {
+                "Summary": {
+                    "ColData": [
+                        {
+                            "value": "Gross Profit"
+                        },
+                        {
+                            "value": "5960.00"
+                        }
+                    ]
+                },
+                "type": "Section",
+                "group": "GrossProfit"
+            },
+            {
+                "Header": {
+                    "ColData": [
+                        {
+                            "value": "Expenses"
+                        },
+                        {
+                            "value": ""
+                        }
+                    ]
+                },
+                "Rows": {
+                    "Row": [
+                        {
+                            "Header": {
+                                "ColData": [
+                                    {
+                                        "value": "4010 Salaries",
+                                        "id": "303"
+                                    },
+                                    {
+                                        "value": ""
+                                    }
+                                ]
+                            },
+                            "Rows": {
+                                "Row": [
+                                    {
+                                        "ColData": [
+                                            {
+                                                "value": "4012 Extra Priests",
+                                                "id": "420"
+                                            },
+                                            {
+                                                "value": "1200.00"
+                                            }
+                                        ],
+                                        "type": "Data"
+                                    }
+                                ]
+                            },
+                            "Summary": {
+                                "ColData": [
+                                    {
+                                        "value": "Total 4010 Salaries"
+                                    },
+                                    {
+                                        "value": "1200.00"
+                                    }
+                                ]
+                            },
+                            "type": "Section"
+                        },
+                        {
+                            "Header": {
+                                "ColData": [
+                                    {
+                                        "value": "4430 Other Utilities",
+                                        "id": "78"
+                                    },
+                                    {
+                                        "value": ""
+                                    }
+                                ]
+                            },
+                            "Rows": {
+                                "Row": [
+                                    {
+                                        "ColData": [
+                                            {
+                                                "value": "4434 Internet/Computer Telecom Costs",
+                                                "id": "85"
+                                            },
+                                            {
+                                                "value": "75.26"
+                                            }
+                                        ],
+                                        "type": "Data"
+                                    }
+                                ]
+                            },
+                            "Summary": {
+                                "ColData": [
+                                    {
+                                        "value": "Total 4430 Other Utilities"
+                                    },
+                                    {
+                                        "value": "75.26"
+                                    }
+                                ]
+                            },
+                            "type": "Section"
+                        },
+                        {
+                            "Header": {
+                                "ColData": [
+                                    {
+                                        "value": "4450 Maintenance & Building Repairs",
+                                        "id": "86"
+                                    },
+                                    {
+                                        "value": ""
+                                    }
+                                ]
+                            },
+                            "Rows": {
+                                "Row": [
+                                    {
+                                        "ColData": [
+                                            {
+                                                "value": "4459 Janitorial Supplies",
+                                                "id": "94"
+                                            },
+                                            {
+                                                "value": "78.54"
+                                            }
+                                        ],
+                                        "type": "Data"
+                                    }
+                                ]
+                            },
+                            "Summary": {
+                                "ColData": [
+                                    {
+                                        "value": "Total 4450 Maintenance & Building Repairs"
+                                    },
+                                    {
+                                        "value": "78.54"
+                                    }
+                                ]
+                            },
+                            "type": "Section"
+                        }
+                    ]
+                },
+                "Summary": {
+                    "ColData": [
+                        {
+                            "value": "Total Expenses"
+                        },
+                        {
+                            "value": "1353.80"
+                        }
+                    ]
+                },
+                "type": "Section",
+                "group": "Expenses"
+            },
+            {
+                "Summary": {
+                    "ColData": [
+                        {
+                            "value": "Net Operating Income"
+                        },
+                        {
+                            "value": "4606.20"
+                        }
+                    ]
+                },
+                "type": "Section",
+                "group": "NetOperatingIncome"
+            },
+            {
+                "Header": {
+                    "ColData": [
+                        {
+                            "value": "Other Income"
+                        },
+                        {
+                            "value": ""
+                        }
+                    ]
+                },
+                "Rows": {
+                    "Row": [
+                        {
+                            "Header": {
+                                "ColData": [
+                                    {
+                                        "value": "5120 Capital Collections",
+                                        "id": "125"
+                                    },
+                                    {
+                                        "value": ""
+                                    }
+                                ]
+                            },
+                            "Rows": {
+                                "Row": [
+                                    {
+                                        "ColData": [
+                                            {
+                                                "value": "5122 Church Building Fund",
+                                                "id": "129"
+                                            },
+                                            {
+                                                "value": "357.00"
+                                            }
+                                        ],
+                                        "type": "Data"
+                                    }
+                                ]
+                            },
+                            "Summary": {
+                                "ColData": [
+                                    {
+                                        "value": "Total 5120 Capital Collections"
+                                    },
+                                    {
+                                        "value": "357.00"
+                                    }
+                                ]
+                            },
+                            "type": "Section"
+                        }
+                    ]
+                },
+                "Summary": {
+                    "ColData": [
+                        {
+                            "value": "Total Other Income"
+                        },
+                        {
+                            "value": "357.00"
+                        }
+                    ]
+                },
+                "type": "Section",
+                "group": "OtherIncome"
+            },
+            {
+                "Summary": {
+                    "ColData": [
+                        {
+                            "value": "Net Other Income"
+                        },
+                        {
+                            "value": "357.00"
+                        }
+                    ]
+                },
+                "type": "Section",
+                "group": "NetOtherIncome"
+            },
+            {
+                "Summary": {
+                    "ColData": [
+                        {
+                            "value": "Net Income"
+                        },
+                        {
+                            "value": "4963.20"
+                        }
+                    ]
+                },
+                "type": "Section",
+                "group": "NetIncome"
+            }
+        ]
+    }
+}

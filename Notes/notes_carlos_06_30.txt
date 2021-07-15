@@ -1,0 +1,4 @@
+every time the last line of a for loop ends, it goes back to the condition
+every time it calls itself, take its own return value and do something with it
+
+if you concatenate a data frame to nothing, then nothing happens

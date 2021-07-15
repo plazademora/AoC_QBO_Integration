@@ -1,0 +1,15 @@
+date_rex = re.compile("^[0-9]{4}-[0-9]{2}-[0-9]{2}$")
+
+L1 accounts follow ^[0-9]{2}00
+l1_rex = re.compile("^[0-9]{2}00")
+
+L2 accounts follow ^[0-9]{3,4}
+l2_rex = re.compile("^[0-9]{3,4}")
+
+L3 accounts follow ^[0-9]{3,4}.[0-9]{2}\b
+l3_rex = re.compile("^[0-9]{3,4}.[0-9]{2}")
+
+L4 accounts follow ^[0-9]{3,4}.[0-9]{2}[a-zA-Z]
+l4_rex = re.compile("^[0-9]{3-4}.[0-9]{2}[a-zA-Z]")
+
+

@@ -1,0 +1,25 @@
+    file = open("ProfitAndLoss.json")
+    data = parse(file)
+
+def profit_and_loss(data):
+
+b_row_{row_num} = normalize(data['Rows.Row'][{row_num}])
+
+    if data DOES NOT have column 'Rows.Row':
+        if data has column 'Header.ColData':
+            iterate through row_nums:
+                b_row_{row_num} = normalize(data['Header.ColData'][{row_num}])
+                if b_row_{row_num}[1]['value'] == 0:
+                    pass
+                else:
+                    add account name, account Id, and value to df
+        elif data has column 'ColData':
+            iterate through row_nums:
+                b_row_{row_num} = normalize(data['ColData'][{row_num}]
+                add account name, account Id, and value to df
+    else:
+            profit_and_loss(data)
+            
+
+            
+            
